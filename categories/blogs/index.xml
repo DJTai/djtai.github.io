@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Taitingfong</title>
-    <link>https://djtai.github.io/</link>
-    <description>Recent content on David Taitingfong</description>
+    <title>blogs on David Taitingfong</title>
+    <link>https://djtai.github.io/categories/blogs/</link>
+    <description>Recent content in blogs on David Taitingfong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kasiyas 2020</title>
-      <link>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</link>
-      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</guid>
-      <description>Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; click here (manaitai yu&#39; gi 45 minutes 👍🏼)
-Fino&#39; Chamoru Mungnga ma’å’ñao fumino’ Chamoru,Achokka’ ennao muna’ma’å’ñao hao.Achokka’ hinasso-mu na mapput para hågu,Maolekña kumekefino&#39; ki pumåparaSiña un tutuhun på’gu na ha’åni,Lao maolek ha’ yanggen ti siña hao.Siña un tutuhun hao agupa’ lokkui’,Hasso nai, ni ngai&#39;an gof atrasao.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 13 Dec 2020 13:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/categories/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Adingani i Lahi-hu Pt. 2</title>
       <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
@@ -57,27 +47,6 @@ I wanted to share some of those phrases with you and perhaps get some feedback. 
       <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
       <description>Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.
 I&amp;rsquo;ve been meaning to get this space started for some time but, if I&amp;rsquo;m being honest, so many things have gotten in my way - and by many things I mean myself and the plethora of projects that I can&amp;rsquo;t seem to stop accruing. But as they say: there&amp;rsquo;s no better time than the present&amp;hellip;so here we are!</description>
-    </item>
-    
-    <item>
-      <title>Sources</title>
-      <link>https://djtai.github.io/resources/</link>
-      <pubDate>Sun, 07 Oct 1990 01:01:02 +0000</pubDate>
-      
-      <guid>https://djtai.github.io/resources/</guid>
-      <description>Listan Tiningu&#39; A list of Chamoru resources that I frequent:
-   Resource Notes     Learning Chamoru Chamoru dictionary &amp;amp; lessons. Account required.   Peter Onedera&amp;rsquo;s PDN Articles Siñot Onedera writes columns for the Guam PDN - every articles is in Chamoru &amp;amp; English!   Chamorro Grammar by Sandra Chung. Downloadable PDF.   Minagåhet Blog by Michael Lujan Bevacqua. General Chamoru knowledge.   Påle&#39; Eric&amp;rsquo;s Blog by Påle&#39; Eric.</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://djtai.github.io/about/</link>
-      <pubDate>Sun, 07 Oct 1990 01:01:01 +0000</pubDate>
-      
-      <guid>https://djtai.github.io/about/</guid>
-      <description>About David Taitingfong Håfa adai! Guahu si David Taitingfong &amp;mdash; welcome to my blog! If you&amp;rsquo;re curious about why I started this blog, you can read about it in my first post.
-The tl;dr version is: I&amp;rsquo;m using this space to document my journey to learn Chamoru.
-That might change overtime, but for now it is what it is. In any case, if you&amp;rsquo;re looking for more info about me then look no further than the list below!</description>
     </item>
     
   </channel>

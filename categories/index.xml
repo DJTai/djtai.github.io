@@ -6,26 +6,22 @@
     <description>Recent content in Categories on David Taitingfong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Dec 2020 13:00:00 -0700</lastBuildDate>
-    
-	<atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>chamoru</title>
-      <link>https://djtai.github.io/categories/chamoru/</link>
-      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+      <title>poems</title>
+      <link>https://djtai.github.io/categories/poems/</link>
+      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
       
-      <guid>https://djtai.github.io/categories/chamoru/</guid>
+      <guid>https://djtai.github.io/categories/poems/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>personal</title>
-      <link>https://djtai.github.io/categories/personal/</link>
+      <title>blogs</title>
+      <link>https://djtai.github.io/categories/blogs/</link>
       <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
       
-      <guid>https://djtai.github.io/categories/personal/</guid>
+      <guid>https://djtai.github.io/categories/blogs/</guid>
       <description></description>
     </item>
     
