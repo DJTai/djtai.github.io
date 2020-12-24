@@ -1,63 +1,183 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Posts on David Taitingfong</title>
+    <title>Posts on Hinanao-hu</title>
     <link>https://djtai.github.io/posts/</link>
-    <description>Recent content in Posts on David Taitingfong</description>
+    <description>Recent content in Posts on Hinanao-hu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Kasiyas 2020</title>
-      <link>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</link>
-      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</guid>
-      <description>Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; click here (manaitai yu&#39; gi 45 minutes 👍🏼)
-Fino&#39; Chamoru Mungnga ma’å’ñao fumino’ Chamoru,Achokka’ ennao muna’ma’å’ñao hao.Achokka’ hinasso-mu na mapput para hågu,Maolekña kumekefino&#39; ki pumåparaSiña un tutuhun på’gu na ha’åni,Lao maolek ha’ yanggen ti siña hao.Siña un tutuhun hao agupa’ lokkui’,Hasso nai, ni ngai&#39;an gof atrasao.</description>
-    </item>
+    <language>en</language>
+    <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
+    <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate>
     
-    <item>
-      <title>Adingani i Lahi-hu Pt. 2</title>
-      <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
-      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
-      <description>Mina&amp;rsquo;hugua: Adingani i Lahi-hu I finene&amp;rsquo;na na blog guini.
-Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.
-I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.</description>
-    </item>
+        <atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>Mampus Chaddek i Lahi-hu</title>
-      <link>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</link>
-      <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
-      
-      <guid>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</guid>
-      <description>Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu. Ai adai, guaha na biåhi ti siña hu sodda&#39; i tiempu para dumeskånsa.
-Lao gi minagåhet, eyu ha na&amp;rsquo;magof yu&#39; sa&#39; hu lili&amp;rsquo;i&#39; gui&#39; dumångkulu; mås chumachålek gui&#39;, gof ya-ña humugågandu yan hami yan si Lorie asaguå-hu, ya bula kumukuentus gui&#39;!</description>
-    </item>
     
-    <item>
-      <title>Adingani i Lahi-hu</title>
-      <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
-      <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
-      <description>Talking To My Son A note: this is a modified post from when I was blogging on write.as.
- Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu. Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.
-I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site.</description>
-    </item>
     
-    <item>
-      <title>I Tinituhon</title>
-      <link>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</link>
-      <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
+
       
-      <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
-      <description>Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.
-I&amp;rsquo;ve been meaning to get this space started for some time but, if I&amp;rsquo;m being honest, so many things have gotten in my way - and by many things I mean myself and the plethora of projects that I can&amp;rsquo;t seem to stop accruing. But as they say: there&amp;rsquo;s no better time than the present&amp;hellip;so here we are!</description>
-    </item>
+      <item>
+        <title>Kasiyas 2020</title>
+        <link>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</link>
+        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Sat, 19 Dec 2020 22:00:00 -0700</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</guid>
+        <description>Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; click here (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; translation below poem</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+        
+          
+            
+              <category>poems</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Adingani i Lahi-hu Pt. 2</title>
+        <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
+        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Sun, 13 Dec 2020 13:00:00 -0700</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
+        <description>Mina&amp;rsquo;hugua: Adingani i Lahi-hu I finene&amp;rsquo;na na blog guini.
+Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan?</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>chamoru phrases</category>
+            
+          
+            
+              <category>translation provided</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Mampus Chaddek i Lahi-hu</title>
+        <link>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</link>
+        <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Sat, 14 Nov 2020 20:00:00 -0800</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</guid>
+        <description>Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu.</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>translation provided</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>Adingani i Lahi-hu</title>
+        <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
+        <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
+        <description>Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.
+ Talking To My Son Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu.</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>chamoru phrases</category>
+            
+          
+            
+              <category>translation provided</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
+      
+      <item>
+        <title>I Tinituhon</title>
+        <link>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</link>
+        <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
+        <description>Note: Updated 2020-12-22 with added English title.
+ The Beginning Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>intro</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>

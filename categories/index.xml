@@ -1,29 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on David Taitingfong</title>
+    <title>Categories on Hinanao-hu</title>
     <link>https://djtai.github.io/categories/</link>
-    <description>Recent content in Categories on David Taitingfong</description>
+    <description>Recent content in Categories on Hinanao-hu</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>poems</title>
-      <link>https://djtai.github.io/categories/poems/</link>
-      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/categories/poems/</guid>
-      <description></description>
-    </item>
+    <language>en</language>
+    <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
+    <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate>
     
-    <item>
-      <title>blogs</title>
-      <link>https://djtai.github.io/categories/blogs/</link>
-      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+        <atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
       
-      <guid>https://djtai.github.io/categories/blogs/</guid>
-      <description></description>
-    </item>
+      <item>
+        <title>poems</title>
+        <link>https://djtai.github.io/categories/poems/</link>
+        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        
+        <guid>https://djtai.github.io/categories/poems/</guid>
+        <description></description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>blogs</title>
+        <link>https://djtai.github.io/categories/blogs/</link>
+        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        
+        <guid>https://djtai.github.io/categories/blogs/</guid>
+        <description></description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
     
   </channel>
 </rss>
