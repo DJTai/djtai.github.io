@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Categories on Hinanao-hu</title>
-    <link>https://djtai.github.io/categories/</link>
-    <description>Recent content in Categories on Hinanao-hu</description>
+    <title>chamoglish on Hinanao-hu</title>
+    <link>https://djtai.github.io/tags/chamoglish/</link>
+    <description>Recent content in chamoglish on Hinanao-hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
@@ -16,44 +16,39 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 24 Dec 2020 19:50:00 -0800</lastBuildDate>
     
-        <atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://djtai.github.io/tags/chamoglish/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
       
       <item>
-        <title>blogs</title>
-        <link>https://djtai.github.io/categories/blogs/</link>
+        <title>Magof Påsgua Nochebuena 2020</title>
+        <link>https://djtai.github.io/posts/2020-12-24-magof-pasgua-nochebuena/</link>
         <pubDate>Thu, 24 Dec 2020 19:50:00 -0800</pubDate>
         <author>DJTai@pm.me (David Jesus Taitingfong)</author>
-        
-        <guid>https://djtai.github.io/categories/blogs/</guid>
-        <description></description>
-        
-        <dc:creator>David Jesus Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>poems</title>
-        <link>https://djtai.github.io/categories/poems/</link>
-        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
-        
-        <guid>https://djtai.github.io/categories/poems/</guid>
-        <description></description>
+        <atom:modified>Thu, 24 Dec 2020 19:50:00 -0800</atom:modified>
+        <guid>https://djtai.github.io/posts/2020-12-24-magof-pasgua-nochebuena/</guid>
+        <description>Håfa adai todus hamyu yan Magof Påsgua Nochebuena para siha ni&#39; mañilebra.
+Christmas time for me today has shifted mostly towards i bandan asaguå-hu.</description>
         
         <dc:creator>David Jesus Taitingfong</dc:creator>
         
         
         
         
+          
+            
+              <category>chamoglish</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
         
         
       </item>
