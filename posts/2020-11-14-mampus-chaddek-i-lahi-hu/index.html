@@ -307,7 +307,7 @@
     var notAllowedTitleIds = null;
 
     
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     var tocLevels = JSON.parse("[\"h2\",\"h3\",\"h4\"]");
     
@@ -1686,7 +1686,7 @@
     <div class="single__nojs">This page looks best with JavaScript enabled</div>
     <script>document.querySelector('.single').classList.remove('hide'); document.querySelector('.single__nojs').classList.add('hide');</script>
     <h2 class="single__title" data-ani="true">Mampus Chaddek i Lahi-hu</h2>
-    <h3 class="single__subtitle"></h3>
+    <h3 class="single__subtitle">My Son is too fast</h3>
     <div class="single__meta">
       
 <div class="single__infos">
@@ -1718,7 +1718,6 @@
 <p>Todu ha' para på&rsquo;gu // Bula guinaiya &mdash; DJT.</p>
 <hr />
 <h2 id="english-translation">English Translation</h2>
-<h3 id="my-son-is-too-fast">My Son Is Too Fast</h3>
 <p>Every day, I see my son running around our house. He&rsquo;s at the front door, then he runs into the room, then he&rsquo;s behind me or right next to me. My goodness, sometimes I can&rsquo;t find the time to relax.</p>
 <p>But honestly, it makes me happy because I&rsquo;m seeing him grow; he&rsquo;s laughing more, he really likes playing with me and my wife, and he&rsquo;s talking so much!</p>
 <p>I can&rsquo;t wait to see what else he learns.</p>
@@ -2573,7 +2572,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var hideToc = JSON.parse("false");
     var tocFlexbox = document.querySelector('.toc__flexbox');
     var tocFlexboxOuter = document.querySelector('.toc__flexbox--outer');
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     if ((enableToc || toc) && document.querySelector('.toc')) {
       var tableOfContentsElem = document.querySelector('.toc').querySelector('#TableOfContents');
@@ -3126,14 +3125,10 @@ document.addEventListener('DOMContentLoaded', function () {
           </label>
           
         </div>
-        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+        <div class="toc toc__outer " data-dir="ltr" data-folding="false" data-ani="true">
           <nav id="TableOfContents">
   <ul>
-    <li><a href="#english-translation">English Translation</a>
-      <ul>
-        <li><a href="#my-son-is-too-fast">My Son Is Too Fast</a></li>
-      </ul>
-    </li>
+    <li><a href="#english-translation">English Translation</a></li>
   </ul>
 </nav>
         </div>

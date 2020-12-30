@@ -307,7 +307,7 @@
     var notAllowedTitleIds = null;
 
     
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     var tocLevels = JSON.parse("[\"h2\",\"h3\",\"h4\"]");
     
@@ -1686,7 +1686,7 @@
     <div class="single__nojs">This page looks best with JavaScript enabled</div>
     <script>document.querySelector('.single').classList.remove('hide'); document.querySelector('.single__nojs').classList.add('hide');</script>
     <h2 class="single__title" data-ani="true">I Tinituhon</h2>
-    <h3 class="single__subtitle"></h3>
+    <h3 class="single__subtitle">The Beginning</h3>
     <div class="single__meta">
       
 <div class="single__infos">
@@ -1717,7 +1717,6 @@
       <blockquote>
 <p>Note: Updated 2020-12-22 with added English title.</p>
 </blockquote>
-<h2 id="the-beginning">The Beginning</h2>
 <p>Buenas yan håfa adai todus hamyu! Guahu i che&rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni' un taitaitai.</p>
 <p>I&rsquo;ve been meaning to get this space started for some time but, if I&rsquo;m being honest, so many things have gotten in my way - and by many things I mean myself and the plethora of projects that I can&rsquo;t seem to stop accruing. But as they say: <strong>there&rsquo;s no better time than the present</strong>&hellip;so here we are!</p>
 <p>This blog will largely represent my journey in learning the Chamoru language. I&rsquo;m going to try and utilize tags and categories as much as possible to keep things organized, but you can expect to see writings of all forms: lessons, poems, sporadic thoughts, etc.</p>
@@ -2548,7 +2547,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var hideToc = JSON.parse("false");
     var tocFlexbox = document.querySelector('.toc__flexbox');
     var tocFlexboxOuter = document.querySelector('.toc__flexbox--outer');
-    var tocFolding = JSON.parse("true");
+    var tocFolding = JSON.parse("false");
     
     if ((enableToc || toc) && document.querySelector('.toc')) {
       var tableOfContentsElem = document.querySelector('.toc').querySelector('#TableOfContents');
@@ -3101,12 +3100,8 @@ document.addEventListener('DOMContentLoaded', function () {
           </label>
           
         </div>
-        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
-          <nav id="TableOfContents">
-  <ul>
-    <li><a href="#the-beginning">The Beginning</a></li>
-  </ul>
-</nav>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="false" data-ani="true">
+          <nav id="TableOfContents"></nav>
         </div>
       
     
