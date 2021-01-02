@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>blog on Hinanao-hu</title>
+    <link>https://djtai.github.io/categories/blog/</link>
+    <description>Recent content in blog on Hinanao-hu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
+    <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 01 Jan 2021 20:00:00 -0800</lastBuildDate>
+    
+        <atom:link href="https://djtai.github.io/categories/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Minalago&#39; Siha Para I Tinilaikan I Sakkan</title>
+        <link>https://djtai.github.io/posts/2021-01-01-minalago-siha/</link>
+        <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
+        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <atom:modified>Fri, 01 Jan 2021 20:00:00 -0800</atom:modified>
+        <guid>https://djtai.github.io/posts/2021-01-01-minalago-siha/</guid>
+        <description>Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.</description>
+        
+        <dc:creator>David Jesus Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>translation provided</category>
+            
+          
+        
+        
+          
+            
+              <category>blog</category>
+            
+          
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
