@@ -8,12 +8,13 @@
   <channel>
     <title>Series on Hinanao-hu</title>
     <link>https://djtai.github.io/series/</link>
-    <description>Recent content in Series on Hinanao-hu</description>
+    <description>On a journey to learn Chamoru via blogging in Chamoru!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
     <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     

@@ -8,13 +8,14 @@
   <channel>
     <title>Categories on Hinanao-hu</title>
     <link>https://djtai.github.io/categories/</link>
-    <description>Recent content in Categories on Hinanao-hu</description>
+    <description>On a journey to learn Chamoru via blogging in Chamoru!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
     <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 01 Jan 2021 20:00:00 -0800</lastBuildDate>
+    <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -30,7 +31,7 @@
         
         <guid>https://djtai.github.io/categories/blog/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>David Jesus Taitingfong</dc:creator>
         
         
@@ -48,7 +49,7 @@
         
         <guid>https://djtai.github.io/categories/blogs/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>David Jesus Taitingfong</dc:creator>
         
         
@@ -66,7 +67,7 @@
         
         <guid>https://djtai.github.io/categories/poems/</guid>
         <description></description>
-        
+        <content:encoded></content:encoded>
         <dc:creator>David Jesus Taitingfong</dc:creator>
         
         
