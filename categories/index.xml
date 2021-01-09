@@ -11,10 +11,10 @@
     <description>On a journey to learn Chamoru via blogging in Chamoru!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>DJTai@pm.me (David Jesus Taitingfong)</managingEditor>
-    <webMaster>DJTai@pm.me (David Jesus Taitingfong)</webMaster>
+    <managingEditor>DJTai@pm.me (David J. Taitingfong)</managingEditor>
+    <webMaster>DJTai@pm.me (David J. Taitingfong)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 01 Jan 2021 20:00:00 -0800</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jan 2021 23:10:42 -0800</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -24,33 +24,15 @@
 
       
       <item>
-        <title>blog</title>
-        <link>https://djtai.github.io/categories/blog/</link>
-        <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
-        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
-        
-        <guid>https://djtai.github.io/categories/blog/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Jesus Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
         <title>blogs</title>
         <link>https://djtai.github.io/categories/blogs/</link>
-        <pubDate>Thu, 24 Dec 2020 19:50:00 -0800</pubDate>
-        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <pubDate>Thu, 07 Jan 2021 23:10:42 -0800</pubDate>
+        <author>DJTai@pm.me (David J. Taitingfong)</author>
         
         <guid>https://djtai.github.io/categories/blogs/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>David Jesus Taitingfong</dc:creator>
+        <dc:creator>David J. Taitingfong</dc:creator>
         
         
         
@@ -63,12 +45,12 @@
         <title>poems</title>
         <link>https://djtai.github.io/categories/poems/</link>
         <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        <author>DJTai@pm.me (David Jesus Taitingfong)</author>
+        <author>DJTai@pm.me (David J. Taitingfong)</author>
         
         <guid>https://djtai.github.io/categories/poems/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>David Jesus Taitingfong</dc:creator>
+        <dc:creator>David J. Taitingfong</dc:creator>
         
         
         
