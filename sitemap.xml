@@ -1,119 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</loc>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/categories/blogs/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/categories/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/</loc>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/posts/</loc>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/tags/</loc>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/tags/translation-provided/</loc>
+    <lastmod>2021-03-01T12:47:16-08:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</loc>
     <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djtai.github.io/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djtai.github.io/posts/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djtai.github.io/tags/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://djtai.github.io/tags/translation-provided/</loc>
-    <lastmod>2021-01-27T21:43:29-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</loc>
     <lastmod>2021-01-07T23:10:42-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2021-01-01-minalago-siha/</loc>
     <lastmod>2021-01-01T20:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/tags/chamoglish/</loc>
     <lastmod>2020-12-24T19:50:00-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-12-24-magof-pasgua-nochebuena/</loc>
     <lastmod>2020-12-24T19:50:00-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/resources/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/support/</loc>
-    <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</loc>
     <lastmod>2020-12-19T22:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/categories/poems/</loc>
     <lastmod>2020-12-19T22:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</loc>
     <lastmod>2020-12-13T13:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/tags/chamoru-phrases/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</loc>
     <lastmod>2020-11-14T20:00:00-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/tags/intro/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/about/</loc>
     <lastmod>1990-10-07T01:01:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://djtai.github.io/series/</loc>
   </url>
-  
 </urlset>
