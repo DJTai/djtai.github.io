@@ -11,9 +11,7 @@
     <description>On a journey to learn Chamoru via blogging in Chamoru!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <managingEditor>DJTai@pm.me (David J. Taitingfong)</managingEditor>
-    <webMaster>DJTai@pm.me (David J. Taitingfong)</webMaster>
-    <copyright>&amp;copy;{year} David J. Taitingfong, All Rights Reserved</copyright>
+    <copyright>&amp;copy;{year} David Taitingfong, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 16 Mar 2021 20:58:35 -0700</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
@@ -25,12 +23,12 @@
         <title>blogs</title>
         <link>https://djtai.github.io/categories/blogs/</link>
         <pubDate>Tue, 16 Mar 2021 20:58:35 -0700</pubDate>
-        <author>DJTai@pm.me (David J. Taitingfong)</author>
+        
         
         <guid>https://djtai.github.io/categories/blogs/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>David J. Taitingfong</dc:creator>
+        <dc:creator>David Taitingfong</dc:creator>
         
         
         
@@ -43,12 +41,12 @@
         <title>poems</title>
         <link>https://djtai.github.io/categories/poems/</link>
         <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        <author>DJTai@pm.me (David J. Taitingfong)</author>
+        
         
         <guid>https://djtai.github.io/categories/poems/</guid>
         <description></description>
         <content:encoded></content:encoded>
-        <dc:creator>David J. Taitingfong</dc:creator>
+        <dc:creator>David Taitingfong</dc:creator>
         
         
         
