@@ -8,11 +8,11 @@
   <channel>
     <title>Tags on Hinanao-hu</title>
     <link>https://djtai.github.io/tags/</link>
-    <description>On a journey to learn Chamoru via blogging in Chamoru!</description>
+    <description>Recent content in Tags on Hinanao-hu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy;{year} David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Jun 2021 12:43:39 -0700</lastBuildDate>
+    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 21 Jul 2021 11:25:03 -0700</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -20,12 +20,12 @@
 
       
       <item>
-        <title>translation-provided</title>
-        <link>https://djtai.github.io/tags/translation-provided/</link>
-        <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
+        <title>chamoglish</title>
+        <link>https://djtai.github.io/tags/chamoglish/</link>
+        <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
         
         
-        <guid>https://djtai.github.io/tags/translation-provided/</guid>
+        <guid>https://djtai.github.io/tags/chamoglish/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>David Taitingfong</dc:creator>
@@ -38,12 +38,12 @@
       </item>
       
       <item>
-        <title>chamoglish</title>
-        <link>https://djtai.github.io/tags/chamoglish/</link>
-        <pubDate>Thu, 24 Dec 2020 19:50:00 -0800</pubDate>
+        <title>translation-provided</title>
+        <link>https://djtai.github.io/tags/translation-provided/</link>
+        <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
         
         
-        <guid>https://djtai.github.io/tags/chamoglish/</guid>
+        <guid>https://djtai.github.io/tags/translation-provided/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>David Taitingfong</dc:creator>

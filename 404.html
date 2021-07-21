@@ -661,6 +661,12 @@
     
     var enableSearch = JSON.parse("false");
     
+    var searchDistance = JSON.parse("null");
+    
+    var searchThreshold = JSON.parse("null");
+    
+    var searchContent = JSON.parse("null");
+    
     var enableSearchHighlight = JSON.parse("false");
     
     var searchResultPosition = JSON.parse("\"main\"");
@@ -684,12 +690,13 @@
         xhr.onload = function () {
           if (xhr.status === 200) {
             fuse = new Fuse(JSON.parse(xhr.response.toString('utf-8')), {
-              keys: sectionType.includes('publication') ? ['title', 'abstract'] : ['title', 'description', 'content'],
+              keys: sectionType.includes('publication') ? ['title', 'abstract'] : 
+                searchContent ? ['title', 'description', 'content'] : ['title', 'description'],
               includeMatches: enableSearchHighlight,
               shouldSort: true, 
-              threshold: 0.4, 
+              threshold: searchThreshold ? searchThreshold : 0.4, 
               location: 0, 
-              distance: 100, 
+              distance: searchDistance ? searchDistance : 100, 
               maxPatternLength: 32,
               minMatchCharLength: 1,
               isCaseSensitive: false, 
@@ -713,7 +720,7 @@
       var a = document.createElement('a');
       a.innerHTML = obj.item.title;
       a.setAttribute('class', 'search-result__item--title');
-      a.setAttribute('href', obj.item.permalink);
+      a.setAttribute('href', obj.item.uri);
 
       var descDiv = document.createElement('div');
       descDiv.setAttribute('class', 'search-result__item--desc');
@@ -1313,7 +1320,8 @@
     }
   
   });
-</script>    
+</script>
+    
     
 
 
@@ -1321,7 +1329,7 @@
 
 
     
-<meta name="description" content="Hinanao-hu na Chamoru" />
+<meta name="description" content="David Taitingfong&#39;s journey" />
 
 
 <meta name="created" content="0001-01-01T00:00:00&#43;0000">
@@ -1335,7 +1343,7 @@
 <meta property="og:title" content="404 Page not found">
 <meta property="og:url" content="https://djtai.github.io/404.html">
 <meta property="og:type" content="website">
-<meta property="og:description" content="Hinanao-hu na Chamoru">
+<meta property="og:description" content="David Taitingfong&#39;s journey">
 
 <meta name="generator" content="Hugo 0.83.1" />
 <meta name="msapplication-TileColor" content="#fff">
@@ -1350,22 +1358,10 @@
 
 <link rel="manifest" href="/manifest.json">
 
-  <link rel="apple-touch-icon" sizes="57x57" href="/favicon/apple-icon-57x57.png">
-  <link rel="apple-touch-icon" sizes="60x60" href="/favicon/apple-icon-60x60.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="/favicon/apple-icon-72x72.png">
-  <link rel="apple-touch-icon" sizes="76x76" href="/favicon/apple-icon-76x76.png">
-  <link rel="apple-touch-icon" sizes="114x114" href="/favicon/apple-icon-114x114.png">
-  <link rel="apple-touch-icon" sizes="120x120" href="/favicon/apple-icon-120x120.png">
-  <link rel="apple-touch-icon" sizes="144x144" href="/favicon/apple-icon-144x144.png">
-  <link rel="apple-touch-icon" sizes="152x152" href="/favicon/apple-icon-152x152.png">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-icon-180x180.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-192x192.png">
-  <link rel="icon" type="image/png" sizes="192x192" href="/favicon/android-icon-512x512.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-  <meta name="msapplication-TileColor" content="#ffffff">
-  <meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.png" sizes="any" type="image/png" />
+  
 
 
     <script type="application/ld+json">
@@ -1374,7 +1370,7 @@
     "@type": "WebPage",
     "url" : "https://djtai.github.io/404.html",
     "name": "404 Page not found",
-    "description": "Hinanao-hu na Chamoru",
+    "description": "David Taitingfong's journey",
     "mainEntityOfPage": {
       "@type": "WebPage",
       "@id": "https://djtai.github.io/"
@@ -1448,6 +1444,14 @@
         
         <a href="#" class="dropdown-item select-theme__item ">
           hacker
+        </a>
+        
+        <a href="#" class="dropdown-item select-theme__item ">
+          solarized
+        </a>
+        
+        <a href="#" class="dropdown-item select-theme__item ">
+          kimbie
         </a>
         
       
@@ -1541,6 +1545,14 @@
         
         <a href="#" class="dropdown-item select-theme__item ">
           hacker
+        </a>
+        
+        <a href="#" class="dropdown-item select-theme__item ">
+          solarized
+        </a>
+        
+        <a href="#" class="dropdown-item select-theme__item ">
+          kimbie
         </a>
         
       
