@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 21 Jul 2021 11:25:03 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 11 Aug 2021 21:25:00 -0700</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -29,6 +29,77 @@
         
       
 
+      
+      <item>
+        <title>Mama&#39;titinas Trongkun Manggåfa</title>
+        <link>https://djtai.github.io/posts/2021-08-10-trongkun-manggafa/</link>
+        <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
+        <author>David Taitingfong</author>
+        <atom:modified>Wed, 11 Aug 2021 21:25:00 -0700</atom:modified>
+        <guid>https://djtai.github.io/posts/2021-08-10-trongkun-manggafa/</guid>
+        <description>I&#39;ve been on a journey to document my family tree in a tech-saavy way.</description>
+        <content:encoded>&lt;p&gt;I&amp;rsquo;ve been on a journey to document my family tree in a tech-saavy way. It started off simple: try and find out who my great-grandparents were. I honestly didn&amp;rsquo;t think I&amp;rsquo;d get past that because before this I couldn&amp;rsquo;t even tell you the names of any of my great-grandparents. But as you&amp;rsquo;ll soon find out, my simple task turned into a research-heavy adventure which is still ongoing.&lt;/p&gt;
+&lt;p&gt;This wasn&amp;rsquo;t on my to-do list until recently - I&amp;rsquo;d say within the last 2 years. I never really thought about any family past my grandparents; I never wondered who their parents or grandparents were. I also gave little thought to who their siblings were. I mean, growing up it just wasn&amp;rsquo;t something that they talked about. I want to say that I didn&amp;rsquo;t even know if they had &lt;em&gt;had&lt;/em&gt; any siblings, although that became apparent closer to when I was in high school and started meeting extended family. It wouldn&amp;rsquo;t be until the passing of my grandmas that I would start to pay more attention. And it wouldn&amp;rsquo;t be until just about 2 years ago that I would start digging into my family history.&lt;/p&gt;
+&lt;p&gt;| &lt;strong&gt;Note&lt;/strong&gt;: I&amp;rsquo;ll refer to my grandparents as Grandma/Grandpa A and Grandma/Grandpa T; Aquiningoc and Taitingfong respectively.&lt;/p&gt;
+&lt;h2 id=&#34;gathering-documents&#34;&gt;Gathering Documents&lt;/h2&gt;
+&lt;p&gt;The first event that really triggered my search was receiving documents about my mom&amp;rsquo;s side of the family. My aunt had been holding onto them from when she was cleaning house, and I guess she just never thought that it would be of any excitement to us. I recall asking about family names - clan names in particular - and she went to her room to retrieve all the stuff she had. When she came back I was astounded: she had birth certificates, death certificates, legal documents, obituaries, funeral pamphlets, social security cards, and a lot more. The documents that piqued my interest were the ones about my grandma A&amp;rsquo;s siblings and some homemade lineage documents for my grandpa A&amp;rsquo;s side. I saw &amp;ldquo;Aquiningoc&amp;rdquo; on that paper but none of the names looked remotely familiar.&lt;/p&gt;
+&lt;p&gt;Later that week I asked my dad what he knew about his parents. He told me not much but that he would ask his siblings what they knew. Within a few hours my dad had text me some scans: a photo of my grandpa T&amp;rsquo;s mom, a photo of my grandma T and &lt;em&gt;her&lt;/em&gt; grandma, and a homemade lineage document detailing my grandma T&amp;rsquo;s family.&lt;/p&gt;
+&lt;p&gt;The two lineage documents were incredible finds. The one for my grandma T started with &lt;em&gt;her&lt;/em&gt; grandparents. It listed &lt;em&gt;their&lt;/em&gt; kids and all the grandchildren. My grandma was one of those grandchildren. Success: I found a set of great-grandparents!&lt;/p&gt;
+&lt;p&gt;The one for my grandpa A was even more interesting. It was laid out in a similar fashion: grandparents at the top, children below, and grandchildren below that. But my grandpa wasn&amp;rsquo;t on this list&amp;hellip;his dad wasn&amp;rsquo;t even on the list. I would come to find out that it was my grandpa A&amp;rsquo;s grandpa listed&amp;hellip;as a grandchild! So not only did I find another set of great-grandparents, but a set of &lt;em&gt;their&lt;/em&gt; great-grandparents.&lt;/p&gt;
+&lt;div style=&#34;width:80%&#34;&gt;&lt;div style=&#34;height:0;padding-bottom:56.111111111111114%;position:relative;width:100%&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameBorder=&#34;0&#34; height=&#34;100%&#34; src=&#34;https://giphy.com/embed/KuKm4I6OjNwoZ68np7/video&#34; style=&#34;left:0;position:absolute;top:0&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;I was so amazed yet at the same time a bit sad. These were people I never learned about and, &lt;em&gt;gi minagåhet&lt;/em&gt;, likely never will. I made a decision right there to document everything I could; to create something that I can pass down to my children and to my siblings and cousins and aunts and &lt;em&gt;todu i manggafå-hu&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;I started writing down names on paper but that got out of hand quickly. Thus started my search for a tool I could easily use and (hopefully) easily share.&lt;/p&gt;
+&lt;h2 id=&#34;finding-the-right-tool&#34;&gt;Finding the Right Tool&lt;/h2&gt;
+&lt;p&gt;They say the best time to start something was yesterday; the next best time is right now. With that in mind I figured I&amp;rsquo;d start with a spreadsheet-like program, so I started working in Google Sheets. It started off easy because I had only noted down my immediate family and my grandparents from both sides. When it came to writing down my uncles and aunts though I started to realize that wow: this is going to get out of hand quickly; my dad is 1 of 10, my mom is 1 of 6&amp;hellip;I don&amp;rsquo;t know about my grandparents, but I knew from the documents I had that their families were also &amp;ldquo;big&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;While continuing to work in Google Sheets I started to also look for alternatives because what started as a 3 sheet file grew into 16 sheets&amp;hellip;and that was just going &lt;strong&gt;up&lt;/strong&gt; my family tree, i.e., I was only tracing parents and their parents and their parents and etc. I was able to track &lt;em&gt;i mañainå-hu&lt;/em&gt; back 6 generations. Things started getting complicated and I needed a new tool.&lt;/p&gt;
+&lt;iframe src=&#34;https://giphy.com/embed/Go19CKEFdS6JvnPVP3&#34; width=&#34;480&#34; height=&#34;200&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/thefastsaga-fast-and-furious-saga-fate-of-the-Go19CKEFdS6JvnPVP3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I temporarily used MyHeritage because it was convenient &amp;amp; had a decent amount of data I could use. There also were people there that had connections to some of my great- and great-great-grandparents, and to be honest that was pretty cool. But MyHeritage had it&amp;rsquo;s limitations: the desktop app was great, but it felt like most of the magic was happening on the web-side; also, most of the data that I needed to fill in the gaps in my tree were behind paywalls.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sidebar:&lt;/strong&gt; I much prefer desktop apps as opposed to web apps. From a business perspective, I understand why web apps are more ubiquitous&amp;hellip;but I tend to opt for desktop.&lt;/p&gt;
+&lt;p&gt;I paused on entering new data and went to search for a different tool. That&amp;rsquo;s when I came across &lt;a href=&#34;https://gramps-project.org/blog/&#34;&gt;Gramps&lt;/a&gt;, an open-source genealogical research software - it&amp;rsquo;s essentially a database (DB) with a decent GUI. This felt right up my alley: 1) it&amp;rsquo;s a desktop app, 2) it&amp;rsquo;s open-source, and 3) it&amp;rsquo;s written in &lt;a href=&#34;https://www.python.org/&#34;&gt;my favorite coding language&lt;/a&gt;! Okay, I&amp;rsquo;m getting off track but the point is: I found the right tool.&lt;/p&gt;
+&lt;p&gt;Once I got the app installed, I probably spent a straight 12 hours just entering information and getting things to a presentable state.&lt;/p&gt;
+&lt;h2 id=&#34;finding-external-sources&#34;&gt;Finding External Sources&lt;/h2&gt;
+&lt;p&gt;I spent a few days on-and-off going between my documents and my DB, but it came to a point where I felt like I&amp;rsquo;d exhausted all internal sources. I kept trying to climb up my family tree but I eventually hit the canopy, so to speak. I had gained so much momentum and made so much progress that I didn&amp;rsquo;t want to it stop&amp;hellip;but it did. I hit a wall for a few weeks and accepted that I would just continue when something came my way. I stopped working on my tree for about 2 months until I had this urge to revisit my sources, and I&amp;rsquo;m so glad I did. My next big leaps came in two parts.&lt;/p&gt;
+&lt;p&gt;Part 1: stumbling upon the incredible work of &lt;a href=&#34;https://chamorroroots.com/v7/&#34;&gt;Siñot Bernard Punzalan&lt;/a&gt;, particularly a PDF he created &lt;a href=&#34;https://www.academia.edu/36201434/I_N%C3%85AN_MANGG%C3%85FAN_TAOTAO_H%C3%85YA_CHAMORRO_FAMILY_CLAN_NAMES&#34;&gt;which contains Chamoru clan names&lt;/a&gt;. It was from this PDF that I was able to confirm some clan names that my parents had told me about. I figured, hey: I can probably find more info if I not only searched by my family names but my &lt;strong&gt;clan names&lt;/strong&gt; as well, which ultimately led me to part two.&lt;/p&gt;
+&lt;p&gt;Part 2: finding a set of great-grandparents for &lt;em&gt;my&lt;/em&gt; grandma A via a blog written by &lt;a href=&#34;https://paleric.blogspot.com/2013/01/family-nicknames-gutos.html&#34;&gt;Påle&#39; Eric&lt;/a&gt;. It was around this moment that I realized just how much info Påle&#39; Eric had on his blog. After spending more time reading on his site, I came across &lt;a href=&#34;https://paleric.blogspot.com/2015/06/whaling-contract-of-josen-kueto.html&#34;&gt;another blog&lt;/a&gt; which helped me (very likely) confirm my ancestry back 9 generations! Honestly though, I wouldn&amp;rsquo;t have second-guessed this blog if I hadn&amp;rsquo;t already spent some time in MyHeritage, because it was there that I discovered more people from my &lt;a href=&#34;https://www.myheritage.com/research?action=query&amp;amp;formId=master&amp;amp;formMode=1&amp;amp;qname=Name+fn.Maria%2F3nicolasa+fnmo.2+fnmsvos.1+fnmsmi.1+ln.Manahane+lnmo.4+lnmsdm.1+lnmsmf3.1+lnmsrs.1&#34;&gt;Aquiningoc/Taitano side&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have a feeling I&amp;rsquo;ll be able to get more info later on when I&amp;rsquo;m able to sub to Siñot Bernard&amp;rsquo;s &lt;a href=&#34;https://www.chamorroroots.com/v7/index.php/the-store/subscription-plans-available/subscribe?group_id=5&#34;&gt;Chamorro Roots Database&lt;/a&gt;, but for the time being I&amp;rsquo;ve slowed down on the tree.&lt;/p&gt;
+&lt;h2 id=&#34;my-tree-right-now&#34;&gt;My Tree Right Now&lt;/h2&gt;
+&lt;p&gt;As of today, this is what my &amp;ldquo;family tree&amp;rdquo; (in fan-form) looks like right now.&lt;/p&gt;
+&lt;p&gt;My dad&amp;rsquo;s side: &lt;img src=&#34;https://djtai.github.io/images/2021-08-11_CastroTaitingfong.png&#34; alt=&#34;Fan chart showing my dad&amp;rsquo;s side of my family tree&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;My mom&amp;rsquo;s side: &lt;img src=&#34;https://djtai.github.io/images/2021-08-11_MendiolaAquiningoc.png&#34; alt=&#34;Half-fan chart showing my mom&amp;rsquo;s side of my family tree&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, I was able to at least get all of my great-grandparents. I&amp;rsquo;m still missing a few great-great-grandparents, and honestly from there it&amp;rsquo;s scrambled. Truth be told, I&amp;rsquo;m incredibly surprised I was able to get as much info as I have! For now I think I&amp;rsquo;m going to focus on my uncles, aunts, and cousins. I&amp;rsquo;m hoping to be able to create something that I can share at big family gatherings. I also plan on doing my wife&amp;rsquo;s side. &lt;em&gt;Gi minagåhet&lt;/em&gt;, this is fun and relaxing for me.&lt;/p&gt;
+&lt;p&gt;I think this seals it - I&amp;rsquo;m our self-proclaimed Family Historian 😎.&lt;/p&gt;
+&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Extra info:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gramps-project/gramps&#34;&gt;Gramps GitHub&lt;/a&gt; page&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bellevue.academia.edu/BPunzalan/Papers&#34;&gt;Other papers&lt;/a&gt; by Siñot Bernard Punzalan&lt;/li&gt;
+&lt;/ul&gt;
+</content:encoded>
+        <dc:creator>David Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tech</category>
+            
+          
+            
+              <category>guåhu</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Ha&#39;ånen &#34;Liberasión&#34;</title>
