@@ -12,12 +12,65 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 21:25:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
 
+      
+      <item>
+        <title>Guaha Mampus Palåbra Siha</title>
+        <link>https://djtai.github.io/posts/2021-09-26-guaha-mampus-palabra/</link>
+        <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
+        
+        <atom:modified>Sun, 26 Sep 2021 15:10:00 -0700</atom:modified>
+        <guid>https://djtai.github.io/posts/2021-09-26-guaha-mampus-palabra/</guid>
+        <description>Håfa adai todus hamyu guennao huyung ni&#39; tumataitai esti!
+It&amp;rsquo;s been over a month-and-a-half since I&amp;rsquo;ve blogged and not a week has gone by where I thought to myself, &amp;ldquo;ai adai, debi di bai fa&amp;rsquo;tinas otru na blog&amp;rdquo;, but honestly my schedule has just been todu machalapon.</description>
+        <content:encoded>&lt;p&gt;&lt;em&gt;Håfa adai todus hamyu guennao huyung ni&#39; tumataitai esti!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s been over a month-and-a-half since I&amp;rsquo;ve blogged and not a week has gone by where I thought to myself, &amp;ldquo;&lt;em&gt;ai adai, debi di bai fa&amp;rsquo;tinas otru na blog&lt;/em&gt;&amp;rdquo;, but honestly my schedule has just been &lt;em&gt;todu machalapon&lt;/em&gt;. I had to take a step back from dang near everything and reasses my priorities and how I spend my time outside of work - hence my absence 😅.&lt;/p&gt;
+&lt;p&gt;BUT it was much needed as I&amp;rsquo;m here now and ready to share a bit about what I&amp;rsquo;ve been working on, which is: &lt;strong&gt;a personal Chamoru dictionary stored on my computer.&lt;/strong&gt; This project was born out of three &amp;ldquo;issues&amp;rdquo; I kept running into:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;My favorite go-to resource for looking up Chamoru words (&lt;a href=&#34;https://learningchamoru.com/&#34;&gt;LearningChamoru.com&lt;/a&gt;) required too many steps*&lt;/li&gt;
+&lt;li&gt;There were a lot of words I couldn&amp;rsquo;t find when searching&lt;/li&gt;
+&lt;li&gt;Number 1 seems to only reflect the Guam Orthography, and I wanted something &amp;ldquo;more complete&amp;rdquo;  (i.e., something with words spelled using the CNMI orthography)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;* Too many steps = opening a browser, clicking login, logging in, scrolling down to &amp;ldquo;Dictionary&amp;rdquo;, and then searching for a word.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pues, hu tutuhun i hinanao-hu&lt;/em&gt;. I created a template of what I thought a dictionary would look like on the back-end (in a database) and I started gathering as many words as I could find. Anytime I came across a new word, I&amp;rsquo;d pop open my database and add it in there. It took an egregious amount of time but I finally got to a place where I felt comfortable enough to start working on a &amp;ldquo;front-end&amp;rdquo; to access the database. I put that in quotes because in it&amp;rsquo;s current state I can only access it from a terminal/command-line interface (CLI). I started it off this way &lt;em&gt;sa&#39; gi minagåhet&lt;/em&gt;, it&amp;rsquo;s where I live when I code. Also it&amp;rsquo;s the fastest way I can access the database. Essentially I created a small program that allows me to access it via the CLI.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a screenshot of me running the program:&lt;br /&gt;
+&lt;img src=&#34;https://djtai.github.io/images/2021-09-26_CLI.png&#34; alt=&#34;Screenshot of a terminal/CLI running a program. There&amp;rsquo;s a prompt, &amp;ldquo;Search for (leave blank to exit)&amp;rdquo;, and then some input and some output.s&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re unfamiliar with what you&amp;rsquo;re looking at, it&amp;rsquo;s a terminal/CLI. The points of interest are the second line, where you see &lt;code&gt;└─ $ sodda&lt;/code&gt;, and then the text afterwards. My program runs when I type &lt;code&gt;sodda&lt;/code&gt; and hit enter. I get prompted for a word to search for (in this case I entered &amp;quot; &lt;em&gt;tungo&#39; &amp;ldquo;&lt;/em&gt;), and then if it finds something I get results back. Otherwise it says it can&amp;rsquo;t find the word and the prompts just continue until I exit.&lt;/p&gt;
+&lt;p&gt;Cleaning the data and structuring how everything is stored/returned actually took the most amount of time. I wrote a lot of small helper programs to do things like sort the words, remove misformed words, and add new words, but I still have a lot of work ahead of me. There are still ~3000 words I have that I need to add but don&amp;rsquo;t have exact translations for. There are also a bunch of words I just straight up don&amp;rsquo;t have either.&lt;/p&gt;
+&lt;p&gt;To give you a sense of how big this dictionary has gotten, here is where I&amp;rsquo;m at:&lt;br /&gt;
+&lt;img src=&#34;https://djtai.github.io/images/2021-09-26_JSON.png&#34; alt=&#34;Screenshot of JSON file as it appears in Visual Studio Code. The object key is a Chamoru word and the object values are definitions, types, chamoru_examples, english_examples, see_also, other_spellings, sources, pronunciation, and origin.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Currently I store everything in a &lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON file&lt;/a&gt;, where each word will take up roughly ~20-25 lines. This is near the bottom of the file and as you can see it&amp;rsquo;s around 340,000 lines (last I checked, there were ~17,000 words). Some functionality is still missing like a) being able to give an English word and get a Chamoru word back, and b) giving suggestions/alternative spellings to what you provided.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Hinasso-ku na sen pairi esti!&amp;hellip;lao&lt;/em&gt;&amp;hellip;there&amp;rsquo;s one potential problem. I haven&amp;rsquo;t put this out there yet for everyone to see and try because I actually don&amp;rsquo;t know if I legally can 🤔.&lt;/p&gt;
+&lt;p&gt;I haven&amp;rsquo;t mentioned this yet, and perhaps you were able to pick it up from earlier when I mentioned why I created this tool, but&amp;hellip;I didn&amp;rsquo;t create a majority of this information from scratch. I made use of LearningChamoru.com, news articles from the &lt;a href=&#34;https://www.guampdn.com/&#34;&gt;GuamPDN&lt;/a&gt;, and any blog I could find that seemed like a great resource for filling up a dictionary. So for example, let&amp;rsquo;s say you use this tool and look up the word &amp;ldquo;&lt;em&gt;magof&lt;/em&gt;&amp;rdquo; - one of the definitions you&amp;rsquo;d get back is the same one you&amp;rsquo;d find in LearningChamoru.com, word-for-word.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Pues hunggan&lt;/em&gt;, as much as I want to share this &lt;strong&gt;right now&lt;/strong&gt;, there are still some things I need to figure out. Things like: if I put this dictionary out there, say on a website, would I receive a cease &amp;amp; desist? Could I get sued for copyright infringement? Would I be fine so long as I attribute my data to their correct creators? Etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Now that I think about it though&amp;hellip;the front-end stuff I can probably share. You&amp;rsquo;d of course need a dictionary stored in a same-structured JSON, but that general structure I can also share. But for now, this is all I&amp;rsquo;ll share. When I get more answers and more data and create something more accessible, I&amp;rsquo;ll give another update!&lt;/p&gt;
+&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
+</content:encoded>
+        <dc:creator>David Taitingfong</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>tech</category>
+            
+          
+        
+        
+          
+            
+              <category>blogs</category>
+            
+          
+        
+        
+      </item>
       
       <item>
         <title>Mama&#39;titinas Trongkun Manggåfa</title>

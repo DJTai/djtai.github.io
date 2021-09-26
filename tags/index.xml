@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 11 Aug 2021 21:25:00 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate>
     <sy:updatePeriod>daily</sy:updatePeriod>
     
         <atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -20,12 +20,12 @@
 
       
       <item>
-        <title>guåhu</title>
-        <link>https://djtai.github.io/tags/gu%C3%A5hu/</link>
-        <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
+        <title>tech</title>
+        <link>https://djtai.github.io/tags/tech/</link>
+        <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
         
         
-        <guid>https://djtai.github.io/tags/gu%C3%A5hu/</guid>
+        <guid>https://djtai.github.io/tags/tech/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>David Taitingfong</dc:creator>
@@ -38,12 +38,12 @@
       </item>
       
       <item>
-        <title>tech</title>
-        <link>https://djtai.github.io/tags/tech/</link>
+        <title>guåhu</title>
+        <link>https://djtai.github.io/tags/gu%C3%A5hu/</link>
         <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
         
         
-        <guid>https://djtai.github.io/tags/tech/</guid>
+        <guid>https://djtai.github.io/tags/gu%C3%A5hu/</guid>
         <description></description>
         <content:encoded></content:encoded>
         <dc:creator>David Taitingfong</dc:creator>
