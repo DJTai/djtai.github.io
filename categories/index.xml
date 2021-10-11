@@ -1,61 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hinanao-hu</title>
+    <title>Categories on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/categories/</link>
-    <description>Recent content in Categories on Hinanao-hu</description>
+    <description>Recent content in Categories on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blogs</title>
+      <link>https://djtai.github.io/categories/blogs/</link>
+      <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/categories/blogs/</guid>
+      <description></description>
+    </item>
     
-        <atom:link href="https://djtai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>meta</title>
+      <link>https://djtai.github.io/categories/meta/</link>
+      <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/categories/meta/</guid>
+      <description></description>
+    </item>
     
-
+    <item>
+      <title>poems</title>
+      <link>https://djtai.github.io/categories/poems/</link>
+      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
       
-      <item>
-        <title>blogs</title>
-        <link>https://djtai.github.io/categories/blogs/</link>
-        <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/categories/blogs/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>poems</title>
-        <link>https://djtai.github.io/categories/poems/</link>
-        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/categories/poems/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/categories/poems/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

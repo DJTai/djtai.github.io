@@ -1,75 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>poems on Hinanao-hu</title>
+    <title>poems on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/categories/poems/</link>
-    <description>Recent content in poems on Hinanao-hu</description>
+    <description>Recent content in poems on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
-    
-        <atom:link href="https://djtai.github.io/categories/poems/index.xml" rel="self" type="application/rss+xml" />
-    
-
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Dec 2020 22:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/categories/poems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kasiyas 2020</title>
+      <link>https://djtai.github.io/kasiyas-2020/</link>
+      <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
       
-      <item>
-        <title>Kasiyas 2020</title>
-        <link>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</link>
-        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        
-        <atom:modified>Sat, 19 Dec 2020 22:00:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</guid>
-        <description>Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; click here (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; translation below poem</description>
-        <content:encoded>&lt;p&gt;Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.facebook.com/inestudianchamoru/videos/383447836086968&#34;&gt;click here&lt;/a&gt; (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; &lt;em&gt;translation below poem&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;fino-chamoru&#34;&gt;Fino&#39; Chamoru&lt;/h2&gt;
-&lt;p&gt;Mungnga ma’å’ñao fumino’ Chamoru,&lt;br /&gt;
-Achokka’ ennao muna’ma’å’ñao hao.&lt;br /&gt;
-Achokka’ hinasso-mu na mapput para hågu,&lt;br /&gt;
-Maolekña kumekefino&#39; ki pumåpara&lt;/p&gt;
-&lt;p&gt;Siña un tutuhun på’gu na ha’åni,&lt;br /&gt;
-Lao maolek ha’ yanggen ti siña hao.&lt;br /&gt;
-Siña un tutuhun hao agupa’ lokkui’,&lt;br /&gt;
-Hasso nai, ni ngai&amp;rsquo;an gof atrasao.&lt;/p&gt;
-&lt;p&gt;Achokka&#39; gof chaochao i hinanao-mu&lt;br /&gt;
-Pat annåkku’ lokkui’, taiguennao para guahu.&lt;br /&gt;
-Lao, mungnga nai chumathinassu,&lt;br /&gt;
-Yanggen malago&#39; hao ayuda, pues gaigi yu’.&lt;/p&gt;
-&lt;p&gt;Ya mangaigi siha lokkui’, todu manga&amp;rsquo;chong-ta;&lt;br /&gt;
-Todu taotao guennao huyung ni’ mane’eyak.&lt;br /&gt;
-Todu i taotao muna’lå’la’la&#39; i fino’-ta,&lt;br /&gt;
-Manmalago’ ham manmanayuda todus gi hinanao-ta.&lt;/p&gt;
-&lt;p&gt;Pues na’ågang i bos-mu annai ume&amp;rsquo;eyak hao,&lt;br /&gt;
-Achokka’ na tristi pat gof yayas hao,&lt;br /&gt;
-Sa’ anngen un usa i fino’ Chamoru,&lt;br /&gt;
-Hågu muna&amp;rsquo;lå&amp;rsquo;la&amp;rsquo;la&#39; i kutturå-mu&lt;/p&gt;
-&lt;p&gt;Sa’ hahasso nai…yanggen ti hita, pues håyi?&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;I wrote this poem for Kasiyas 2020; I wrote it to persuade people to continue learning to speak Chamoru. If you want to watch, you can on Facebook &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.facebook.com/inestudianchamoru/videos/383447836086968&#34;&gt;click here&lt;/a&gt; (I read at ~45 minutes 👍🏼).&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d prefer not to translate the poem, at least not right &lt;em&gt;now&lt;/em&gt;&amp;hellip;I feel it takes away from the overall meaning of the poem. If you&amp;rsquo;d like a translation, get in touch! We can work through it together.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-          
-            
-              <category>poems</category>
-            
-          
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/kasiyas-2020/</guid>
+      <description>Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; click here (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; translation below poem
+   Fino&amp;#39; Chamoru  Mungnga ma’å’ñao fumino’ Chamoru, Achokka’ ennao muna’ma’å’ñao hao. Achokka’ hinasso-mu na mapput para hågu, Maolekña kumekefino&#39; ki pumåpara
+Siña un tutuhun på’gu na ha’åni, Lao maolek ha’ yanggen ti siña hao.</description>
+    </item>
     
   </channel>
 </rss>

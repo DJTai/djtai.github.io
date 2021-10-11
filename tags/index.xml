@@ -1,133 +1,47 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hinanao-hu</title>
+    <title>Tags on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/tags/</link>
-    <description>Recent content in Tags on Hinanao-hu</description>
+    <description>Recent content in Tags on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fina&#39;tinas</title>
+      <link>https://djtai.github.io/tags/finatinas/</link>
+      <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/tags/finatinas/</guid>
+      <description></description>
+    </item>
     
-        <atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>history</title>
+      <link>https://djtai.github.io/tags/history/</link>
+      <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/tags/history/</guid>
+      <description></description>
+    </item>
     
-
+    <item>
+      <title>todu chamoru</title>
+      <link>https://djtai.github.io/tags/todu-chamoru/</link>
+      <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
       
-      <item>
-        <title>tech</title>
-        <link>https://djtai.github.io/tags/tech/</link>
-        <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/tech/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
+      <guid>https://djtai.github.io/tags/todu-chamoru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chamoru lessons</title>
+      <link>https://djtai.github.io/tags/chamoru-lessons/</link>
+      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
       
-      <item>
-        <title>guåhu</title>
-        <link>https://djtai.github.io/tags/gu%C3%A5hu/</link>
-        <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/gu%C3%A5hu/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>chamoglish</title>
-        <link>https://djtai.github.io/tags/chamoglish/</link>
-        <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/chamoglish/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>translation-provided</title>
-        <link>https://djtai.github.io/tags/translation-provided/</link>
-        <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/translation-provided/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>chamoru-phrases</title>
-        <link>https://djtai.github.io/tags/chamoru-phrases/</link>
-        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/chamoru-phrases/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>intro</title>
-        <link>https://djtai.github.io/tags/intro/</link>
-        <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
-        
-        
-        <guid>https://djtai.github.io/tags/intro/</guid>
-        <description></description>
-        <content:encoded></content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/tags/chamoru-lessons/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

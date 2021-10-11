@@ -1,65 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>intro on Hinanao-hu</title>
+    <title>intro on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/tags/intro/</link>
-    <description>Recent content in intro on Hinanao-hu</description>
+    <description>Recent content in intro on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 25 Oct 2020 17:06:44 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
-    
-        <atom:link href="https://djtai.github.io/tags/intro/index.xml" rel="self" type="application/rss+xml" />
-    
-
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Oct 2020 17:06:44 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>I Tinituhon</title>
+      <link>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</link>
+      <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
       
-      <item>
-        <title>I Tinituhon</title>
-        <link>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</link>
-        <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
-        
-        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
-        <description>Note: Updated 2020-12-22 with added English title.
- Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.</description>
-        <content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Note: Updated 2020-12-22 with added English title.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve been meaning to get this space started for some time but, if I&amp;rsquo;m being honest, so many things have gotten in my way - and by many things I mean myself and the plethora of projects that I can&amp;rsquo;t seem to stop accruing. But as they say: &lt;strong&gt;there&amp;rsquo;s no better time than the present&lt;/strong&gt;&amp;hellip;so here we are!&lt;/p&gt;
-&lt;p&gt;This blog will largely represent my journey in learning the Chamoru language. I&amp;rsquo;m going to try and utilize tags and categories as much as possible to keep things organized, but you can expect to see writings of all forms: lessons, poems, sporadic thoughts, etc.&lt;/p&gt;
-&lt;p&gt;Bear in mind that I still consider myself a beginner in this space (particularly when it comes to conversing) so if you read something and think, &lt;strong&gt;&amp;ldquo;Ai adai, milachi gi tinigi&#39;-mu&amp;rdquo;&lt;/strong&gt;, then cut me some slack pot fabot. Ya hunggan, siña ha&#39; para un li&amp;rsquo;i&#39; bula na ini, i.e., I&amp;rsquo;ll be switching from English to Chamoru and vice versa. My goal is to use as much Chamoru as possible but ai adai, guaha na biåhi na siña makkat ennao, lao bai hu chagi.&lt;/p&gt;
-&lt;p&gt;Hopefully you find my writings interesting. Hopefully this journey never ends and we find our paths crossing at some point. Todu ha&#39; para på&amp;rsquo;gu. Fanadahi todus hamyu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bula guinaiya - DJT.&lt;/strong&gt;&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>intro</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
+      <description>Note: Updated 2020-12-22 with added English title.
+ Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.
+I&amp;rsquo;ve been meaning to get this space started for some time but, if I&amp;rsquo;m being honest, so many things have gotten in my way - and by many things I mean myself and the plethora of projects that I can&amp;rsquo;t seem to stop accruing.</description>
+    </item>
     
   </channel>
 </rss>

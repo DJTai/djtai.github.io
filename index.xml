@@ -1,44 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hinanao-hu</title>
+    <title>My Chamoru Language Journey</title>
     <link>https://djtai.github.io/</link>
-    <description>Recent content on Hinanao-hu</description>
+    <description>Recent content on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Sep 2021 15:10:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Mama&#39;titinas Diksionårion Chamoru</title>
+    <link>https://djtai.github.io/mamatitinas-diksionarion-chamoru/</link>
+    <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
     
-        <atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-      
-      
-      
-        
-      
-        
-      
-        
-      
-        
-      
-
-      
-      <item>
-        <title>Mama&#39;titinas Diksionårion Chamoru</title>
-        <link>https://djtai.github.io/posts/2021-09-26-mamatitinas-diksionarion-chamoru.md/</link>
-        <pubDate>Sun, 26 Sep 2021 15:10:00 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Sun, 26 Sep 2021 15:10:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-09-26-mamatitinas-diksionarion-chamoru.md/</guid>
-        <description>My journey to create a comprehensive Chamoru dictionary.</description>
-        <content:encoded>&lt;p&gt;&lt;em&gt;Håfa adai todus hamyu guennao huyung ni&#39; tumataitai esti!&lt;/em&gt;&lt;/p&gt;
+    <guid>https://djtai.github.io/mamatitinas-diksionarion-chamoru/</guid>
+    <description>
+        &lt;p&gt;&lt;em&gt;Håfa adai todus hamyu guennao huyung ni&#39; tumataitai esti!&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;It&amp;rsquo;s been over a month-and-a-half since I&amp;rsquo;ve blogged and not a week has gone by where I thought to myself, &amp;ldquo;&lt;em&gt;ai adai, debi di bai fa&amp;rsquo;tinas otru na blog&lt;/em&gt;&amp;rdquo;, but honestly my schedule has just been &lt;em&gt;todu machalapon&lt;/em&gt;. I had to take a step back from dang near everything and reasses my priorities and how I spend my time outside of work - hence my absence 😅.&lt;/p&gt;
 &lt;p&gt;BUT it was much needed as I&amp;rsquo;m here now and ready to share a bit about what I&amp;rsquo;ve been working on, which is: &lt;strong&gt;a personal Chamoru dictionary stored on my computer.&lt;/strong&gt; This project was born out of three &amp;ldquo;issues&amp;rdquo; I kept running into:&lt;/p&gt;
 &lt;ol&gt;
@@ -48,52 +23,52 @@
 &lt;/ol&gt;
 &lt;p&gt;&lt;em&gt;* Too many steps = opening a browser, clicking login, logging in, scrolling down to &amp;ldquo;Dictionary&amp;rdquo;, and then searching for a word.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Pues, hu tutuhun i hinanao-hu&lt;/em&gt;. I created a template of what I thought a dictionary would look like on the back-end (in a database) and I started gathering as many words as I could find. Anytime I came across a new word, I&amp;rsquo;d pop open my database and add it in there. It took an egregious amount of time but I finally got to a place where I felt comfortable enough to start working on a &amp;ldquo;front-end&amp;rdquo; to access the database. I put that in quotes because in it&amp;rsquo;s current state I can only access it from a terminal/command-line interface (CLI). I started it off this way &lt;em&gt;sa&#39; gi minagåhet&lt;/em&gt;, it&amp;rsquo;s where I live when I code. Also it&amp;rsquo;s the fastest way I can access the database. Essentially I created a small program that allows me to access it via the CLI.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a screenshot of me running the program:&lt;br /&gt;
-&lt;img src=&#34;https://djtai.github.io/images/2021-09-26_CLI.png&#34; alt=&#34;Screenshot of a terminal/CLI running a program. There&amp;rsquo;s a prompt, &amp;ldquo;Search for (leave blank to exit)&amp;rdquo;, and then some input and some output.s&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a screenshot of me running the program:
+&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2021-09-26_CLI.png&#34; 
+    alt=&#34;Screenshot of a terminal/CLI running a program. There&amp;amp;rsquo;s a prompt, &amp;amp;ldquo;Search for (leave blank to exit)&amp;amp;rdquo;, and then some input and some output.s&#34; 
+     
+    width=927 
+    height=&#34;498&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;If you&amp;rsquo;re unfamiliar with what you&amp;rsquo;re looking at, it&amp;rsquo;s a terminal/CLI. The points of interest are the second line, where you see &lt;code&gt;└─ $ sodda&lt;/code&gt;, and then the text afterwards. My program runs when I type &lt;code&gt;sodda&lt;/code&gt; and hit enter. I get prompted for a word to search for (in this case I entered &amp;quot; &lt;em&gt;tungo&#39; &amp;ldquo;&lt;/em&gt;), and then if it finds something I get results back. Otherwise it says it can&amp;rsquo;t find the word and the prompts just continue until I exit.&lt;/p&gt;
 &lt;p&gt;Cleaning the data and structuring how everything is stored/returned actually took the most amount of time. I wrote a lot of small helper programs to do things like sort the words, remove misformed words, and add new words, but I still have a lot of work ahead of me. There are still ~3000 words I have that I need to add but don&amp;rsquo;t have exact translations for. There are also a bunch of words I just straight up don&amp;rsquo;t have either.&lt;/p&gt;
-&lt;p&gt;To give you a sense of how big this dictionary has gotten, here is where I&amp;rsquo;m at:&lt;br /&gt;
-&lt;img src=&#34;https://djtai.github.io/images/2021-09-26_JSON.png&#34; alt=&#34;Screenshot of JSON file as it appears in Visual Studio Code. The object key is a Chamoru word and the object values are definitions, types, chamoru_examples, english_examples, see_also, other_spellings, sources, pronunciation, and origin.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;To give you a sense of how big this dictionary has gotten, here is where I&amp;rsquo;m at:
+&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2021-09-26_JSON.png&#34; 
+    alt=&#34;Screenshot of JSON file as it appears in Visual Studio Code. The object key is a Chamoru word and the object values are definitions, types, chamoru_examples, english_examples, see_also, other_spellings, sources, pronunciation, and origin.&#34; 
+     
+    width=1000 
+    height=&#34;987&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;Currently I store everything in a &lt;a href=&#34;https://en.wikipedia.org/wiki/JSON&#34;&gt;JSON file&lt;/a&gt;, where each word will take up roughly ~20-25 lines. This is near the bottom of the file and as you can see it&amp;rsquo;s around 340,000 lines (last I checked, there were ~17,000 words). Some functionality is still missing like a) being able to give an English word and get a Chamoru word back, and b) giving suggestions/alternative spellings to what you provided.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Hinasso-ku na sen pairi esti!&amp;hellip;lao&lt;/em&gt;&amp;hellip;there&amp;rsquo;s one potential problem. I haven&amp;rsquo;t put this out there yet for everyone to see and try because I actually don&amp;rsquo;t know if I legally can 🤔.&lt;/p&gt;
 &lt;p&gt;I haven&amp;rsquo;t mentioned this yet, and perhaps you were able to pick it up from earlier when I mentioned why I created this tool, but&amp;hellip;I didn&amp;rsquo;t create a majority of this information from scratch. I made use of LearningChamoru.com, news articles from the &lt;a href=&#34;https://www.guampdn.com/&#34;&gt;GuamPDN&lt;/a&gt;, and any blog I could find that seemed like a great resource for filling up a dictionary. So for example, let&amp;rsquo;s say you use this tool and look up the word &amp;ldquo;&lt;em&gt;magof&lt;/em&gt;&amp;rdquo; - one of the definitions you&amp;rsquo;d get back is the same one you&amp;rsquo;d find in LearningChamoru.com, word-for-word.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Pues hunggan&lt;/em&gt;, as much as I want to share this &lt;strong&gt;right now&lt;/strong&gt;, there are still some things I need to figure out. Things like: if I put this dictionary out there, say on a website, would I receive a cease &amp;amp; desist? Could I get sued for copyright infringement? Would I be fine so long as I attribute my data to their correct creators? Etc&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Now that I think about it though&amp;hellip;the front-end stuff I can probably share. You&amp;rsquo;d of course need a dictionary stored in a same-structured JSON, but that general structure I can also share. But for now, this is all I&amp;rsquo;ll share. When I get more answers and more data and create something more accessible, I&amp;rsquo;ll give another update!&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>tech</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Mama&#39;titinas Trongkun Manggåfa</title>
-        <link>https://djtai.github.io/posts/2021-08-10-trongkun-manggafa/</link>
-        <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Wed, 11 Aug 2021 21:25:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-08-10-trongkun-manggafa/</guid>
-        <description>I&#39;ve been on a journey to document my family tree in a tech-saavy way.</description>
-        <content:encoded>&lt;p&gt;I&amp;rsquo;ve been on a journey to document my family tree in a tech-saavy way. It started off simple: try and find out who my great-grandparents were. I honestly didn&amp;rsquo;t think I&amp;rsquo;d get past that because before this I couldn&amp;rsquo;t even tell you the names of any of my great-grandparents. But as you&amp;rsquo;ll soon find out, my simple task turned into a research-heavy adventure which is still ongoing.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Mama&#39;titinas Trongkun Manggåfa</title>
+    <link>https://djtai.github.io/mamatitinas-trongkun-manggafa/</link>
+    <pubDate>Wed, 11 Aug 2021 21:25:00 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/mamatitinas-trongkun-manggafa/</guid>
+    <description>
+        &lt;p&gt;I&amp;rsquo;ve been on a journey to document my family tree in a tech-saavy way. It started off simple: try and find out who my great-grandparents were. I honestly didn&amp;rsquo;t think I&amp;rsquo;d get past that because before this I couldn&amp;rsquo;t even tell you the names of any of my great-grandparents. But as you&amp;rsquo;ll soon find out, my simple task turned into a research-heavy adventure which is still ongoing.&lt;/p&gt;
 &lt;p&gt;This wasn&amp;rsquo;t on my to-do list until recently - I&amp;rsquo;d say within the last 2 years. I never really thought about any family past my grandparents; I never wondered who their parents or grandparents were. I also gave little thought to who their siblings were. I mean, growing up it just wasn&amp;rsquo;t something that they talked about. I want to say that I didn&amp;rsquo;t even know if they had &lt;em&gt;had&lt;/em&gt; any siblings, although that became apparent closer to when I was in high school and started meeting extended family. It wouldn&amp;rsquo;t be until the passing of my grandmas that I would start to pay more attention. And it wouldn&amp;rsquo;t be until just about 2 years ago that I would start digging into my family history.&lt;/p&gt;
 &lt;p&gt;| &lt;strong&gt;Note&lt;/strong&gt;: I&amp;rsquo;ll refer to my grandparents as Grandma/Grandpa A and Grandma/Grandpa T; Aquiningoc and Taitingfong respectively.&lt;/p&gt;
-&lt;h2 id=&#34;gathering-documents&#34;&gt;Gathering Documents&lt;/h2&gt;
+&lt;h2 id=&#34;gathering-documents&#34;&gt;
+    &lt;a href=&#34;#gathering-documents&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Gathering Documents
+&lt;/h2&gt;
 &lt;p&gt;The first event that really triggered my search was receiving documents about my mom&amp;rsquo;s side of the family. My aunt had been holding onto them from when she was cleaning house, and I guess she just never thought that it would be of any excitement to us. I recall asking about family names - clan names in particular - and she went to her room to retrieve all the stuff she had. When she came back I was astounded: she had birth certificates, death certificates, legal documents, obituaries, funeral pamphlets, social security cards, and a lot more. The documents that piqued my interest were the ones about my grandma A&amp;rsquo;s siblings and some homemade lineage documents for my grandpa A&amp;rsquo;s side. I saw &amp;ldquo;Aquiningoc&amp;rdquo; on that paper but none of the names looked remotely familiar.&lt;/p&gt;
 &lt;p&gt;Later that week I asked my dad what he knew about his parents. He told me not much but that he would ask his siblings what they knew. Within a few hours my dad had text me some scans: a photo of my grandpa T&amp;rsquo;s mom, a photo of my grandma T and &lt;em&gt;her&lt;/em&gt; grandma, and a homemade lineage document detailing my grandma T&amp;rsquo;s family.&lt;/p&gt;
 &lt;p&gt;The two lineage documents were incredible finds. The one for my grandma T started with &lt;em&gt;her&lt;/em&gt; grandparents. It listed &lt;em&gt;their&lt;/em&gt; kids and all the grandchildren. My grandma was one of those grandchildren. Success: I found a set of great-grandparents!&lt;/p&gt;
@@ -101,7 +76,16 @@
 &lt;div style=&#34;width:80%&#34;&gt;&lt;div style=&#34;height:0;padding-bottom:56.111111111111114%;position:relative;width:100%&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameBorder=&#34;0&#34; height=&#34;100%&#34; src=&#34;https://giphy.com/embed/KuKm4I6OjNwoZ68np7/video&#34; style=&#34;left:0;position:absolute;top:0&#34; width=&#34;100%&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;I was so amazed yet at the same time a bit sad. These were people I never learned about and, &lt;em&gt;gi minagåhet&lt;/em&gt;, likely never will. I made a decision right there to document everything I could; to create something that I can pass down to my children and to my siblings and cousins and aunts and &lt;em&gt;todu i manggafå-hu&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;I started writing down names on paper but that got out of hand quickly. Thus started my search for a tool I could easily use and (hopefully) easily share.&lt;/p&gt;
-&lt;h2 id=&#34;finding-the-right-tool&#34;&gt;Finding the Right Tool&lt;/h2&gt;
+&lt;h2 id=&#34;finding-the-right-tool&#34;&gt;
+    &lt;a href=&#34;#finding-the-right-tool&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Finding the Right Tool
+&lt;/h2&gt;
 &lt;p&gt;They say the best time to start something was yesterday; the next best time is right now. With that in mind I figured I&amp;rsquo;d start with a spreadsheet-like program, so I started working in Google Sheets. It started off easy because I had only noted down my immediate family and my grandparents from both sides. When it came to writing down my uncles and aunts though I started to realize that wow: this is going to get out of hand quickly; my dad is 1 of 10, my mom is 1 of 6&amp;hellip;I don&amp;rsquo;t know about my grandparents, but I knew from the documents I had that their families were also &amp;ldquo;big&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;While continuing to work in Google Sheets I started to also look for alternatives because what started as a 3 sheet file grew into 16 sheets&amp;hellip;and that was just going &lt;strong&gt;up&lt;/strong&gt; my family tree, i.e., I was only tracing parents and their parents and their parents and etc. I was able to track &lt;em&gt;i mañainå-hu&lt;/em&gt; back 6 generations. Things started getting complicated and I needed a new tool.&lt;/p&gt;
 &lt;div style=&#34;width:100%;height:0;padding-bottom:42%;position:relative;&#34;&gt;&lt;iframe src=&#34;https://giphy.com/embed/Go19CKEFdS6JvnPVP3&#34; width=&#34;100%&#34; height=&#34;100%&#34; style=&#34;position:absolute&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/thefastsaga-fast-and-furious-saga-fate-of-the-Go19CKEFdS6JvnPVP3&#34;&gt;&lt;/a&gt;&lt;/p&gt;
@@ -109,60 +93,65 @@
 &lt;p&gt;&lt;strong&gt;Sidebar:&lt;/strong&gt; I much prefer desktop apps as opposed to web apps. From a business perspective, I understand why web apps are more ubiquitous&amp;hellip;but I tend to opt for desktop.&lt;/p&gt;
 &lt;p&gt;I paused on entering new data and went to search for a different tool. That&amp;rsquo;s when I came across &lt;a href=&#34;https://gramps-project.org/blog/&#34;&gt;Gramps&lt;/a&gt;, an open-source genealogical research software - it&amp;rsquo;s essentially a database (DB) with a decent GUI. This felt right up my alley: 1) it&amp;rsquo;s a desktop app, 2) it&amp;rsquo;s open-source, and 3) it&amp;rsquo;s written in &lt;a href=&#34;https://www.python.org/&#34;&gt;my favorite coding language&lt;/a&gt;! Okay, I&amp;rsquo;m getting off track but the point is: I found the right tool.&lt;/p&gt;
 &lt;p&gt;Once I got the app installed, I probably spent a straight 12 hours just entering information and getting things to a presentable state.&lt;/p&gt;
-&lt;h2 id=&#34;finding-external-sources&#34;&gt;Finding External Sources&lt;/h2&gt;
+&lt;h2 id=&#34;finding-external-sources&#34;&gt;
+    &lt;a href=&#34;#finding-external-sources&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Finding External Sources
+&lt;/h2&gt;
 &lt;p&gt;I spent a few days on-and-off going between my documents and my DB, but it came to a point where I felt like I&amp;rsquo;d exhausted all internal sources. I kept trying to climb up my family tree but I eventually hit the canopy, so to speak. I had gained so much momentum and made so much progress that I didn&amp;rsquo;t want to it stop&amp;hellip;but it did. I hit a wall for a few weeks and accepted that I would just continue when something came my way. I stopped working on my tree for about 2 months until I had this urge to revisit my sources, and I&amp;rsquo;m so glad I did. My next big leaps came in two parts.&lt;/p&gt;
 &lt;p&gt;Part 1: stumbling upon the incredible work of &lt;a href=&#34;https://chamorroroots.com/v7/&#34;&gt;Siñot Bernard Punzalan&lt;/a&gt;, particularly a PDF he created &lt;a href=&#34;https://www.academia.edu/36201434/I_N%C3%85AN_MANGG%C3%85FAN_TAOTAO_H%C3%85YA_CHAMORRO_FAMILY_CLAN_NAMES&#34;&gt;which contains Chamoru clan names&lt;/a&gt;. It was from this PDF that I was able to confirm some clan names that my parents had told me about. I figured, hey: I can probably find more info if I not only searched by my family names but my &lt;strong&gt;clan names&lt;/strong&gt; as well, which ultimately led me to part two.&lt;/p&gt;
 &lt;p&gt;Part 2: finding a set of great-grandparents for &lt;em&gt;my&lt;/em&gt; grandma A via a blog written by &lt;a href=&#34;https://paleric.blogspot.com/2013/01/family-nicknames-gutos.html&#34;&gt;Påle&#39; Eric&lt;/a&gt;. It was around this moment that I realized just how much info Påle&#39; Eric had on his blog. After spending more time reading on his site, I came across &lt;a href=&#34;https://paleric.blogspot.com/2015/06/whaling-contract-of-josen-kueto.html&#34;&gt;another blog&lt;/a&gt; which helped me (very likely) confirm my ancestry back 9 generations! Honestly though, I wouldn&amp;rsquo;t have second-guessed this blog if I hadn&amp;rsquo;t already spent some time in MyHeritage, because it was there that I discovered more people from my &lt;a href=&#34;https://www.myheritage.com/research?action=query&amp;amp;formId=master&amp;amp;formMode=1&amp;amp;qname=Name+fn.Maria%2F3nicolasa+fnmo.2+fnmsvos.1+fnmsmi.1+ln.Manahane+lnmo.4+lnmsdm.1+lnmsmf3.1+lnmsrs.1&#34;&gt;Aquiningoc/Taitano side&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I have a feeling I&amp;rsquo;ll be able to get more info later on when I&amp;rsquo;m able to sub to Siñot Bernard&amp;rsquo;s &lt;a href=&#34;https://www.chamorroroots.com/v7/index.php/the-store/subscription-plans-available/subscribe?group_id=5&#34;&gt;Chamorro Roots Database&lt;/a&gt;, but for the time being I&amp;rsquo;ve slowed down on the tree.&lt;/p&gt;
-&lt;h2 id=&#34;my-tree-right-now&#34;&gt;My Tree Right Now&lt;/h2&gt;
+&lt;h2 id=&#34;my-tree-right-now&#34;&gt;
+    &lt;a href=&#34;#my-tree-right-now&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    My Tree Right Now
+&lt;/h2&gt;
 &lt;p&gt;As of today, this is what my &amp;ldquo;family tree&amp;rdquo; (in fan-form) looks like right now.&lt;/p&gt;
-&lt;p&gt;My dad&amp;rsquo;s side: &lt;img src=&#34;https://djtai.github.io/images/2021-08-11_CastroTaitingfong.png&#34; alt=&#34;Fan chart showing my dad&amp;rsquo;s side of my family tree&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;My mom&amp;rsquo;s side: &lt;img src=&#34;https://djtai.github.io/images/2021-08-11_MendiolaAquiningoc.png&#34; alt=&#34;Half-fan chart showing my mom&amp;rsquo;s side of my family tree&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;My dad&amp;rsquo;s side: &lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2021-08-11_CastroTaitingfong.png&#34; 
+    alt=&#34;Fan chart showing my dad&amp;amp;rsquo;s side of my family tree&#34; 
+     
+    width=507 
+    height=&#34;274&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;My mom&amp;rsquo;s side: &lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2021-08-11_MendiolaAquiningoc.png&#34; 
+    alt=&#34;Half-fan chart showing my mom&amp;amp;rsquo;s side of my family tree&#34; 
+     
+    width=726 
+    height=&#34;340&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;As you can see, I was able to at least get all of my great-grandparents. I&amp;rsquo;m still missing a few great-great-grandparents, and honestly from there it&amp;rsquo;s scrambled. Truth be told, I&amp;rsquo;m incredibly surprised I was able to get as much info as I have! For now I think I&amp;rsquo;m going to focus on my uncles, aunts, and cousins. I&amp;rsquo;m hoping to be able to create something that I can share at big family gatherings. I also plan on doing my wife&amp;rsquo;s side. &lt;em&gt;Gi minagåhet&lt;/em&gt;, this is fun and relaxing for me.&lt;/p&gt;
 &lt;p&gt;I think this seals it - I&amp;rsquo;m our self-proclaimed Family Historian 😎.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;Extra info:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/gramps-project/gramps&#34;&gt;Gramps GitHub&lt;/a&gt; page&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://bellevue.academia.edu/BPunzalan/Papers&#34;&gt;Other papers&lt;/a&gt; by Siñot Bernard Punzalan&lt;/li&gt;
 &lt;/ul&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>tech</category>
-            
-          
-            
-              <category>guåhu</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Ha&#39;ånen &#34;Liberasión&#34;</title>
-        <link>https://djtai.github.io/posts/2021-07-21-liberation/</link>
-        <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Wed, 21 Jul 2021 11:25:03 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-07-21-liberation/</guid>
-        <description>Sharing my thoughts on this important day in Chamoru history.</description>
-        <content:encoded>&lt;p&gt;&lt;strong&gt;TW/CW:&lt;/strong&gt; Mentions of war.&lt;/p&gt;
-&lt;hr /&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Ha&#39;ånen &#34;Liberasión&#34;</title>
+    <link>https://djtai.github.io/haanen-liberarsion/</link>
+    <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/haanen-liberarsion/</guid>
+    <description>
+        &lt;p&gt;&lt;strong&gt;TW/CW:&lt;/strong&gt; Mentions of war.&lt;/p&gt;
+&lt;hr&gt;
 &lt;p&gt;I can&amp;rsquo;t recall a time when my family celebrated &amp;ldquo;Liberation Day&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;I &lt;strong&gt;can&lt;/strong&gt; recall times that we volunteered at the &lt;a href=&#34;https://www.guamclub.org/&#34;&gt;Sons &amp;amp; Daughters of Guam Club&lt;/a&gt; for Liberation fiestas: cleaning, cooking, setting up &amp;amp; breaking down, etc&amp;hellip;but being young, I wasn&amp;rsquo;t interested in the &amp;ldquo;whys&amp;rdquo; of fiestas.&lt;/p&gt;
 &lt;p&gt;But celebrating at home? &lt;em&gt;Tåya&#39;&lt;/em&gt;.&lt;/p&gt;
@@ -176,192 +165,138 @@
 &lt;p&gt;So I&amp;rsquo;ll end this not with an exclamation of joy, &lt;em&gt;sa&#39; para guåhu, ti minagof esti na ha&amp;rsquo;åni.&lt;/em&gt; Rather, it is a memorial day. A reminder of the courage and tenacity of our people. A reminder that we are still here, fighting for real liberation; for a decolonized status; for independence.&lt;/p&gt;
 &lt;p&gt;Fanohgi. Fanachu. Fanhassu. Na&amp;rsquo;lå&amp;rsquo;la.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya. &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoglish</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Hu Fa&#39;mamaolek Esti na Blog</title>
-        <link>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</link>
-        <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Sun, 13 Jun 2021 12:43:39 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</guid>
-        <description>I&#39;ve been slacking on this blog, but I&#39;m working on fixing it up soon!</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu guennao huyung! Hu tungu&#39; na tumaigui yu&#39; giya guini, lao hu prometi hamyu na ti åpmam bai tutuhun månggi&#39; guini. Buenti gumuaha tiempo-ku gi mamaila&#39; na semåna, lao siempri gi mamaila&#39; na mes - puedi ti mås anåkku&#39; sa&#39; malago&#39; yu&#39; fa&amp;rsquo;maolek esti na blog. Bai hu tulaika i &amp;ldquo;theme&amp;rdquo; ya hu tungu&#39; na gumuaha meggai tinilaika siha ni&#39; hu chek pat chagi.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Hu Fa&#39;mamaolek Esti na Blog</title>
+    <link>https://djtai.github.io/hu-famamaolek-esti-na-blog/</link>
+    <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/hu-famamaolek-esti-na-blog/</guid>
+    <description>
+        &lt;p&gt;Håfa adai todus hamyu guennao huyung! Hu tungu&#39; na tumaigui yu&#39; giya guini, lao hu prometi hamyu na ti åpmam bai tutuhun månggi&#39; guini. Buenti gumuaha tiempo-ku gi mamaila&#39; na semåna, lao siempri gi mamaila&#39; na mes - puedi ti mås anåkku&#39; sa&#39; malago&#39; yu&#39; fa&amp;rsquo;maolek esti na blog. Bai hu tulaika i &amp;ldquo;theme&amp;rdquo; ya hu tungu&#39; na gumuaha meggai tinilaika siha ni&#39; hu chek pat chagi.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;Hey everyone out there! I know that I&amp;rsquo;ve been absent, but I promise y&amp;rsquo;all that I&amp;rsquo;ll start writing soon. Maybe I&amp;rsquo;ll have time in the coming week, but surely I&amp;rsquo;ll have time in the coming month - hopefully not longer because I want to fix this blog. I&amp;rsquo;m going to change the theme and I know there&amp;rsquo;s gonna be plenty to check and test.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</title>
-        <link>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</link>
-        <pubDate>Tue, 16 Mar 2021 20:58:35 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Tue, 16 Mar 2021 20:58:35 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</guid>
-        <description>Slowly but surely, I&#39;m working on my fitness and my overall health.</description>
-        <content:encoded>&lt;p&gt;Cha&#39;-hu dagi hamyu. Kumahulo&#39; yu&#39; gi taftaf ogga&amp;rsquo;an kada ha&amp;rsquo;åni ya ti malago&#39; ha&#39; yu&#39; umetsisiu. Hu tungu&#39; na etsisiu u na&amp;rsquo;labråbu yu&#39;, lao mapput para hu sodda&#39; i metgot-hu. LAO magåhet na kumeke&amp;rsquo;etsisiu yu&#39; kada ogga&amp;rsquo;an, pat atu&amp;rsquo;åsi kada ha&amp;rsquo;åni&amp;hellip;pat kada semåna, haha.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</title>
+    <link>https://djtai.github.io/kumekeetsisiu-yu-kada-haani/</link>
+    <pubDate>Tue, 16 Mar 2021 20:58:35 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/kumekeetsisiu-yu-kada-haani/</guid>
+    <description>
+        &lt;p&gt;Cha&#39;-hu dagi hamyu. Kumahulo&#39; yu&#39; gi taftaf ogga&amp;rsquo;an kada ha&amp;rsquo;åni ya ti malago&#39; ha&#39; yu&#39; umetsisiu. Hu tungu&#39; na etsisiu u na&amp;rsquo;labråbu yu&#39;, lao mapput para hu sodda&#39; i metgot-hu. LAO magåhet na kumeke&amp;rsquo;etsisiu yu&#39; kada ogga&amp;rsquo;an, pat atu&amp;rsquo;åsi kada ha&amp;rsquo;åni&amp;hellip;pat kada semåna, haha.&lt;/p&gt;
 &lt;p&gt;Esta hu chachagi kumånnu&#39; labråbun néngkanu: meggai gollai, meggai golosina, ya ti hu chagi kumånnu&#39; mampus kåtni (lao hu chagi kumånnu&#39; néngkanu ginen i tasi kada siña yu&#39;.) Sen mapput ini na maloffan na såkkan para todus hit, ya siña manli&amp;rsquo;i&#39; ha&#39; yu&#39; tinilaika gi taotao-hu - ya ti maolek ha&#39;! Ti hu &lt;strong&gt;duru&lt;/strong&gt; kekechathinasso put håfa kinannono-hu, lao esta hu tungu&#39; na kumakånnu&#39; båba na néngkanu kada biåhi siña na&amp;rsquo;yamak i taotao-hu. Hu honggi metgot na kinannono-ta u na&amp;rsquo;tulaika-ña kinu etsisiu-ta.&lt;/p&gt;
 &lt;p&gt;Lao, gi sinangån-ñiha: kinalamten i kinalamten. Nuebun ha&amp;rsquo;åni i agupa&#39;.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;I won&amp;rsquo;t lie to you. I get up early every day and just don&amp;rsquo;t want to workout. I know that exercising will make me healthier, but it&amp;rsquo;s hard to find the strength to do it. BUT I am honestly trying to workout every morning, or at least every day&amp;hellip;or every week, haha.&lt;/p&gt;
 &lt;p&gt;I already try to eat healthier food: lots of veggies, plenty of fruits, and I try not to eat too much meat (but I do try to eat seafood whenever I can). This past year has been really difficult for us all, and I definitely see a change in my body - and it ain&amp;rsquo;t good! I&amp;rsquo;m trying not to worry &lt;strong&gt;too&lt;/strong&gt; much about what I eat, but I know that always eating bad food can wreck my body. I strongly believe that our diets cause more change than the exercises we do.&lt;/p&gt;
 &lt;p&gt;But as they say: progress is progress. Tomorrow is a new day.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Biba Mes Chamoru!</title>
-        <link>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</link>
-        <pubDate>Mon, 01 Mar 2021 12:47:16 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Mon, 01 Mar 2021 12:47:16 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</guid>
-        <description>Today marks the beginning of Mes Chamoru!</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu guennao huyung! På&amp;rsquo;gu na ha&amp;rsquo;åni i tinituhun-ña nu Mes Chamoru! Hu tungu&#39; na ti sessu mångge&#39; yu&#39; guini, lao hu prometi hamyu na hu chachagi! Kada diha gof tinani&#39; ha&#39; yu&#39;: guaha mampus che&amp;rsquo;cho&#39;-hu, guaha mampus tarehan guma&#39; put eskuela, ya manhåhalom ha&#39; ham yan i manggafå-hu gi un nuebun guma&#39;.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Biba Mes Chamoru!</title>
+    <link>https://djtai.github.io/biba-mes-chamoru/</link>
+    <pubDate>Mon, 01 Mar 2021 12:47:16 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/biba-mes-chamoru/</guid>
+    <description>
+        &lt;p&gt;Håfa adai todus hamyu guennao huyung! På&amp;rsquo;gu na ha&amp;rsquo;åni i tinituhun-ña nu Mes Chamoru! Hu tungu&#39; na ti sessu mångge&#39; yu&#39; guini, lao hu prometi hamyu na hu chachagi! Kada diha gof tinani&#39; ha&#39; yu&#39;: guaha mampus che&amp;rsquo;cho&#39;-hu, guaha mampus tarehan guma&#39; put eskuela, ya manhåhalom ha&#39; ham yan i manggafå-hu gi un nuebun guma&#39;.&lt;/p&gt;
 &lt;p&gt;Ai adai, fannå&amp;rsquo;i yu&#39; i animås-miyu fan.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://djtai.github.io/images/2021-03-01_00.png&#34; alt=&#34;Goku preparing a spirit bomb.&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2021-03-01_00.png&#34; 
+    alt=&#34;Goku preparing a spirit bomb.&#34; 
+     
+    width=1280 
+    height=&#34;718&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;Siempri bai kefångge&#39; guini, kolo&amp;rsquo;lo&amp;rsquo;ña sa&#39; på&amp;rsquo;gu i Mes Chamoru. Fanhasso ha&#39; todus hamyu: sigi ha&#39; u&amp;rsquo;usa i fino&#39;-ta; sigi ha&#39; ume&amp;rsquo;eyak yan tumutungu&#39; todu siña hamyu. Mungnga chumathinasso put linachi gi tinigi&#39;-miyu pat sinångan-miyu. Todu maolek ha&#39;. Sigi ha&#39; chachagi.&lt;/p&gt;
 &lt;p&gt;Biba Mes Chamoru! Na&amp;rsquo;lå&amp;rsquo;la&#39; todu kosas Chamoru!&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;Hello to everyone out there! Today is the beginning of Chamorro Month! I know that I don&amp;rsquo;t often write write here, but I promise you I&amp;rsquo;m trying! It&amp;rsquo;s just every day I&amp;rsquo;ve been so busy: too much work, too much school homework, and we&amp;rsquo;re still moving into a new house.&lt;/p&gt;
 &lt;p&gt;Ai adai, please lend me your strength.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ll definitely try to write here, especially because it&amp;rsquo;s Chamorro Month. Just remember everyone: keep using the language; keep learning all that you can. Don&amp;rsquo;t worry about errors in your writing or your words. It&amp;rsquo;s all good. Just keep trying.&lt;/p&gt;
 &lt;p&gt;Biba Chamorro Month! Celebrate all things Chamorro!&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Guaha Mampus Para Bidå-hu</title>
-        <link>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</link>
-        <pubDate>Wed, 27 Jan 2021 21:43:29 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Wed, 27 Jan 2021 21:43:29 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</guid>
-        <description>Quick explanation of why I haven&#39;t blogged recently</description>
-        <content:encoded>&lt;p&gt;Ai adai, dispensa na gof atrasao ini na blog! Gi minagåhet, sen tinani&#39; yu&#39; lao guaha maolek na rason na taiguini. Na&amp;rsquo;kadada&#39; un anåkku&#39; na istoria: ti apmam bai in fañåga gi nuebun guma&#39;, yan i mañainå-hu yan che&amp;rsquo;lu-hu. Ohala&#39; mohon na ti apmam siña månggi&#39; yu&#39; kosa ki siña hu sangåni hamyu håfa nuebu gi lina&amp;rsquo;lå&#39;-hu. Esta otro tiempu nai!&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Guaha Mampus Para Cho&#39;gui</title>
+    <link>https://djtai.github.io/guaha-mampus-para-chogui/</link>
+    <pubDate>Wed, 27 Jan 2021 21:43:29 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/guaha-mampus-para-chogui/</guid>
+    <description>
+        &lt;p&gt;Ai adai, dispensa na gof atrasao ini na blog! Gi minagåhet, sen tinani&#39; yu&#39; lao guaha maolek na rason na taiguini. Na&amp;rsquo;kadada&#39; un anåkku&#39; na istoria: ti apmam bai in fañåga gi nuebun guma&#39;, yan i mañainå-hu yan che&amp;rsquo;lu-hu. Ohala&#39; mohon na ti apmam siña månggi&#39; yu&#39; kosa ki siña hu sangåni hamyu håfa nuebu gi lina&amp;rsquo;lå&#39;-hu. Esta otro tiempu nai!&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;My goodness, apologies for this late blog! Truthfully, I&amp;rsquo;m super busy but there&amp;rsquo;s a good reason for that. Long story short: I&amp;rsquo;m moving soon into a new house, along with my parents and sister. Hopefully I can write soon so I can give an update on life. Until next time!&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>I Lahi-hu Kumpreprendi i Ilelek-hu</title>
-        <link>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</link>
-        <pubDate>Thu, 07 Jan 2021 23:10:42 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Thu, 07 Jan 2021 23:10:42 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</guid>
-        <description>Little by little, I see the progress from speaking to my son in Chamoru.</description>
-        <content:encoded>&lt;p&gt;Kada diha hu usa fino&#39; Chamoru gi i gima&#39;-hu yan i familiå-ku, i asaguå-hu yan i lahi-hu, si Lorie yan si Leo. Gi minagåhet, ti sessu hu usa nuebu na palåbra siha yan siha, lao siempri hu adingani siha gi fino&#39; Chamoru. Guaha na biåhi na hu ke&amp;rsquo;usa nuebu na palåbra siha, piót yan i lahi-hu, ya kada diha siña manli&amp;rsquo;i&#39; yu&#39; na ha na&amp;rsquo;la&amp;rsquo;tungu&#39; gui&#39;. Hu tungu&#39; na ha kumprendi annai hu sangåni gui&#39;:&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>I Lahi-hu Kumpreprendi i Ilelek-hu</title>
+    <link>https://djtai.github.io/i-lahi-hu-kumpreprendi-i-ilelek-hu/</link>
+    <pubDate>Thu, 07 Jan 2021 23:10:42 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/i-lahi-hu-kumpreprendi-i-ilelek-hu/</guid>
+    <description>
+        &lt;p&gt;Kada diha hu usa fino&#39; Chamoru gi i gima&#39;-hu yan i familiå-ku, i asaguå-hu yan i lahi-hu, si Lorie yan si Leo. Gi minagåhet, ti sessu hu usa nuebu na palåbra siha yan siha, lao siempri hu adingani siha gi fino&#39; Chamoru. Guaha na biåhi na hu ke&amp;rsquo;usa nuebu na palåbra siha, piót yan i lahi-hu, ya kada diha siña manli&amp;rsquo;i&#39; yu&#39; na ha na&amp;rsquo;la&amp;rsquo;tungu&#39; gui&#39;. Hu tungu&#39; na ha kumprendi annai hu sangåni gui&#39;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Maila&#39; mågi&lt;/li&gt;
 &lt;li&gt;Nihi ta tulaika (i magågu-mu / i pañåles-mu)&lt;/li&gt;
@@ -372,8 +307,17 @@
 &lt;/ol&gt;
 &lt;p&gt;Banidosu yu&#39; nu guiya, ya gi minagåhet banidosu yu&#39; lokkui&#39; nu guahu na siña hu adingani yan i familiå-ku gi fino&#39; Chamoru, achokka&#39; adumididi&#39;.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;Everyday I use Chamoru in my house with my family, my wife and my son, Lorie and Leo. Honestly, I don&amp;rsquo;t often use new words with them, but I certainly talk to them in Chamoru. Sometimes I try to use new words, especially with my son, and I can see that everyday he learns a bit more. I know that he can understand when I say:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Come here&lt;/li&gt;
@@ -385,37 +329,18 @@
 &lt;/ol&gt;
 &lt;p&gt;I&amp;rsquo;m proud of him, and honestly I&amp;rsquo;m proud of myself too that I can converse with my family in Chamoru, even if just a little.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it for now. Much love! &amp;mdash; DJT&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Minalago&#39; Siha Para I Tinilaikan I Sakkan</title>
-        <link>https://djtai.github.io/posts/2021-01-01-minalago-siha/</link>
-        <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Fri, 01 Jan 2021 20:00:00 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-01-minalago-siha/</guid>
-        <description>Some thoughts I have for this blog going into the New Year.</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Minalago&#39; Siha Para I Tinilaikan I Sakkan</title>
+    <link>https://djtai.github.io/minalago-siha-para-i-tinilaikan-i-sakkan/</link>
+    <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/minalago-siha-para-i-tinilaikan-i-sakkan/</guid>
+    <description>
+        &lt;p&gt;Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.&lt;/p&gt;
 &lt;p&gt;Guaha ideha-hu siha na hinasso-ku siempri na&amp;rsquo;dångkulu i tiningu&#39;-hu gi Fino&#39; Chamoru, ya eyu nai bai månggi&#39; put:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Manggafå-hu&lt;/li&gt;
@@ -426,8 +351,17 @@
 &lt;p&gt;Esta månggi&#39; yu&#39; ni manggafå-hu lao ya-hu bai månggi&#39; nu nengkånu&#39;, lepblo siha, yan tek, kulolo&amp;rsquo;ña put siguridát gi tek. Ti hu cho&amp;rsquo;gui siguridát gi che&amp;rsquo;cho&#39;-hu, lao eyu kada diha hu na&amp;rsquo;saonao gi lina&amp;rsquo;lå-hu - ti manli&amp;rsquo;i&#39; yu&#39; lokkui&#39; tinigi&#39; siha put eyu gi Fino&#39; Chamoru. Gai lepblu siha na Chamoru yu&#39; på&amp;rsquo;gu ni&#39; i asaguå-hu yan i kiñådu-hu ma nå&amp;rsquo;i yu&#39; para Krismas, ya gi minagåhet ti siña mannangga yu&#39; manaitai siha. Hu fakchacha&amp;rsquo;i i mamaila&#39; såkkan yan tutuhun tumugi&#39; iyo-ku blog siha put ideha-hu siha. Ya ta&amp;rsquo;lu, na&amp;rsquo;tungu&#39; yu&#39; yanggen gai linachi gi iyo-ku blog pat guaha sinangån-mu.&lt;/p&gt;
 &lt;p&gt;Esta, todu ha&#39; para på&amp;rsquo;gu. Yanggen ni håyiyi na sangåni hao trabiha, Biba Tinilaikan i Sakkan!&lt;/p&gt;
 &lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;Hello everyone! It&amp;rsquo;s a new year and I wanted to share with you my thoughts for my blog for the coming year.&lt;/p&gt;
 &lt;p&gt;I have a few ideas that I think will help expand my Chamoru, and that&amp;rsquo;s to write about:&lt;/p&gt;
 &lt;ol&gt;
@@ -439,37 +373,18 @@
 &lt;p&gt;I&amp;rsquo;ve already written about my family but I&amp;rsquo;d like to write about food, books, and tech, especially security in tech. Security isn&amp;rsquo;t what I do at work, but it is something I incorporate into my daily habits - also it&amp;rsquo;s not something I&amp;rsquo;ve seen written about in Chamoru. I got some Chamoru books for Christmas from my wife and her brother, and honestly I can&amp;rsquo;t wait to read them! I&amp;rsquo;m looking forward to the coming year and to start writing about these topics. And again, let me know if there&amp;rsquo;s any mistakes or comments you have.&lt;/p&gt;
 &lt;p&gt;Well, that&amp;rsquo;s it for now. If nobody has told you yet, Happy New Year!&lt;/p&gt;
 &lt;p&gt;Much love &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Magof Påsgua Nochebuena 2020</title>
-        <link>https://djtai.github.io/posts/2020-12-24-magof-pasgua-nochebuena/</link>
-        <pubDate>Thu, 24 Dec 2020 19:50:00 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Thu, 24 Dec 2020 19:50:00 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-24-magof-pasgua-nochebuena/</guid>
-        <description>Reminiscing on Christmas celebrations of the past.</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu yan Magof Påsgua Nochebuena para siha ni&#39; mañilebra.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Magof Påsgua Nochebuena 2020</title>
+    <link>https://djtai.github.io/magof-pasgua-nochebuena-2020/</link>
+    <pubDate>Thu, 24 Dec 2020 19:50:00 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/magof-pasgua-nochebuena-2020/</guid>
+    <description>
+        &lt;p&gt;Håfa adai todus hamyu yan Magof Påsgua Nochebuena para siha ni&#39; mañilebra.&lt;/p&gt;
 &lt;p&gt;Christmas time for me today has shifted mostly towards &lt;em&gt;i bandan asaguå-hu. Gi minagåhet, hagas ha&#39; hu silebra Nochebuena yan i familiå-ña.&lt;/em&gt; On my side of the family we tend to split time between my dad&amp;rsquo;s side and my mom&amp;rsquo;s side. Even then, those parties tend to be closer to New Years or after, i.e., my family tends to celebrate Christmas after New Years &amp;mdash; &lt;em&gt;ya maolek-ña i &amp;ldquo;sales&amp;rdquo; dispues di New Years ki antes, hunggan?&lt;/em&gt; 😅&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Guaha bula hinasso-ku siha ginen tiempon Krismas yan i familiå-ku.&lt;/em&gt; It was definitely one of the happiest times of the year for me: &lt;em&gt;bula nengkånnu&#39;, gaigi todu mamprimå-hu gi gima&#39;, ya mangånta yan manmanayuyut ham. Mahålang yu&#39; nu eyu tiempu.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I miss it - more so lately.&lt;/p&gt;
@@ -477,8 +392,8 @@
 &lt;p&gt;&lt;em&gt;Hu tungu&#39; na siña hu bisita otro taotao ni&#39; mañilebra i Nobenan Niño, lao ti parehu eyu yanggen taigui i familiå-ku. Ohala na gumaigi yu&#39; yan i mañainå-hu lamo&amp;rsquo;na. Mahålang yu&#39; nu siha.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
 &lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr /&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
 &lt;p&gt;&lt;a href=&#34;https://djtai.github.io/posts/2020-12-19-kasiyas-2020/&#34;&gt;Tinigi&#39;-hu&lt;/a&gt; put Kasiyas 2020&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
@@ -487,93 +402,79 @@
 &lt;p&gt;&lt;a href=&#34;https://www.guampedia.com/nobenan-i-nino-jesus-novena-to-the-christ-child/&#34;&gt;Guampedia article&lt;/a&gt; on Nobenan Niño&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;/div&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoglish</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Kasiyas 2020</title>
-        <link>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</link>
-        <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Sat, 19 Dec 2020 22:00:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-19-kasiyas-2020/</guid>
-        <description>A poem I wrote for Kasiyas 2020.</description>
-        <content:encoded>&lt;p&gt;Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.facebook.com/inestudianchamoru/videos/383447836086968&#34;&gt;click here&lt;/a&gt; (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; &lt;em&gt;translation below poem&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;fino-chamoru&#34;&gt;Fino&#39; Chamoru&lt;/h2&gt;
-&lt;p&gt;Mungnga ma’å’ñao fumino’ Chamoru,&lt;br /&gt;
-Achokka’ ennao muna’ma’å’ñao hao.&lt;br /&gt;
-Achokka’ hinasso-mu na mapput para hågu,&lt;br /&gt;
+&lt;/section&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Kasiyas 2020</title>
+    <link>https://djtai.github.io/kasiyas-2020/</link>
+    <pubDate>Sat, 19 Dec 2020 22:00:00 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/kasiyas-2020/</guid>
+    <description>
+        &lt;p&gt;Hu tugi&#39; ini na poem para Kasiyas 2020; put hu sohyu&#39; todus hamyu para konsigi fumino&#39; Chamoru. Yanggen malago&#39; hao umegga&#39;, siña hao gi Facebook &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.facebook.com/inestudianchamoru/videos/383447836086968&#34;&gt;click here&lt;/a&gt; (manaitai yu&#39; gi ~45 minutes 👍🏼) &amp;mdash; &lt;em&gt;translation below poem&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;fino-chamoru&#34;&gt;
+    &lt;a href=&#34;#fino-chamoru&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Fino&amp;#39; Chamoru
+&lt;/h2&gt;
+&lt;p&gt;Mungnga ma’å’ñao fumino’ Chamoru,
+Achokka’ ennao muna’ma’å’ñao hao.
+Achokka’ hinasso-mu na mapput para hågu,
 Maolekña kumekefino&#39; ki pumåpara&lt;/p&gt;
-&lt;p&gt;Siña un tutuhun på’gu na ha’åni,&lt;br /&gt;
-Lao maolek ha’ yanggen ti siña hao.&lt;br /&gt;
-Siña un tutuhun hao agupa’ lokkui’,&lt;br /&gt;
+&lt;p&gt;Siña un tutuhun på’gu na ha’åni,
+Lao maolek ha’ yanggen ti siña hao.
+Siña un tutuhun hao agupa’ lokkui’,
 Hasso nai, ni ngai&amp;rsquo;an gof atrasao.&lt;/p&gt;
-&lt;p&gt;Achokka&#39; gof chaochao i hinanao-mu&lt;br /&gt;
-Pat annåkku’ lokkui’, taiguennao para guahu.&lt;br /&gt;
-Lao, mungnga nai chumathinassu,&lt;br /&gt;
+&lt;p&gt;Achokka&#39; gof chaochao i hinanao-mu
+Pat annåkku’ lokkui’, taiguennao para guahu.
+Lao, mungnga nai chumathinassu,
 Yanggen malago&#39; hao ayuda, pues gaigi yu’.&lt;/p&gt;
-&lt;p&gt;Ya mangaigi siha lokkui’, todu manga&amp;rsquo;chong-ta;&lt;br /&gt;
-Todu taotao guennao huyung ni’ mane’eyak.&lt;br /&gt;
-Todu i taotao muna’lå’la’la&#39; i fino’-ta,&lt;br /&gt;
+&lt;p&gt;Ya mangaigi siha lokkui’, todu manga&amp;rsquo;chong-ta;
+Todu taotao guennao huyung ni’ mane’eyak.
+Todu i taotao muna’lå’la’la&#39; i fino’-ta,
 Manmalago’ ham manmanayuda todus gi hinanao-ta.&lt;/p&gt;
-&lt;p&gt;Pues na’ågang i bos-mu annai ume&amp;rsquo;eyak hao,&lt;br /&gt;
-Achokka’ na tristi pat gof yayas hao,&lt;br /&gt;
-Sa’ anngen un usa i fino’ Chamoru,&lt;br /&gt;
+&lt;p&gt;Pues na’ågang i bos-mu annai ume&amp;rsquo;eyak hao,
+Achokka’ na tristi pat gof yayas hao,
+Sa’ anngen un usa i fino’ Chamoru,
 Hågu muna&amp;rsquo;lå&amp;rsquo;la&amp;rsquo;la&#39; i kutturå-mu&lt;/p&gt;
 &lt;p&gt;Sa’ hahasso nai…yanggen ti hita, pues håyi?&lt;/p&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;p&gt;I wrote this poem for Kasiyas 2020; I wrote it to persuade people to continue learning to speak Chamoru. If you want to watch, you can on Facebook &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.facebook.com/inestudianchamoru/videos/383447836086968&#34;&gt;click here&lt;/a&gt; (I read at ~45 minutes 👍🏼).&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d prefer not to translate the poem, at least not right &lt;em&gt;now&lt;/em&gt;&amp;hellip;I feel it takes away from the overall meaning of the poem. If you&amp;rsquo;d like a translation, get in touch! We can work through it together.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-        
-          
-            
-              <category>poems</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Adingani i Lahi-hu Pt. 2</title>
-        <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
-        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Sun, 13 Dec 2020 13:00:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
-        <description>Part 2 of: Chamoru phrases I say to my son.</description>
-        <content:encoded>&lt;p&gt;I finene&amp;rsquo;na na blog &lt;a href=&#34;https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/&#34;&gt;guini&lt;/a&gt;.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Adingani i Lahi-hu Pt. 2</title>
+    <link>https://djtai.github.io/adingani-i-lahi-hu-pt-2/</link>
+    <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/adingani-i-lahi-hu-pt-2/</guid>
+    <description>
+        &lt;p&gt;I finene&amp;rsquo;na na blog &lt;a href=&#34;https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/&#34;&gt;guini&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Buenas yan håfa adai todus hamyu!&lt;/strong&gt; Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.&lt;/p&gt;
 &lt;p&gt;I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.&lt;/p&gt;
 &lt;p&gt;Yanngen gailinachi gi ini na tinigi&#39;-hu, pues sangåni yu&#39; fan &amp;mdash; Estudiånti ha&#39; yu&#39; yan kada diha tumutungu&#39; yu&#39;.&lt;/p&gt;
-&lt;h3 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha Ni&#39; Hu Sangåni i Lahi-hu&lt;/h3&gt;
-&lt;hr /&gt;
+&lt;h3 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;
+    &lt;a href=&#34;#sin%c3%a5ngan-siha-ni-hu-sang%c3%a5ni-i-lahi-hu&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Sinångan Siha Ni&amp;#39; Hu Sangåni i Lahi-hu
+&lt;/h3&gt;
+&lt;hr&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -626,100 +527,94 @@ Hågu muna&amp;rsquo;lå&amp;rsquo;la&amp;rsquo;la&#39; i kutturå-mu&lt;/p&gt;
 &lt;/table&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bula guinaiya&lt;/strong&gt;. DJT.&lt;/p&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;The 1st blog is &lt;a href=&#34;https://write.as/davidtaitingfong/adingani-lahi-hu&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Hello everyone! It&amp;rsquo;s been a long time since I&amp;rsquo;ve written here, yeah? Honestly, I&amp;rsquo;ve been really busy these past two months. Every day, I do what I typically do: wake up and exercise or eat, then I work, and then I play with my son. It all drains me, lol.&lt;/p&gt;
 &lt;p&gt;The reason for this blog is so that I can share more simple phrases I tell my son.&lt;/p&gt;
 &lt;p&gt;If there are mistakes in this blog, then tell me please &amp;mdash; I&amp;rsquo;m still a student and learning every day.&lt;/p&gt;
-&lt;h3 id=&#34;phrases-i-tell-my-son&#34;&gt;Phrases I Tell My Son&lt;/h3&gt;
+&lt;h3 id=&#34;phrases-i-tell-my-son&#34;&gt;
+    &lt;a href=&#34;#phrases-i-tell-my-son&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Phrases I Tell My Son
+&lt;/h3&gt;
 &lt;p&gt;⬆ &lt;em&gt;go back up to read the phrases&lt;/em&gt; 😁&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it for now.&lt;/p&gt;
 &lt;p&gt;All love. DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Mampus Chaddek i Lahi-hu</title>
-        <link>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</link>
-        <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Sat, 14 Nov 2020 20:00:00 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</guid>
-        <description>Kids: they grow so fast...and run fast too!</description>
-        <content:encoded>&lt;p&gt;Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu. Ai adai, guaha na biåhi ti siña hu sodda&#39; i tiempu para dumeskånsa.&lt;/p&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Mampus Chaddek i Lahi-hu</title>
+    <link>https://djtai.github.io/mampus-chaddek-i-lahi-hu/</link>
+    <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
+    
+    <guid>https://djtai.github.io/mampus-chaddek-i-lahi-hu/</guid>
+    <description>
+        &lt;p&gt;Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu. Ai adai, guaha na biåhi ti siña hu sodda&#39; i tiempu para dumeskånsa.&lt;/p&gt;
 &lt;p&gt;Lao gi minagåhet, eyu ha na&amp;rsquo;magof yu&#39; sa&#39; hu lili&amp;rsquo;i&#39; gui&#39; dumångkulu; mås chumachålek gui&#39;, gof ya-ña humugågandu yan hami yan si Lorie asaguå-hu, ya bula kumukuentus gui&#39;!&lt;/p&gt;
 &lt;p&gt;Ti siña hu nangga para lumi&amp;rsquo;i&#39; håfa guaha na umeyak gui&#39;.&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu // Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;english-translation&#34;&gt;
+    &lt;a href=&#34;#english-translation&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    English Translation
+&lt;/h2&gt;
 &lt;p&gt;Every day, I see my son running around our house. He&amp;rsquo;s at the front door, then he runs into the room, then he&amp;rsquo;s behind me or right next to me. My goodness, sometimes I can&amp;rsquo;t find the time to relax.&lt;/p&gt;
 &lt;p&gt;But honestly, it makes me happy because I&amp;rsquo;m seeing him grow; he&amp;rsquo;s laughing more, he really likes playing with me and my wife, and he&amp;rsquo;s talking so much!&lt;/p&gt;
 &lt;p&gt;I can&amp;rsquo;t wait to see what else he learns.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s it for now // Much love &amp;mdash; DJT&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Adingani i Lahi-hu</title>
-        <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
-        <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
-        <description>Chamoru phrases I say to my son.</description>
-        <content:encoded>&lt;blockquote&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>Adingani i Lahi-hu</title>
+    <link>https://djtai.github.io/adingani-i-lahi-hu/</link>
+    <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/adingani-i-lahi-hu/</guid>
+    <description>
+        &lt;blockquote&gt;
 &lt;p&gt;Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Most of the Chamoru that I&amp;rsquo;ve been using lately is towards &lt;strong&gt;i lahi-hu&lt;/strong&gt;. &lt;strong&gt;Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site. Feel free to hit me up on any of those.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Nihi ta tutuhun.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha ni&#39; Hu Sangåni i Lahi-hu&lt;/h2&gt;
+&lt;h2 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;
+    &lt;a href=&#34;#sin%c3%a5ngan-siha-ni-hu-sang%c3%a5ni-i-lahi-hu&#34; class=&#34;anchor&#34;&gt;
+        &lt;svg class=&#34;icon&#34; aria-hidden=&#34;true&#34; focusable=&#34;false&#34; height=&#34;16&#34; version=&#34;1.1&#34; viewBox=&#34;0 0 16 16&#34; width=&#34;16&#34;&gt;
+            &lt;path fill-rule=&#34;evenodd&#34;
+                d=&#34;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&#34;&gt;
+            &lt;/path&gt;
+        &lt;/svg&gt;
+    &lt;/a&gt;
+    Sinångan Siha ni&amp;#39; Hu Sangåni i Lahi-hu
+&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Phrases I Tell My Son&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;hr /&gt;
+&lt;hr&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
@@ -817,45 +712,18 @@ Hågu muna&amp;rsquo;lå&amp;rsquo;la&amp;rsquo;la&#39; i kutturå-mu&lt;/p&gt;
 &lt;p&gt;Definitely simple phrases that I hope my son will catch on to. &lt;strong&gt;Gi minagåhet, hu tungu&#39; na ha kumprendi na ilek-hu ya ennao ha gof na&amp;rsquo;magof yu&#39;.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
 &lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-            
-              <category>chamoglish</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>I Tinituhon</title>
-        <link>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</link>
-        <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
-        <author>David Taitingfong</author>
-        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-10-25-i-tinituhon/</guid>
-        <description>My first blog; explains why I started this blog.</description>
-        <content:encoded>&lt;blockquote&gt;
+
+    </description>
+    </item>
+    
+    <item>
+    <title>I Tinituhon</title>
+    <link>https://djtai.github.io/i-tinituhon/</link>
+    <pubDate>Sun, 25 Oct 2020 17:06:44 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/i-tinituhon/</guid>
+    <description>
+        &lt;blockquote&gt;
 &lt;p&gt;Note: Updated 2020-12-22 with added English title.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Buenas yan håfa adai todus hamyu! Guahu i che&amp;rsquo;lun-miyu as David Taitingfong ya ini iyo-ku na blog ni&#39; un taitaitai.&lt;/p&gt;
@@ -864,29 +732,9 @@ Hågu muna&amp;rsquo;lå&amp;rsquo;la&amp;rsquo;la&#39; i kutturå-mu&lt;/p&gt;
 &lt;p&gt;Bear in mind that I still consider myself a beginner in this space (particularly when it comes to conversing) so if you read something and think, &lt;strong&gt;&amp;ldquo;Ai adai, milachi gi tinigi&#39;-mu&amp;rdquo;&lt;/strong&gt;, then cut me some slack pot fabot. Ya hunggan, siña ha&#39; para un li&amp;rsquo;i&#39; bula na ini, i.e., I&amp;rsquo;ll be switching from English to Chamoru and vice versa. My goal is to use as much Chamoru as possible but ai adai, guaha na biåhi na siña makkat ennao, lao bai hu chagi.&lt;/p&gt;
 &lt;p&gt;Hopefully you find my writings interesting. Hopefully this journey never ends and we find our paths crossing at some point. Todu ha&#39; para på&amp;rsquo;gu. Fanadahi todus hamyu.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Bula guinaiya - DJT.&lt;/strong&gt;&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>intro</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
 
+    </description>
+    </item>
     
   </channel>
 </rss>

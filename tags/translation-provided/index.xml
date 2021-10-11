@@ -1,577 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>translation-provided on Hinanao-hu</title>
+    <title>translation provided on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/tags/translation-provided/</link>
-    <description>Recent content in translation-provided on Hinanao-hu</description>
+    <description>Recent content in translation provided on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Jun 2021 12:43:39 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jun 2021 12:43:39 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/translation-provided/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hu Fa&#39;mamaolek Esti na Blog</title>
+      <link>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</link>
+      <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</guid>
+      <description>Håfa adai todus hamyu guennao huyung! Hu tungu&#39; na tumaigui yu&#39; giya guini, lao hu prometi hamyu na ti åpmam bai tutuhun månggi&#39; guini. Buenti gumuaha tiempo-ku gi mamaila&#39; na semåna, lao siempri gi mamaila&#39; na mes - puedi ti mås anåkku&#39; sa&#39; malago&#39; yu&#39; fa&amp;rsquo;maolek esti na blog. Bai hu tulaika i &amp;ldquo;theme&amp;rdquo; ya hu tungu&#39; na gumuaha meggai tinilaika siha ni&#39; hu chek pat chagi.
+Todu ha&#39; para på&amp;rsquo;gu.</description>
+    </item>
     
-        <atom:link href="https://djtai.github.io/tags/translation-provided/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</title>
+      <link>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</link>
+      <pubDate>Tue, 16 Mar 2021 20:58:35 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</guid>
+      <description>Cha&#39;-hu dagi hamyu. Kumahulo&#39; yu&#39; gi taftaf ogga&amp;rsquo;an kada ha&amp;rsquo;åni ya ti malago&#39; ha&#39; yu&#39; umetsisiu. Hu tungu&#39; na etsisiu u na&amp;rsquo;labråbu yu&#39;, lao mapput para hu sodda&#39; i metgot-hu. LAO magåhet na kumeke&amp;rsquo;etsisiu yu&#39; kada ogga&amp;rsquo;an, pat atu&amp;rsquo;åsi kada ha&amp;rsquo;åni&amp;hellip;pat kada semåna, haha.
+Esta hu chachagi kumånnu&#39; labråbun néngkanu: meggai gollai, meggai golosina, ya ti hu chagi kumånnu&#39; mampus kåtni (lao hu chagi kumånnu&#39; néngkanu ginen i tasi kada siña yu&#39;.</description>
+    </item>
     
-
+    <item>
+      <title>Biba Mes Chamoru!</title>
+      <link>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</link>
+      <pubDate>Mon, 01 Mar 2021 12:47:16 -0800</pubDate>
       
-      <item>
-        <title>Hu Fa&#39;mamaolek Esti na Blog</title>
-        <link>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</link>
-        <pubDate>Sun, 13 Jun 2021 12:43:39 -0700</pubDate>
-        
-        <atom:modified>Sun, 13 Jun 2021 12:43:39 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-06-13-famamaolek-esti-na-blog/</guid>
-        <description>Håfa adai todus hamyu guennao huyung! Hu tungu&#39; na tumaigui yu&#39; giya guini, lao hu prometi hamyu na ti åpmam bai tutuhun månggi&#39; guini.</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu guennao huyung! Hu tungu&#39; na tumaigui yu&#39; giya guini, lao hu prometi hamyu na ti åpmam bai tutuhun månggi&#39; guini. Buenti gumuaha tiempo-ku gi mamaila&#39; na semåna, lao siempri gi mamaila&#39; na mes - puedi ti mås anåkku&#39; sa&#39; malago&#39; yu&#39; fa&amp;rsquo;maolek esti na blog. Bai hu tulaika i &amp;ldquo;theme&amp;rdquo; ya hu tungu&#39; na gumuaha meggai tinilaika siha ni&#39; hu chek pat chagi.&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;Hey everyone out there! I know that I&amp;rsquo;ve been absent, but I promise y&amp;rsquo;all that I&amp;rsquo;ll start writing soon. Maybe I&amp;rsquo;ll have time in the coming week, but surely I&amp;rsquo;ll have time in the coming month - hopefully not longer because I want to fix this blog. I&amp;rsquo;m going to change the theme and I know there&amp;rsquo;s gonna be plenty to check and test.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</guid>
+      <description>Håfa adai todus hamyu guennao huyung! På&amp;rsquo;gu na ha&amp;rsquo;åni i tinituhun-ña nu Mes Chamoru! Hu tungu&#39; na ti sessu mångge&#39; yu&#39; guini, lao hu prometi hamyu na hu chachagi! Kada diha gof tinani&#39; ha&#39; yu&#39;: guaha mampus che&amp;rsquo;cho&#39;-hu, guaha mampus tarehan guma&#39; put eskuela, ya manhåhalom ha&#39; ham yan i manggafå-hu gi un nuebun guma&#39;.
+Ai adai, fannå&amp;rsquo;i yu&#39; i animås-miyu fan.
+Siempri bai kefångge&#39; guini, kolo&amp;rsquo;lo&amp;rsquo;ña sa&#39; på&amp;rsquo;gu i Mes Chamoru.</description>
+    </item>
+    
+    <item>
+      <title>Guaha Mampus Para Bidå-hu</title>
+      <link>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</link>
+      <pubDate>Wed, 27 Jan 2021 21:43:29 -0800</pubDate>
       
-      <item>
-        <title>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</title>
-        <link>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</link>
-        <pubDate>Tue, 16 Mar 2021 20:58:35 -0700</pubDate>
-        
-        <atom:modified>Tue, 16 Mar 2021 20:58:35 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-03-16-kumekeetsisiyu-yu/</guid>
-        <description>Cha&#39;-hu dagi hamyu. Kumahulo&#39; yu&#39; gi taftaf ogga&amp;rsquo;an kada ha&amp;rsquo;åni ya ti malago&#39; ha&#39; yu&#39; umetsisiu. Hu tungu&#39; na etsisiu u na&amp;rsquo;labråbu yu&#39;, lao mapput para hu sodda&#39; i metgot-hu.</description>
-        <content:encoded>&lt;p&gt;Cha&#39;-hu dagi hamyu. Kumahulo&#39; yu&#39; gi taftaf ogga&amp;rsquo;an kada ha&amp;rsquo;åni ya ti malago&#39; ha&#39; yu&#39; umetsisiu. Hu tungu&#39; na etsisiu u na&amp;rsquo;labråbu yu&#39;, lao mapput para hu sodda&#39; i metgot-hu. LAO magåhet na kumeke&amp;rsquo;etsisiu yu&#39; kada ogga&amp;rsquo;an, pat atu&amp;rsquo;åsi kada ha&amp;rsquo;åni&amp;hellip;pat kada semåna, haha.&lt;/p&gt;
-&lt;p&gt;Esta hu chachagi kumånnu&#39; labråbun néngkanu: meggai gollai, meggai golosina, ya ti hu chagi kumånnu&#39; mampus kåtni (lao hu chagi kumånnu&#39; néngkanu ginen i tasi kada siña yu&#39;.) Sen mapput ini na maloffan na såkkan para todus hit, ya siña manli&amp;rsquo;i&#39; ha&#39; yu&#39; tinilaika gi taotao-hu - ya ti maolek ha&#39;! Ti hu &lt;strong&gt;duru&lt;/strong&gt; kekechathinasso put håfa kinannono-hu, lao esta hu tungu&#39; na kumakånnu&#39; båba na néngkanu kada biåhi siña na&amp;rsquo;yamak i taotao-hu. Hu honggi metgot na kinannono-ta u na&amp;rsquo;tulaika-ña kinu etsisiu-ta.&lt;/p&gt;
-&lt;p&gt;Lao, gi sinangån-ñiha: kinalamten i kinalamten. Nuebun ha&amp;rsquo;åni i agupa&#39;.&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;I won&amp;rsquo;t lie to you. I get up early every day and just don&amp;rsquo;t want to workout. I know that exercising will make me healthier, but it&amp;rsquo;s hard to find the strength to do it. BUT I am honestly trying to workout every morning, or at least every day&amp;hellip;or every week, haha.&lt;/p&gt;
-&lt;p&gt;I already try to eat healthier food: lots of veggies, plenty of fruits, and I try not to eat too much meat (but I do try to eat seafood whenever I can). This past year has been really difficult for us all, and I definitely see a change in my body - and it ain&amp;rsquo;t good! I&amp;rsquo;m trying not to worry &lt;strong&gt;too&lt;/strong&gt; much about what I eat, but I know that always eating bad food can wreck my body. I strongly believe that our diets cause more change than the exercises we do.&lt;/p&gt;
-&lt;p&gt;But as they say: progress is progress. Tomorrow is a new day.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</guid>
+      <description>Ai adai, dispensa na gof atrasao ini na blog! Gi minagåhet, sen tinani&#39; yu&#39; lao guaha maolek na rason na taiguini. Na&amp;rsquo;kadada&#39; un anåkku&#39; na istoria: ti apmam bai in fañåga gi nuebun guma&#39;, yan i mañainå-hu yan che&amp;rsquo;lu-hu. Ohala&#39; mohon na ti apmam siña månggi&#39; yu&#39; kosa ki siña hu sangåni hamyu håfa nuebu gi lina&amp;rsquo;lå&#39;-hu. Esta otro tiempu nai!
+Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.
+    English Translation  My goodness, apologies for this late blog!</description>
+    </item>
+    
+    <item>
+      <title>I Lahi-hu Kumpreprendi i Ilelek-hu</title>
+      <link>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</link>
+      <pubDate>Thu, 07 Jan 2021 23:10:42 -0800</pubDate>
       
-      <item>
-        <title>Biba Mes Chamoru!</title>
-        <link>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</link>
-        <pubDate>Mon, 01 Mar 2021 12:47:16 -0800</pubDate>
-        
-        <atom:modified>Mon, 01 Mar 2021 12:47:16 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-03-01-biba-mes-chamoru/</guid>
-        <description>Håfa adai todus hamyu guennao huyung! På&amp;rsquo;gu na ha&amp;rsquo;åni i tinituhun-ña nu Mes Chamoru! Hu tungu&#39; na ti sessu mångge&#39; yu&#39; guini, lao hu prometi hamyu na hu chachagi!</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu guennao huyung! På&amp;rsquo;gu na ha&amp;rsquo;åni i tinituhun-ña nu Mes Chamoru! Hu tungu&#39; na ti sessu mångge&#39; yu&#39; guini, lao hu prometi hamyu na hu chachagi! Kada diha gof tinani&#39; ha&#39; yu&#39;: guaha mampus che&amp;rsquo;cho&#39;-hu, guaha mampus tarehan guma&#39; put eskuela, ya manhåhalom ha&#39; ham yan i manggafå-hu gi un nuebun guma&#39;.&lt;/p&gt;
-&lt;p&gt;Ai adai, fannå&amp;rsquo;i yu&#39; i animås-miyu fan.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://djtai.github.io/images/2021-03-01_00.png&#34; alt=&#34;Goku preparing a spirit bomb.&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Siempri bai kefångge&#39; guini, kolo&amp;rsquo;lo&amp;rsquo;ña sa&#39; på&amp;rsquo;gu i Mes Chamoru. Fanhasso ha&#39; todus hamyu: sigi ha&#39; u&amp;rsquo;usa i fino&#39;-ta; sigi ha&#39; ume&amp;rsquo;eyak yan tumutungu&#39; todu siña hamyu. Mungnga chumathinasso put linachi gi tinigi&#39;-miyu pat sinångan-miyu. Todu maolek ha&#39;. Sigi ha&#39; chachagi.&lt;/p&gt;
-&lt;p&gt;Biba Mes Chamoru! Na&amp;rsquo;lå&amp;rsquo;la&#39; todu kosas Chamoru!&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;Hello to everyone out there! Today is the beginning of Chamorro Month! I know that I don&amp;rsquo;t often write write here, but I promise you I&amp;rsquo;m trying! It&amp;rsquo;s just every day I&amp;rsquo;ve been so busy: too much work, too much school homework, and we&amp;rsquo;re still moving into a new house.&lt;/p&gt;
-&lt;p&gt;Ai adai, please lend me your strength.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ll definitely try to write here, especially because it&amp;rsquo;s Chamorro Month. Just remember everyone: keep using the language; keep learning all that you can. Don&amp;rsquo;t worry about errors in your writing or your words. It&amp;rsquo;s all good. Just keep trying.&lt;/p&gt;
-&lt;p&gt;Biba Chamorro Month! Celebrate all things Chamorro!&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</guid>
+      <description>Kada diha hu usa fino&#39; Chamoru gi i gima&#39;-hu yan i familiå-ku, i asaguå-hu yan i lahi-hu, si Lorie yan si Leo. Gi minagåhet, ti sessu hu usa nuebu na palåbra siha yan siha, lao siempri hu adingani siha gi fino&#39; Chamoru. Guaha na biåhi na hu ke&amp;rsquo;usa nuebu na palåbra siha, piót yan i lahi-hu, ya kada diha siña manli&amp;rsquo;i&#39; yu&#39; na ha na&amp;rsquo;la&amp;rsquo;tungu&#39; gui&#39;. Hu tungu&#39; na ha kumprendi annai hu sangåni gui&#39;:</description>
+    </item>
+    
+    <item>
+      <title>Minalago&#39; Siha Para I Tinilaikan I Sakkan</title>
+      <link>https://djtai.github.io/posts/2021-01-01-minalago-siha/</link>
+      <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
       
-      <item>
-        <title>Guaha Mampus Para Bidå-hu</title>
-        <link>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</link>
-        <pubDate>Wed, 27 Jan 2021 21:43:29 -0800</pubDate>
-        
-        <atom:modified>Wed, 27 Jan 2021 21:43:29 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-27-guaha-mampus-para-bida-hu/</guid>
-        <description>Ai adai, dispensa na gof atrasao ini na blog! Gi minagåhet, sen tinani&#39; yu&#39; lao guaha maolek na rason na taiguini.</description>
-        <content:encoded>&lt;p&gt;Ai adai, dispensa na gof atrasao ini na blog! Gi minagåhet, sen tinani&#39; yu&#39; lao guaha maolek na rason na taiguini. Na&amp;rsquo;kadada&#39; un anåkku&#39; na istoria: ti apmam bai in fañåga gi nuebun guma&#39;, yan i mañainå-hu yan che&amp;rsquo;lu-hu. Ohala&#39; mohon na ti apmam siña månggi&#39; yu&#39; kosa ki siña hu sangåni hamyu håfa nuebu gi lina&amp;rsquo;lå&#39;-hu. Esta otro tiempu nai!&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;My goodness, apologies for this late blog! Truthfully, I&amp;rsquo;m super busy but there&amp;rsquo;s a good reason for that. Long story short: I&amp;rsquo;m moving soon into a new house, along with my parents and sister. Hopefully I can write soon so I can give an update on life. Until next time!&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s all for now. Much love! &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2021-01-01-minalago-siha/</guid>
+      <description>Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.
+Guaha ideha-hu siha na hinasso-ku siempri na&amp;rsquo;dångkulu i tiningu&#39;-hu gi Fino&#39; Chamoru, ya eyu nai bai månggi&#39; put:
+ Manggafå-hu Nengkånu&#39; ni&#39; chumocho yan mama&amp;rsquo;tinas yu&#39; Lepblo-ku siha ni&#39; manaitai yu&#39; Todu kosas gi Tek  Esta månggi&#39; yu&#39; ni manggafå-hu lao ya-hu bai månggi&#39; nu nengkånu&#39;, lepblo siha, yan tek, kulolo&amp;rsquo;ña put siguridát gi tek.</description>
+    </item>
+    
+    <item>
+      <title>Adingani i Lahi-hu Pt. 2</title>
+      <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
+      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
       
-      <item>
-        <title>I Lahi-hu Kumpreprendi i Ilelek-hu</title>
-        <link>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</link>
-        <pubDate>Thu, 07 Jan 2021 23:10:42 -0800</pubDate>
-        
-        <atom:modified>Thu, 07 Jan 2021 23:10:42 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-07-i-lahi-hu-kumpreprendi/</guid>
-        <description>Kada diha hu usa fino&#39; Chamoru gi i gima&#39;-hu yan i familiå-ku, i asaguå-hu yan i lahi-hu, si Lorie yan si Leo.</description>
-        <content:encoded>&lt;p&gt;Kada diha hu usa fino&#39; Chamoru gi i gima&#39;-hu yan i familiå-ku, i asaguå-hu yan i lahi-hu, si Lorie yan si Leo. Gi minagåhet, ti sessu hu usa nuebu na palåbra siha yan siha, lao siempri hu adingani siha gi fino&#39; Chamoru. Guaha na biåhi na hu ke&amp;rsquo;usa nuebu na palåbra siha, piót yan i lahi-hu, ya kada diha siña manli&amp;rsquo;i&#39; yu&#39; na ha na&amp;rsquo;la&amp;rsquo;tungu&#39; gui&#39;. Hu tungu&#39; na ha kumprendi annai hu sangåni gui&#39;:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Maila&#39; mågi&lt;/li&gt;
-&lt;li&gt;Nihi ta tulaika (i magågu-mu / i pañåles-mu)&lt;/li&gt;
-&lt;li&gt;Huchum i petta fan&lt;/li&gt;
-&lt;li&gt;Mungnga (mamacha, pumacha, kumassas, tumångis, etc.)&lt;/li&gt;
-&lt;li&gt;Chiku fan&lt;/li&gt;
-&lt;li&gt;Kao ñålang hao?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Banidosu yu&#39; nu guiya, ya gi minagåhet banidosu yu&#39; lokkui&#39; nu guahu na siña hu adingani yan i familiå-ku gi fino&#39; Chamoru, achokka&#39; adumididi&#39;.&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;Everyday I use Chamoru in my house with my family, my wife and my son, Lorie and Leo. Honestly, I don&amp;rsquo;t often use new words with them, but I certainly talk to them in Chamoru. Sometimes I try to use new words, especially with my son, and I can see that everyday he learns a bit more. I know that he can understand when I say:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Come here&lt;/li&gt;
-&lt;li&gt;Lets change (your clothes / your diaper)&lt;/li&gt;
-&lt;li&gt;Close the door please&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t (touch anything, touch that, scratch, cry, etc.)&lt;/li&gt;
-&lt;li&gt;Kiss please&lt;/li&gt;
-&lt;li&gt;Are you hungry?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I&amp;rsquo;m proud of him, and honestly I&amp;rsquo;m proud of myself too that I can converse with my family in Chamoru, even if just a little.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s it for now. Much love! &amp;mdash; DJT&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
+      <description>I finene&amp;rsquo;na na blog guini.
+Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.
+I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.</description>
+    </item>
+    
+    <item>
+      <title>Mampus Chaddek i Lahi-hu</title>
+      <link>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</link>
+      <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
       
-      <item>
-        <title>Minalago&#39; Siha Para I Tinilaikan I Sakkan</title>
-        <link>https://djtai.github.io/posts/2021-01-01-minalago-siha/</link>
-        <pubDate>Fri, 01 Jan 2021 20:00:00 -0800</pubDate>
-        
-        <atom:modified>Fri, 01 Jan 2021 20:00:00 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2021-01-01-minalago-siha/</guid>
-        <description>Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.</description>
-        <content:encoded>&lt;p&gt;Håfa adai todus hamyu! Guaha un nuebun såkkan ya malago&#39; yu&#39; pumåtti hamyu ni hinasso-ku siha para iyo-ku blog para i mamaila&#39; såkkan.&lt;/p&gt;
-&lt;p&gt;Guaha ideha-hu siha na hinasso-ku siempri na&amp;rsquo;dångkulu i tiningu&#39;-hu gi Fino&#39; Chamoru, ya eyu nai bai månggi&#39; put:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Manggafå-hu&lt;/li&gt;
-&lt;li&gt;Nengkånu&#39; ni&#39; chumocho yan mama&amp;rsquo;tinas yu&#39;&lt;/li&gt;
-&lt;li&gt;Lepblo-ku siha ni&#39; manaitai yu&#39;&lt;/li&gt;
-&lt;li&gt;Todu kosas gi Tek&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Esta månggi&#39; yu&#39; ni manggafå-hu lao ya-hu bai månggi&#39; nu nengkånu&#39;, lepblo siha, yan tek, kulolo&amp;rsquo;ña put siguridát gi tek. Ti hu cho&amp;rsquo;gui siguridát gi che&amp;rsquo;cho&#39;-hu, lao eyu kada diha hu na&amp;rsquo;saonao gi lina&amp;rsquo;lå-hu - ti manli&amp;rsquo;i&#39; yu&#39; lokkui&#39; tinigi&#39; siha put eyu gi Fino&#39; Chamoru. Gai lepblu siha na Chamoru yu&#39; på&amp;rsquo;gu ni&#39; i asaguå-hu yan i kiñådu-hu ma nå&amp;rsquo;i yu&#39; para Krismas, ya gi minagåhet ti siña mannangga yu&#39; manaitai siha. Hu fakchacha&amp;rsquo;i i mamaila&#39; såkkan yan tutuhun tumugi&#39; iyo-ku blog siha put ideha-hu siha. Ya ta&amp;rsquo;lu, na&amp;rsquo;tungu&#39; yu&#39; yanggen gai linachi gi iyo-ku blog pat guaha sinangån-mu.&lt;/p&gt;
-&lt;p&gt;Esta, todu ha&#39; para på&amp;rsquo;gu. Yanggen ni håyiyi na sangåni hao trabiha, Biba Tinilaikan i Sakkan!&lt;/p&gt;
-&lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;Hello everyone! It&amp;rsquo;s a new year and I wanted to share with you my thoughts for my blog for the coming year.&lt;/p&gt;
-&lt;p&gt;I have a few ideas that I think will help expand my Chamoru, and that&amp;rsquo;s to write about:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;My family&lt;/li&gt;
-&lt;li&gt;Food I&amp;rsquo;ve eaten &amp;amp; made&lt;/li&gt;
-&lt;li&gt;Books I&amp;rsquo;ve read&lt;/li&gt;
-&lt;li&gt;All things in Tech&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;I&amp;rsquo;ve already written about my family but I&amp;rsquo;d like to write about food, books, and tech, especially security in tech. Security isn&amp;rsquo;t what I do at work, but it is something I incorporate into my daily habits - also it&amp;rsquo;s not something I&amp;rsquo;ve seen written about in Chamoru. I got some Chamoru books for Christmas from my wife and her brother, and honestly I can&amp;rsquo;t wait to read them! I&amp;rsquo;m looking forward to the coming year and to start writing about these topics. And again, let me know if there&amp;rsquo;s any mistakes or comments you have.&lt;/p&gt;
-&lt;p&gt;Well, that&amp;rsquo;s it for now. If nobody has told you yet, Happy New Year!&lt;/p&gt;
-&lt;p&gt;Much love &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
+      <guid>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</guid>
+      <description>Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu. Ai adai, guaha na biåhi ti siña hu sodda&#39; i tiempu para dumeskånsa.
+Lao gi minagåhet, eyu ha na&amp;rsquo;magof yu&#39; sa&#39; hu lili&amp;rsquo;i&#39; gui&#39; dumångkulu; mås chumachålek gui&#39;, gof ya-ña humugågandu yan hami yan si Lorie asaguå-hu, ya bula kumukuentus gui&#39;!</description>
+    </item>
+    
+    <item>
+      <title>Adingani i Lahi-hu</title>
+      <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
+      <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
       
-      <item>
-        <title>Adingani i Lahi-hu Pt. 2</title>
-        <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
-        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-        
-        <atom:modified>Sun, 13 Dec 2020 13:00:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
-        <description>I finene&amp;rsquo;na na blog guini.
-Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan.</description>
-        <content:encoded>&lt;p&gt;I finene&amp;rsquo;na na blog &lt;a href=&#34;https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/&#34;&gt;guini&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Buenas yan håfa adai todus hamyu!&lt;/strong&gt; Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.&lt;/p&gt;
-&lt;p&gt;I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.&lt;/p&gt;
-&lt;p&gt;Yanngen gailinachi gi ini na tinigi&#39;-hu, pues sangåni yu&#39; fan &amp;mdash; Estudiånti ha&#39; yu&#39; yan kada diha tumutungu&#39; yu&#39;.&lt;/p&gt;
-&lt;h3 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha Ni&#39; Hu Sangåni i Lahi-hu&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Chamoru&lt;/th&gt;
-&lt;th&gt;English&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Para månu hao?&lt;/td&gt;
-&lt;td&gt;Where are you going?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa un li&amp;rsquo;i&#39; gi hiyung?&lt;/td&gt;
-&lt;td&gt;What do you see outside?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao un li&amp;rsquo;i&#39; i batkun airi?&lt;/td&gt;
-&lt;td&gt;Did you see the airplane?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga mamacha ni iyo-ku&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t touch my stuff&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao håspuk pat ñålang ha&#39; hao?&lt;/td&gt;
-&lt;td&gt;Are you full or still hungry?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa iyo-mu? Gi kannai-mu?&lt;/td&gt;
-&lt;td&gt;What do you have? In your hand?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hu tungu&#39; na yayas hao pues maigu&#39; på&amp;rsquo;gu&lt;/td&gt;
-&lt;td&gt;I know you&amp;rsquo;re tired so sleep now&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Ai adai, kao tumåki&#39; hao? Gof mutung!&lt;/td&gt;
-&lt;td&gt;Ai adai, did you poop? So stinky!&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta tulaika i pañåles-mu&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s change your diaper&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Gimen i gimen-mu leche kosa ki para ta fanmaigu&#39;&lt;/td&gt;
-&lt;td&gt;Drink your milk so we (3) can go to sleep&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bula guinaiya&lt;/strong&gt;. DJT.&lt;/p&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;The 1st blog is &lt;a href=&#34;https://write.as/davidtaitingfong/adingani-lahi-hu&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Hello everyone! It&amp;rsquo;s been a long time since I&amp;rsquo;ve written here, yeah? Honestly, I&amp;rsquo;ve been really busy these past two months. Every day, I do what I typically do: wake up and exercise or eat, then I work, and then I play with my son. It all drains me, lol.&lt;/p&gt;
-&lt;p&gt;The reason for this blog is so that I can share more simple phrases I tell my son.&lt;/p&gt;
-&lt;p&gt;If there are mistakes in this blog, then tell me please &amp;mdash; I&amp;rsquo;m still a student and learning every day.&lt;/p&gt;
-&lt;h3 id=&#34;phrases-i-tell-my-son&#34;&gt;Phrases I Tell My Son&lt;/h3&gt;
-&lt;p&gt;⬆ &lt;em&gt;go back up to read the phrases&lt;/em&gt; 😁&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s it for now.&lt;/p&gt;
-&lt;p&gt;All love. DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Mampus Chaddek i Lahi-hu</title>
-        <link>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</link>
-        <pubDate>Sat, 14 Nov 2020 20:00:00 -0800</pubDate>
-        
-        <atom:modified>Sat, 14 Nov 2020 20:00:00 -0800</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-11-14-mampus-chaddek-i-lahi-hu/</guid>
-        <description>Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu.</description>
-        <content:encoded>&lt;p&gt;Kada diha, hu li&amp;rsquo;i&#39; malålagu i lahi-hu gi uriyan guma&#39;-måmi. Gaigi gui&#39; gi me&amp;rsquo;nan potta, pues ha malågu hålum i kuatton-måmi, pues gaigi gui&#39; gi tatti yu&#39; pat fi&amp;rsquo;on-hu. Ai adai, guaha na biåhi ti siña hu sodda&#39; i tiempu para dumeskånsa.&lt;/p&gt;
-&lt;p&gt;Lao gi minagåhet, eyu ha na&amp;rsquo;magof yu&#39; sa&#39; hu lili&amp;rsquo;i&#39; gui&#39; dumångkulu; mås chumachålek gui&#39;, gof ya-ña humugågandu yan hami yan si Lorie asaguå-hu, ya bula kumukuentus gui&#39;!&lt;/p&gt;
-&lt;p&gt;Ti siña hu nangga para lumi&amp;rsquo;i&#39; håfa guaha na umeyak gui&#39;.&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu // Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;Every day, I see my son running around our house. He&amp;rsquo;s at the front door, then he runs into the room, then he&amp;rsquo;s behind me or right next to me. My goodness, sometimes I can&amp;rsquo;t find the time to relax.&lt;/p&gt;
-&lt;p&gt;But honestly, it makes me happy because I&amp;rsquo;m seeing him grow; he&amp;rsquo;s laughing more, he really likes playing with me and my wife, and he&amp;rsquo;s talking so much!&lt;/p&gt;
-&lt;p&gt;I can&amp;rsquo;t wait to see what else he learns.&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s it for now // Much love &amp;mdash; DJT&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Adingani i Lahi-hu</title>
-        <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
-        <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
-        
-        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
-        <description>Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.
- Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu.</description>
-        <content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Most of the Chamoru that I&amp;rsquo;ve been using lately is towards &lt;strong&gt;i lahi-hu&lt;/strong&gt;. &lt;strong&gt;Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site. Feel free to hit me up on any of those.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Nihi ta tutuhun.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha ni&#39; Hu Sangåni i Lahi-hu&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Phrases I Tell My Son&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Chamoru&lt;/th&gt;
-&lt;th&gt;English&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta tulaika i magågu-mu&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s change your clothes&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta hånao&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s go&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hånao! Huyung neni&lt;/td&gt;
-&lt;td&gt;Go! Out neni&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hånao yan sodda&#39; si nanå-mu&lt;/td&gt;
-&lt;td&gt;Go and find your mom&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa bidadå-mu?&lt;/td&gt;
-&lt;td&gt;What are you doing?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nå&amp;rsquo;i yu&#39; nu gi kannai-mu&lt;/td&gt;
-&lt;td&gt;Give me what&amp;rsquo;s in your hand&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao ñålang hao?&lt;/td&gt;
-&lt;td&gt;Are you hungry?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao malagu&#39; hao chumochu?&lt;/td&gt;
-&lt;td&gt;Do you want to eat?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao håspuk hao?&lt;/td&gt;
-&lt;td&gt;Are you full?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao ma&amp;rsquo;o hao?&lt;/td&gt;
-&lt;td&gt;Are you thirsty?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håyi ennao/eyu?&lt;/td&gt;
-&lt;td&gt;Who is that?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Maila&#39; mågi&lt;/td&gt;
-&lt;td&gt;Come here&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta baila!&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s dance!&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Baila&#39; yan guahu&lt;/td&gt;
-&lt;td&gt;Dance with me&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga mangassas hao fan&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t scratch yourself please&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga ennao&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t do that&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga kumåti fan&lt;/td&gt;
-&lt;td&gt;Please don&amp;rsquo;t cry&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Sa&#39; håfa kumåkati hao neni?&lt;/td&gt;
-&lt;td&gt;Why are you crying neni?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Atan yu&#39;&lt;/td&gt;
-&lt;td&gt;Look at me&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao matuhuk hao?&lt;/td&gt;
-&lt;td&gt;Are you sleepy?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao esta yayas hao?&lt;/td&gt;
-&lt;td&gt;Are you already tired?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Definitely simple phrases that I hope my son will catch on to. &lt;strong&gt;Gi minagåhet, hu tungu&#39; na ha kumprendi na ilek-hu ya ennao ha gof na&amp;rsquo;magof yu&#39;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
-&lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-            
-              <category>chamoglish</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
+      <description>Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.
+ Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu. Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.
+I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site. Feel free to hit me up on any of those.</description>
+    </item>
     
   </channel>
 </rss>

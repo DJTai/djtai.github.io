@@ -1,274 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" 
-  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
-  xmlns:dc="http://purl.org/dc/elements/1.1/" 
-  xmlns:atom="http://www.w3.org/2005/Atom" 
-  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
-  xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chamoru-phrases on Hinanao-hu</title>
+    <title>chamoru phrases on My Chamoru Language Journey</title>
     <link>https://djtai.github.io/tags/chamoru-phrases/</link>
-    <description>Recent content in chamoru-phrases on Hinanao-hu</description>
+    <description>Recent content in chamoru phrases on My Chamoru Language Journey</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>©2021 David Taitingfong, All Rights Reserved</copyright>
-    <lastBuildDate>Sun, 13 Dec 2020 13:00:00 -0700</lastBuildDate>
-    <sy:updatePeriod>daily</sy:updatePeriod>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Dec 2020 13:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/chamoru-phrases/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adingani i Lahi-hu Pt. 2</title>
+      <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
+      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
+      <description>I finene&amp;rsquo;na na blog guini.
+Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.
+I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.</description>
+    </item>
     
-        <atom:link href="https://djtai.github.io/tags/chamoru-phrases/index.xml" rel="self" type="application/rss+xml" />
-    
-
+    <item>
+      <title>Adingani i Lahi-hu</title>
+      <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
+      <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
       
-      <item>
-        <title>Adingani i Lahi-hu Pt. 2</title>
-        <link>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</link>
-        <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-        
-        <atom:modified>Sun, 13 Dec 2020 13:00:00 -0700</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-12-13-adingani-i-lahi-hu/</guid>
-        <description>I finene&amp;rsquo;na na blog guini.
-Buenas yan håfa adai todus hamyu! Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan.</description>
-        <content:encoded>&lt;p&gt;I finene&amp;rsquo;na na blog &lt;a href=&#34;https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/&#34;&gt;guini&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Buenas yan håfa adai todus hamyu!&lt;/strong&gt; Åpmam na tiempu na månggi&#39; yu&#39; guini, hunggan? Gi minagåhet, gof tinani&#39; yu&#39; desde ki tåtti hugua na pulan. Kada diha hu ripiti ta&amp;rsquo;lu na bidå-hu: makmåta yu&#39; yan etsisiu pat chochu, pues macho&amp;rsquo;chu&#39;, ya pues hugåndu yan i lahi-hu. Todu eyu ha tifi&#39; yu&#39;, lol.&lt;/p&gt;
-&lt;p&gt;I asunto put ini na blog kosa ki hu mås påtti hamyu ni taiminapput sinångan siha na hu sangåni i lahi-hu.&lt;/p&gt;
-&lt;p&gt;Yanngen gailinachi gi ini na tinigi&#39;-hu, pues sangåni yu&#39; fan &amp;mdash; Estudiånti ha&#39; yu&#39; yan kada diha tumutungu&#39; yu&#39;.&lt;/p&gt;
-&lt;h3 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha Ni&#39; Hu Sangåni i Lahi-hu&lt;/h3&gt;
-&lt;hr /&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Chamoru&lt;/th&gt;
-&lt;th&gt;English&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Para månu hao?&lt;/td&gt;
-&lt;td&gt;Where are you going?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa un li&amp;rsquo;i&#39; gi hiyung?&lt;/td&gt;
-&lt;td&gt;What do you see outside?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao un li&amp;rsquo;i&#39; i batkun airi?&lt;/td&gt;
-&lt;td&gt;Did you see the airplane?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga mamacha ni iyo-ku&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t touch my stuff&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao håspuk pat ñålang ha&#39; hao?&lt;/td&gt;
-&lt;td&gt;Are you full or still hungry?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa iyo-mu? Gi kannai-mu?&lt;/td&gt;
-&lt;td&gt;What do you have? In your hand?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hu tungu&#39; na yayas hao pues maigu&#39; på&amp;rsquo;gu&lt;/td&gt;
-&lt;td&gt;I know you&amp;rsquo;re tired so sleep now&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Ai adai, kao tumåki&#39; hao? Gof mutung!&lt;/td&gt;
-&lt;td&gt;Ai adai, did you poop? So stinky!&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta tulaika i pañåles-mu&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s change your diaper&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Gimen i gimen-mu leche kosa ki para ta fanmaigu&#39;&lt;/td&gt;
-&lt;td&gt;Drink your milk so we (3) can go to sleep&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Bula guinaiya&lt;/strong&gt;. DJT.&lt;/p&gt;
-&lt;h2 id=&#34;english-translation&#34;&gt;English Translation&lt;/h2&gt;
-&lt;p&gt;The 1st blog is &lt;a href=&#34;https://write.as/davidtaitingfong/adingani-lahi-hu&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Hello everyone! It&amp;rsquo;s been a long time since I&amp;rsquo;ve written here, yeah? Honestly, I&amp;rsquo;ve been really busy these past two months. Every day, I do what I typically do: wake up and exercise or eat, then I work, and then I play with my son. It all drains me, lol.&lt;/p&gt;
-&lt;p&gt;The reason for this blog is so that I can share more simple phrases I tell my son.&lt;/p&gt;
-&lt;p&gt;If there are mistakes in this blog, then tell me please &amp;mdash; I&amp;rsquo;m still a student and learning every day.&lt;/p&gt;
-&lt;h3 id=&#34;phrases-i-tell-my-son&#34;&gt;Phrases I Tell My Son&lt;/h3&gt;
-&lt;p&gt;⬆ &lt;em&gt;go back up to read the phrases&lt;/em&gt; 😁&lt;/p&gt;
-&lt;p&gt;That&amp;rsquo;s it for now.&lt;/p&gt;
-&lt;p&gt;All love. DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-      <item>
-        <title>Adingani i Lahi-hu</title>
-        <link>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</link>
-        <pubDate>Sat, 07 Nov 2020 12:00:00 -0700</pubDate>
-        
-        <atom:modified>Tue, 22 Dec 2020 00:00:00 +0000</atom:modified>
-        <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
-        <description>Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.
- Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu.</description>
-        <content:encoded>&lt;blockquote&gt;
-&lt;p&gt;Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Most of the Chamoru that I&amp;rsquo;ve been using lately is towards &lt;strong&gt;i lahi-hu&lt;/strong&gt;. &lt;strong&gt;Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site. Feel free to hit me up on any of those.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Nihi ta tutuhun.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;sinångan-siha-ni-hu-sangåni-i-lahi-hu&#34;&gt;Sinångan Siha ni&#39; Hu Sangåni i Lahi-hu&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Phrases I Tell My Son&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Chamoru&lt;/th&gt;
-&lt;th&gt;English&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta tulaika i magågu-mu&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s change your clothes&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta hånao&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s go&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hånao! Huyung neni&lt;/td&gt;
-&lt;td&gt;Go! Out neni&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hånao yan sodda&#39; si nanå-mu&lt;/td&gt;
-&lt;td&gt;Go and find your mom&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håfa bidadå-mu?&lt;/td&gt;
-&lt;td&gt;What are you doing?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nå&amp;rsquo;i yu&#39; nu gi kannai-mu&lt;/td&gt;
-&lt;td&gt;Give me what&amp;rsquo;s in your hand&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao ñålang hao?&lt;/td&gt;
-&lt;td&gt;Are you hungry?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao malagu&#39; hao chumochu?&lt;/td&gt;
-&lt;td&gt;Do you want to eat?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao håspuk hao?&lt;/td&gt;
-&lt;td&gt;Are you full?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao ma&amp;rsquo;o hao?&lt;/td&gt;
-&lt;td&gt;Are you thirsty?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Håyi ennao/eyu?&lt;/td&gt;
-&lt;td&gt;Who is that?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Maila&#39; mågi&lt;/td&gt;
-&lt;td&gt;Come here&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nihi ta baila!&lt;/td&gt;
-&lt;td&gt;Let&amp;rsquo;s dance!&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Baila&#39; yan guahu&lt;/td&gt;
-&lt;td&gt;Dance with me&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga mangassas hao fan&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t scratch yourself please&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga ennao&lt;/td&gt;
-&lt;td&gt;Don&amp;rsquo;t do that&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mungnga kumåti fan&lt;/td&gt;
-&lt;td&gt;Please don&amp;rsquo;t cry&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Sa&#39; håfa kumåkati hao neni?&lt;/td&gt;
-&lt;td&gt;Why are you crying neni?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Atan yu&#39;&lt;/td&gt;
-&lt;td&gt;Look at me&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao matuhuk hao?&lt;/td&gt;
-&lt;td&gt;Are you sleepy?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Kao esta yayas hao?&lt;/td&gt;
-&lt;td&gt;Are you already tired?&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Definitely simple phrases that I hope my son will catch on to. &lt;strong&gt;Gi minagåhet, hu tungu&#39; na ha kumprendi na ilek-hu ya ennao ha gof na&amp;rsquo;magof yu&#39;.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Todu ha&#39; para på&amp;rsquo;gu.&lt;/p&gt;
-&lt;p&gt;Bula guinaiya &amp;mdash; DJT.&lt;/p&gt;
-</content:encoded>
-        <dc:creator>David Taitingfong</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>chamoru-phrases</category>
-            
-          
-            
-              <category>translation-provided</category>
-            
-          
-            
-              <category>chamoglish</category>
-            
-          
-        
-        
-          
-            
-              <category>blogs</category>
-            
-          
-        
-        
-      </item>
-      
-
+      <guid>https://djtai.github.io/posts/2020-11-07-adingani-i-lahi-hu/</guid>
+      <description>Note: updated 2020-12-22 by removing reference to my since-deleted write.as blog.
+ Most of the Chamoru that I&amp;rsquo;ve been using lately is towards i lahi-hu. Håcha na såkkan idåt-ña, pues inadingan-måmi ni ti mapput.
+I wanted to share some of those phrases with you and perhaps get some feedback. If you&amp;rsquo;re here then I&amp;rsquo;ll assume you came from Twitter, IG, or some other social media site. Feel free to hit me up on any of those.</description>
+    </item>
     
   </channel>
 </rss>
