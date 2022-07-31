@@ -1,325 +1,290 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="theme-color" content="dark">
     
-    <title>Posts, tutorials, snippets, musings, and everything else. | All Content | My Chamoru Language Journey</title>
+    <title>Posts, tutorials, snippets, musings, and everything else. | All Content | David Taitingfong | Chamoru Language &amp; Technology</title>
     
-
+    <meta property="og:site_name" content="David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta property="og:title" content="All Content | David Taitingfong | Chamoru Language &amp; Technology"/>
+    <meta itemprop="name" content="All Content | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="twitter:title" content="All Content | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="application-name" content="All Content | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="description" content="Blogging about the intersection of the Chamoru language and technology" />
+    <meta name="twitter:description" content="Blogging about the intersection of the Chamoru language and technology"/>
+    <meta itemprop="description" content="Blogging about the intersection of the Chamoru language and technology"/>
+    <meta property="og:description" content="Blogging about the intersection of the Chamoru language and technology" />
     
-    
-    
-    <meta property="og:site_name" content="My Chamoru Language Journey" />
-    <meta property="og:title" content="All Content | My Chamoru Language Journey"/>
-    <meta itemprop="name" content="All Content | My Chamoru Language Journey" />
-    <meta name="twitter:title" content="All Content | My Chamoru Language Journey" />
-    <meta name="application-name" content="All Content | My Chamoru Language Journey" />
-
-
-    <meta name="description" content="David Taitingfong&#39;s journey to learn the Chamoru language." />
-    <meta name="twitter:description" content="David Taitingfong&#39;s journey to learn the Chamoru language."/>
-    <meta itemprop="description" content="David Taitingfong&#39;s journey to learn the Chamoru language."/>
-    <meta property="og:description" content="David Taitingfong&#39;s journey to learn the Chamoru language." />
-
-    
-
-
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    
     <link rel="stylesheet" href="/sass/main.min.b7a33a8819cf6bc4a66b490a156e59bf5a3c7825cac59e2e10cce5e15e1b1029.css">
     
-</head>
+    
     <script>
-    (function() {
-        const colorSchemeKey = 'ThemeColorScheme';
-        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+        (function() {
+            const colorSchemeKey = 'ThemeColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script>
 
-        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
-            
+    <script>
+        (function() {
+            const colorSchemeKey = 'ThemeColorScheme';
+            const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+            const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-            document.documentElement.dataset.userColorScheme = 'dark';
-        } else {
-            document.documentElement.dataset.userColorScheme = 'light';
-        }
-    })();
-</script>
+            if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+                
 
-    <body class="dark">
-        <nav class="navbar">
-    <div class="container">
-        <div class="flex">
-            <div>
-                <a class="brand" href="/">
-                    
-                    <span class="emoji">
-                        🏠
-                    </span>
-                    
-                    
-                    </a>
-            </div>
+                document.documentElement.dataset.userColorScheme = 'dark';
+            } else {
+                document.documentElement.dataset.userColorScheme = 'light';
+            }
+        })();
+    </script>
+</head>
+<body class="dark">
+    <nav class="navbar">
+        <div class="container">
             <div class="flex">
-                
-                <a href="/about">About</a>
-                
-                <a href="/posts">Posts</a>
-                
-                <a href="/resources">Resources</a>
-                
-                <button id="dark-mode-button">
-                  <svg class="light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M30.312.776C32 19 20 32 .776 30.312c8.199 7.717 21.091 7.588 29.107-.429C37.9 21.867 38.03 8.975 30.312.776z"/><path d="M30.705 15.915a1.163 1.163 0 1 0 1.643 1.641a1.163 1.163 0 0 0-1.643-1.641zm-16.022 14.38a1.74 1.74 0 0 0 0 2.465a1.742 1.742 0 1 0 0-2.465zm13.968-2.147a2.904 2.904 0 0 1-4.108 0a2.902 2.902 0 0 1 0-4.107a2.902 2.902 0 0 1 4.108 0a2.902 2.902 0 0 1 0 4.107z" fill="#FFCC4D"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
-                  <svg class="dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"/><circle fill="#FFD983" cx="18" cy="18" r="10"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
-                </button>
+                <div>
+                    <a class="brand" href="/">
+                        <span class="emoji">🏠</span>
+                    </a>
+                </div>
+                <div class="flex">
+                    <a href="/about">About</a>
+                    <a href="/posts">Posts</a>
+                    <a href="/resources">Resources</a>
+                    <button id="dark-mode-button">
+                        <svg class="light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M30.312.776C32 19 20 32 .776 30.312c8.199 7.717 21.091 7.588 29.107-.429C37.9 21.867 38.03 8.975 30.312.776z"/><path d="M30.705 15.915a1.163 1.163 0 1 0 1.643 1.641a1.163 1.163 0 0 0-1.643-1.641zm-16.022 14.38a1.74 1.74 0 0 0 0 2.465a1.742 1.742 0 1 0 0-2.465zm13.968-2.147a2.904 2.904 0 0 1-4.108 0a2.902 2.902 0 0 1 0-4.107a2.902 2.902 0 0 1 4.108 0a2.902 2.902 0 0 1 0 4.107z" fill="#FFCC4D"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
+                        <svg class="dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"/><circle fill="#FFD983" cx="18" cy="18" r="10"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
+                    </button>
+                    
+                </div>
             </div>
-            </div>
-    </div>
-</nav>
-        <main>
-            
-
-<header>
-    <div class="container">
-        <h1>All Content</h1>
-        <p class="subtitle">Posts, tutorials, snippets, musings, and everything else.</p>
-    </div>
-</header>
-
-
-
-<section>
-    <div class="container">
-        <div class="filter-container">
-          
-          
-            <div class="filter-item" data-value="blogs" data-type="categories">
-              blogs<sup>16</sup>
-            </div>
-          
-            <div class="filter-item" data-value="meta" data-type="categories">
-              meta<sup>1</sup>
-            </div>
-          
-            <div class="filter-item" data-value="poems" data-type="categories">
-              poems<sup>1</sup>
-            </div>
-          
         </div>
-        <input id="search-query" type="search" placeholder="Search for anything...">
+    </nav>
+    <main>
         
-        <div id="search-results">
+    <header>
+        <div class="container">
+            <h1>All Content</h1>
+            <p class="subtitle">Posts, tutorials, snippets, musings, and everything else.</p>
         </div>
-        <section id="articles-list">
-            
-            <section>
-                <h2>2022</h2>
-                <div class="posts">
-                    
-                    <div class="post">
-                        <a href="/tumaiguini/">
-                            <div class="post-row">
-                                <time>Feb 03</time>
-                                <h3>Tumaiguini</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/trongkun-manggafa-hu-part-2/">
-                            <div class="post-row">
-                                <time>Jan 13</time>
-                                <h3>Trongkun Manggafå-hu Pt. 2</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
+    </header>
+    
+    <section>
+        <div class="container">
+            <div class="filter-container">
+                <div class="filter-item" data-value="blogs" data-type="categories">
+                    blogs<sup>16</sup>
                 </div>
-            </section>
             
-            <section>
-                <h2>2021</h2>
-                <div class="posts">
-                    
-                    <div class="post">
-                        <a href="/mamatitinas-diksionarion-chamoru/">
-                            <div class="post-row">
-                                <time>Sep 26</time>
-                                <h3>Mama&#39;titinas Diksionårion Chamoru</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/mamatitinas-trongkun-manggafa/">
-                            <div class="post-row">
-                                <time>Aug 11</time>
-                                <h3>Mama&#39;titinas Trongkun Manggåfa</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/haanen-liberarsion/">
-                            <div class="post-row">
-                                <time>Jul 21</time>
-                                <h3>Ha&#39;ånen &#34;Liberasión&#34;</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/hu-famamaolek-esti-na-blog/">
-                            <div class="post-row">
-                                <time>Jun 13</time>
-                                <h3>Hu Fa&#39;mamaolek Esti na Blog</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/kumekeetsisiu-yu-kada-haani/">
-                            <div class="post-row">
-                                <time>Mar 16</time>
-                                <h3>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/biba-mes-chamoru/">
-                            <div class="post-row">
-                                <time>Mar 01</time>
-                                <h3>Biba Mes Chamoru!</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/guaha-mampus-para-chogui/">
-                            <div class="post-row">
-                                <time>Jan 27</time>
-                                <h3>Guaha Mampus Para Cho&#39;gui</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/i-lahi-hu-kumpreprendi-i-ilelek-hu/">
-                            <div class="post-row">
-                                <time>Jan 07</time>
-                                <h3>I Lahi-hu Kumpreprendi i Ilelek-hu</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/minalago-siha-para-i-tinilaikan-i-sakkan/">
-                            <div class="post-row">
-                                <time>Jan 01</time>
-                                <h3>Minalago&#39; Siha Para I Tinilaikan I Sakkan</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
+                <div class="filter-item" data-value="meta" data-type="categories">
+                    meta<sup>1</sup>
                 </div>
-            </section>
             
-            <section>
-                <h2>2020</h2>
-                <div class="posts">
-                    
-                    <div class="post">
-                        <a href="/magof-pasgua-nochebuena-2020/">
-                            <div class="post-row">
-                                <time>Dec 24</time>
-                                <h3>Magof Påsgua Nochebuena 2020</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/kasiyas-2020/">
-                            <div class="post-row">
-                                <time>Dec 19</time>
-                                <h3>Kasiyas 2020</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/adingani-i-lahi-hu-pt-2/">
-                            <div class="post-row">
-                                <time>Dec 13</time>
-                                <h3>Adingani i Lahi-hu Pt. 2</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/mampus-chaddek-i-lahi-hu/">
-                            <div class="post-row">
-                                <time>Nov 14</time>
-                                <h3>Mampus Chaddek i Lahi-hu</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/adingani-i-lahi-hu/">
-                            <div class="post-row">
-                                <time>Nov 07</time>
-                                <h3>Adingani i Lahi-hu</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <div class="post">
-                        <a href="/i-tinituhon/">
-                            <div class="post-row">
-                                <time>Oct 25</time>
-                                <h3>I Tinituhon</h3>
-                            </div>
-                        </a>
-                    </div>
-                    
+                <div class="filter-item" data-value="poems" data-type="categories">
+                    poems<sup>1</sup>
                 </div>
-            </section>
-            
-        </section>
-    </div>
-</section>
-<script async src="/ts/search.937e6e14438270c294d87304e96b9a240a20ab1dab9130be81936e8b2f5b7471.js"></script>
+            </div>
+            <input id="search-query" type="search" placeholder="Search for anything...">
+            <div id="search-results">
+            </div>
+            <section id="articles-list">
+                <section>
+                    <h2>2022</h2>
+                    <div class="posts">
+                        <div class="post">
+                            <a href="/posts/2022/07/30/gi-nuebun-chochu-gi-nuebun-hinanao/">
+                                <div class="post-row">
+                                    <time>Jul 30</time>
+                                    <h3>Gi Nuebun Cho&#39;chu&#39;, Gi Nuebun Hinanao</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2022/01/13/trongkun-manggafa-hu-part-2/">
+                                <div class="post-row">
+                                    <time>Jan 13</time>
+                                    <h3>Trongkun Manggafå-hu Pt. 2</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </section>
+                
+                <section>
+                    <h2>2021</h2>
+                    <div class="posts">
+                        <div class="post">
+                            <a href="/posts/2021/09/26/mamatitinas-diksionarion-chamoru/">
+                                <div class="post-row">
+                                    <time>Sep 26</time>
+                                    <h3>Mama&#39;titinas Diksionårion Chamoru</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/08/11/mamatitinas-trongkun-manggafa/">
+                                <div class="post-row">
+                                    <time>Aug 11</time>
+                                    <h3>Mama&#39;titinas Trongkun Manggåfa</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/07/21/haanen-liberarsion/">
+                                <div class="post-row">
+                                    <time>Jul 21</time>
+                                    <h3>Ha&#39;ånen &#34;Liberasión&#34;</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/06/13/hu-famamaolek-esti-na-blog/">
+                                <div class="post-row">
+                                    <time>Jun 13</time>
+                                    <h3>Hu Fa&#39;mamaolek Esti na Blog</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/03/16/kumekeetsisiu-yu-kada-haani/">
+                                <div class="post-row">
+                                    <time>Mar 16</time>
+                                    <h3>Kumeke&#39;etsisiu Yu&#39; Kada Ha&#39;åni</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/03/01/biba-mes-chamoru/">
+                                <div class="post-row">
+                                    <time>Mar 01</time>
+                                    <h3>Biba Mes Chamoru!</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/01/27/guaha-mampus-para-chogui/">
+                                <div class="post-row">
+                                    <time>Jan 27</time>
+                                    <h3>Guaha Mampus Para Cho&#39;gui</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/01/07/i-lahi-hu-kumpreprendi-i-ilelek-hu/">
+                                <div class="post-row">
+                                    <time>Jan 07</time>
+                                    <h3>I Lahi-hu Kumpreprendi i Ilelek-hu</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2021/01/01/minalago-siha-para-i-tinilaikan-i-sakkan/">
+                                <div class="post-row">
+                                    <time>Jan 01</time>
+                                    <h3>Minalago&#39; Siha Para I Tinilaikan I Sakkan</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </section>
+                
+                <section>
+                    <h2>2020</h2>
+                    <div class="posts">
+                        <div class="post">
+                            <a href="/posts/2020/12/24/magof-pasgua-nochebuena-2020/">
+                                <div class="post-row">
+                                    <time>Dec 24</time>
+                                    <h3>Magof Påsgua Nochebuena 2020</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2020/12/19/kasiyas-2020/">
+                                <div class="post-row">
+                                    <time>Dec 19</time>
+                                    <h3>Kasiyas 2020</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2020/12/13/adingani-i-lahi-hu-pt-2/">
+                                <div class="post-row">
+                                    <time>Dec 13</time>
+                                    <h3>Adingani i Lahi-hu Pt. 2</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2020/11/14/mampus-chaddek-i-lahi-hu/">
+                                <div class="post-row">
+                                    <time>Nov 14</time>
+                                    <h3>Mampus Chaddek i Lahi-hu</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2020/11/07/adingani-i-lahi-hu/">
+                                <div class="post-row">
+                                    <time>Nov 07</time>
+                                    <h3>Adingani i Lahi-hu</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                        <div class="post">
+                            <a href="/posts/2020/10/25/i-tinituhon/">
+                                <div class="post-row">
+                                    <time>Oct 25</time>
+                                    <h3>I Tinituhon</h3>
+                                </div>
+                            </a>
+                        </div>
+                        
+                    </div>
+                </section>
+                </section>
+        </div>
+    </section>
+    <script async src="/ts/search.0b72442e397ba4637300ec3c2f72801578cbdd5e7419b6f088b18aa60e63e9fa.js"></script>
 
-
-        </main>
-        <footer class="footer flex">
+    </main>
+    <footer class="footer flex">
     <section class="container">
         <nav class="footer-links">
-            
             <a href="/about">About</a>
-            
             <a href="/posts">Posts</a>
-            
             <a href="/resources">Resources</a>
-            
-            <a href="/tags">Tags</a>
-            
-            |
-            
+            <a href="/tags">Tags</a>|
             <a href="/index.html">RSS</a>
-            
         </nav>
-
-        
     </section>
-    <script defer src="/ts/features.c81551cd4dbef120af278f16966a41142c02be9ff5d6a669be09820fbf047456.js" 
-    data-enable-footnotes="false"
-    ></script>
-</footer>
-
-    </body>
+    <script defer src="/ts/features.dd8e5b18a6dda91367e396fd8dc9b9f83a1993065f709a53e056e0f2e9096ea1.js" data-enable-footnotes="false"></script>
+    </footer>
+</body>
 </html>

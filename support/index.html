@@ -1,108 +1,97 @@
 <!DOCTYPE html>
 <html lang="en-us">
-    
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="theme-color" content="dark">
     
-    <title>Support | My Chamoru Language Journey</title>
+    <title>Support | David Taitingfong | Chamoru Language &amp; Technology</title>
     
-
+    <meta property="og:site_name" content="David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta property="og:title" content="Support | David Taitingfong | Chamoru Language &amp; Technology"/>
+    <meta itemprop="name" content="Support | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="twitter:title" content="Support | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="application-name" content="Support | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta name="twitter:card" content="summary"/>
+    <meta name="description" content="Blogging about the intersection of the Chamoru language and technology" />
+    <meta name="twitter:description" content="Blogging about the intersection of the Chamoru language and technology"/>
+    <meta itemprop="description" content="Blogging about the intersection of the Chamoru language and technology"/>
+    <meta property="og:description" content="Blogging about the intersection of the Chamoru language and technology" />
     
-    
-    
-    <meta property="og:site_name" content="My Chamoru Language Journey" />
-    <meta property="og:title" content="Support | My Chamoru Language Journey"/>
-    <meta itemprop="name" content="Support | My Chamoru Language Journey" />
-    <meta name="twitter:title" content="Support | My Chamoru Language Journey" />
-    <meta name="application-name" content="Support | My Chamoru Language Journey" />
-
-
-    <meta name="description" content="David Taitingfong&#39;s journey to learn the Chamoru language." />
-    <meta name="twitter:description" content="David Taitingfong&#39;s journey to learn the Chamoru language."/>
-    <meta itemprop="description" content="David Taitingfong&#39;s journey to learn the Chamoru language."/>
-    <meta property="og:description" content="David Taitingfong&#39;s journey to learn the Chamoru language." />
-
-    
-
-
     <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
-    
     <link rel="stylesheet" href="/sass/main.min.b7a33a8819cf6bc4a66b490a156e59bf5a3c7825cac59e2e10cce5e15e1b1029.css">
     
-</head>
+    
     <script>
-    (function() {
-        const colorSchemeKey = 'ThemeColorScheme';
-        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+        (function() {
+            const colorSchemeKey = 'ThemeColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script>
 
-        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
-            
+    <script>
+        (function() {
+            const colorSchemeKey = 'ThemeColorScheme';
+            const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+            const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-            document.documentElement.dataset.userColorScheme = 'dark';
-        } else {
-            document.documentElement.dataset.userColorScheme = 'light';
-        }
-    })();
-</script>
+            if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+                
 
-    <body class="dark">
-        <nav class="navbar">
-    <div class="container">
-        <div class="flex">
-            <div>
-                <a class="brand" href="/">
-                    
-                    <span class="emoji">
-                        🏠
-                    </span>
-                    
-                    
-                    </a>
-            </div>
+                document.documentElement.dataset.userColorScheme = 'dark';
+            } else {
+                document.documentElement.dataset.userColorScheme = 'light';
+            }
+        })();
+    </script>
+</head>
+<body class="dark">
+    <nav class="navbar">
+        <div class="container">
             <div class="flex">
-                
-                <a href="/about">About</a>
-                
-                <a href="/posts">Posts</a>
-                
-                <a href="/resources">Resources</a>
-                
-                <button id="dark-mode-button">
-                  <svg class="light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M30.312.776C32 19 20 32 .776 30.312c8.199 7.717 21.091 7.588 29.107-.429C37.9 21.867 38.03 8.975 30.312.776z"/><path d="M30.705 15.915a1.163 1.163 0 1 0 1.643 1.641a1.163 1.163 0 0 0-1.643-1.641zm-16.022 14.38a1.74 1.74 0 0 0 0 2.465a1.742 1.742 0 1 0 0-2.465zm13.968-2.147a2.904 2.904 0 0 1-4.108 0a2.902 2.902 0 0 1 0-4.107a2.902 2.902 0 0 1 4.108 0a2.902 2.902 0 0 1 0 4.107z" fill="#FFCC4D"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
-                  <svg class="dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"/><circle fill="#FFD983" cx="18" cy="18" r="10"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
-                </button>
-            </div>
-            </div>
-    </div>
-</nav>
-        <main>
-            
-<div class="container">
-    <article>
-        <header class="article-header">
-            <div class="thumb">
                 <div>
-                    <h1>Support</h1>
+                    <a class="brand" href="/">
+                        <span class="emoji">🏠</span>
+                    </a>
+                </div>
+                <div class="flex">
+                    <a href="/about">About</a>
+                    <a href="/posts">Posts</a>
+                    <a href="/resources">Resources</a>
+                    <button id="dark-mode-button">
+                        <svg class="light" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M30.312.776C32 19 20 32 .776 30.312c8.199 7.717 21.091 7.588 29.107-.429C37.9 21.867 38.03 8.975 30.312.776z"/><path d="M30.705 15.915a1.163 1.163 0 1 0 1.643 1.641a1.163 1.163 0 0 0-1.643-1.641zm-16.022 14.38a1.74 1.74 0 0 0 0 2.465a1.742 1.742 0 1 0 0-2.465zm13.968-2.147a2.904 2.904 0 0 1-4.108 0a2.902 2.902 0 0 1 0-4.107a2.902 2.902 0 0 1 4.108 0a2.902 2.902 0 0 1 0 4.107z" fill="#FFCC4D"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
+                        <svg class="dark" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1em" height="1em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 36 36"><path fill="#FFD983" d="M16 2s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2V2zm18 14s2 0 2 2s-2 2-2 2h-2s-2 0-2-2s2-2 2-2h2zM4 16s2 0 2 2s-2 2-2 2H2s-2 0-2-2s2-2 2-2h2zm5.121-8.707s1.414 1.414 0 2.828s-2.828 0-2.828 0L4.878 8.708s-1.414-1.414 0-2.829c1.415-1.414 2.829 0 2.829 0l1.414 1.414zm21 21s1.414 1.414 0 2.828s-2.828 0-2.828 0l-1.414-1.414s-1.414-1.414 0-2.828s2.828 0 2.828 0l1.414 1.414zm-.413-18.172s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zm-21 21s-1.414 1.414-2.828 0s0-2.828 0-2.828l1.414-1.414s1.414-1.414 2.828 0s0 2.828 0 2.828l-1.414 1.414zM16 32s0-2 2-2s2 2 2 2v2s0 2-2 2s-2-2-2-2v-2z"/><circle fill="#FFD983" cx="18" cy="18" r="10"/><rect x="0" y="0" width="36" height="36" fill="rgba(0, 0, 0, 0)" /></svg>
+                    </button>
                     
-                    <div class="post-meta">
-                        <div>
-                            
-                        </div>
-                        <div class="tags">
-                            
+                </div>
+            </div>
+        </div>
+    </nav>
+    <main>
+        
+    <div class="container">
+        <article>
+            <header class="article-header">
+                <div class="thumb">
+                    <div>
+                        <h1>Support</h1>
+                        
+                        <div class="post-meta">
+                            <div>
+                            </div>
+                            <div class="tags">
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-        </header>
-    </article>
+            </header>
+        </article>
 
-    <div class="article-post">
-    <h2 id="manaotao-ni-siña-un-sappotti">
+        <div class="article-post">
+            <h2 id="manaotao-ni-siña-un-sappotti">
     <a href="#manaotao-ni-si%c3%b1a-un-sappotti" class="anchor">
         <svg class="icon" aria-hidden="true" focusable="false" height="16" version="1.1" viewBox="0 0 16 16" width="16">
             <path fill-rule="evenodd"
@@ -110,7 +99,7 @@
             </path>
         </svg>
     </a>
-    Manaotao ni&#39; Siña Un Sappotti
+    Manaotao ni&rsquo; Siña Un Sappotti
 </h2>
 <blockquote>
 <p>Folks You Can Support</p>
@@ -134,7 +123,7 @@
             </path>
         </svg>
     </a>
-    &lt;em&gt;CHE&amp;rsquo;LU&lt;/em&gt;
+    <em>CHE&rsquo;LU</em>
 </h4>
 <p>From their site:</p>
 <blockquote>
@@ -149,7 +138,7 @@
             </path>
         </svg>
     </a>
-    &lt;em&gt;Independent Guahan&lt;/em&gt;
+    <em>Independent Guahan</em>
 </h4>
 <p>From their Facebook:</p>
 <blockquote>
@@ -164,7 +153,7 @@
             </path>
         </svg>
     </a>
-    &lt;em&gt;Nihi!&lt;/em&gt;
+    <em>Nihi!</em>
 </h4>
 <p>From their site:</p>
 <blockquote>
@@ -190,7 +179,7 @@
             </path>
         </svg>
     </a>
-    &lt;em&gt;Fanachu!&lt;/em&gt;
+    <em>Fanachu!</em>
 </h4>
 <p>From their Patreon:</p>
 <blockquote>
@@ -205,7 +194,7 @@
             </path>
         </svg>
     </a>
-    &lt;em&gt;Deep Pacific Podcast&lt;/em&gt;
+    <em>Deep Pacific Podcast</em>
 </h4>
 <p>From their bio:</p>
 <blockquote>
@@ -213,45 +202,25 @@
 </blockquote>
 <p>Bio.fm: <a href="https://bio.fm/deeppacificpod">https://bio.fm/deeppacificpod</a></p>
 
+        </div>
     </div>
-</div>
 
-<div class="container">
+    <div class="container">
+    </div>
     
-</div>
- 
-<div class="container">
-    
-</div>
 
-</main>
-
-
-        </main>
-        <footer class="footer flex">
+    </main>
+    <footer class="footer flex">
     <section class="container">
         <nav class="footer-links">
-            
             <a href="/about">About</a>
-            
             <a href="/posts">Posts</a>
-            
             <a href="/resources">Resources</a>
-            
-            <a href="/tags">Tags</a>
-            
-            |
-            
+            <a href="/tags">Tags</a>|
             <a href="/index.html">RSS</a>
-            
         </nav>
-
-        
     </section>
-    <script defer src="/ts/features.c81551cd4dbef120af278f16966a41142c02be9ff5d6a669be09820fbf047456.js" 
-    data-enable-footnotes="false"
-    ></script>
-</footer>
-
-    </body>
+    <script defer src="/ts/features.dd8e5b18a6dda91367e396fd8dc9b9f83a1993065f709a53e056e0f2e9096ea1.js" data-enable-footnotes="false"></script>
+    </footer>
+</body>
 </html>
