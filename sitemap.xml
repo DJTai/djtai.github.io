@@ -2,29 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://djtai.github.io/about/</loc>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/categories/blogs/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/categories/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/2022/07/30/gi-nuebun-chochu-gi-nuebun-hinanao/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/tags/life-update/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/tags/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/tags/todu-chamoru/</loc>
-    <lastmod>2022-07-30T22:00:00-07:00</lastmod>
+    <lastmod>2022-12-30T14:00:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/tags/finatinas/</loc>
     <lastmod>2022-01-13T20:00:00-08:00</lastmod>
@@ -69,7 +72,7 @@
     <lastmod>2020-12-24T19:50:00-08:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/resources/</loc>
-    <lastmod>2021-10-10T00:00:00+00:00</lastmod>
+    <lastmod>2022-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/2020/12/19/kasiyas-2020/</loc>
     <lastmod>2020-12-19T22:00:00-07:00</lastmod>
@@ -92,11 +95,8 @@
     <loc>https://djtai.github.io/posts/2020/10/25/i-tinituhon/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://djtai.github.io/about/</loc>
-    <lastmod>2020-10-25T00:00:00+00:00</lastmod>
+    <loc>https://djtai.github.io/support/</loc>
   </url><url>
     <loc>https://djtai.github.io/all/</loc>
-  </url><url>
-    <loc>https://djtai.github.io/support/</loc>
   </url>
 </urlset>
