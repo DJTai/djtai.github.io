@@ -1,36 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on David Taitingfong | Chamoru Language &amp; Technology</title>
+    <title>Tags on Chamoru Language &amp; Technology | David Taitingfong</title>
     <link>https://djtai.github.io/tags/</link>
-    <description>Recent content in Tags on David Taitingfong | Chamoru Language &amp; Technology</description>
+    <description>Recent content in Tags on Chamoru Language &amp; Technology | David Taitingfong</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 16 Apr 2023 21:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 May 2023 21:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lina’lå’-hu</title>
-      <link>https://djtai.github.io/tags/linal%C3%A5-hu/</link>
-      <pubDate>Sun, 16 Apr 2023 21:00:00 -0700</pubDate>
+      <title>lina&#39;la&#39;</title>
+      <link>https://djtai.github.io/tags/linala/</link>
+      <pubDate>Wed, 17 May 2023 21:00:00 -0700</pubDate>
       
-      <guid>https://djtai.github.io/tags/linal%C3%A5-hu/</guid>
+      <guid>https://djtai.github.io/tags/linala/</guid>
       <description></description>
     </item>
     
     <item>
       <title>todu chamoru</title>
       <link>https://djtai.github.io/tags/todu-chamoru/</link>
-      <pubDate>Sun, 16 Apr 2023 21:00:00 -0700</pubDate>
+      <pubDate>Wed, 17 May 2023 21:00:00 -0700</pubDate>
       
       <guid>https://djtai.github.io/tags/todu-chamoru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>life update</title>
-      <link>https://djtai.github.io/tags/life-update/</link>
-      <pubDate>Sat, 14 Jan 2023 12:41:35 -0800</pubDate>
-      
-      <guid>https://djtai.github.io/tags/life-update/</guid>
       <description></description>
     </item>
     
@@ -44,20 +35,11 @@
     </item>
     
     <item>
-      <title>history</title>
-      <link>https://djtai.github.io/tags/history/</link>
-      <pubDate>Wed, 21 Jul 2021 11:25:03 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/history/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>chamoru lessons</title>
-      <link>https://djtai.github.io/tags/chamoru-lessons/</link>
+      <title>leksion chamoru</title>
+      <link>https://djtai.github.io/tags/leksion-chamoru/</link>
       <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
       
-      <guid>https://djtai.github.io/tags/chamoru-lessons/</guid>
+      <guid>https://djtai.github.io/tags/leksion-chamoru/</guid>
       <description></description>
     </item>
     

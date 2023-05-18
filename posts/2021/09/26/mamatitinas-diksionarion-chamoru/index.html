@@ -6,13 +6,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="theme-color" content="dark">
     
-    <title>Making a Chamoru Dictionary | Mama&#39;titinas Diksionårion Chamoru | David Taitingfong | Chamoru Language &amp; Technology</title>
+    <title>Mama&#39;titinas Diksionårion Chamoru | Chamoru Language &amp; Technology | David Taitingfong</title>
     
-    <meta property="og:site_name" content="David Taitingfong | Chamoru Language &amp; Technology" />
-    <meta property="og:title" content="Mama&#39;titinas Diksionårion Chamoru | David Taitingfong | Chamoru Language &amp; Technology"/>
-    <meta itemprop="name" content="Mama&#39;titinas Diksionårion Chamoru | David Taitingfong | Chamoru Language &amp; Technology" />
-    <meta name="twitter:title" content="Mama&#39;titinas Diksionårion Chamoru | David Taitingfong | Chamoru Language &amp; Technology" />
-    <meta name="application-name" content="Mama&#39;titinas Diksionårion Chamoru | David Taitingfong | Chamoru Language &amp; Technology" />
+    <meta property="og:site_name" content="Chamoru Language &amp; Technology | David Taitingfong" />
+    <meta property="og:title" content="Mama&#39;titinas Diksionårion Chamoru | Chamoru Language &amp; Technology | David Taitingfong"/>
+    <meta itemprop="name" content="Mama&#39;titinas Diksionårion Chamoru | Chamoru Language &amp; Technology | David Taitingfong" />
+    <meta name="twitter:title" content="Mama&#39;titinas Diksionårion Chamoru | Chamoru Language &amp; Technology | David Taitingfong" />
+    <meta name="application-name" content="Mama&#39;titinas Diksionårion Chamoru | Chamoru Language &amp; Technology | David Taitingfong" />
     <meta name="twitter:card" content="summary"/>
     <meta name="description" content="My journey to create a comprehensive Chamoru dictionary." />
     <meta name="twitter:description" content="My journey to create a comprehensive Chamoru dictionary. "/>
@@ -25,7 +25,7 @@
     <meta property="article:published_time" content=2021-09-26T15:10:00-0700 />
   
     <meta name="tags" content="fina&#39;tinas" />
-    <meta name="keywords" content="chamoru, chamorro, fino&#39; chamoru, fino&#39; chamorro, finu&#39; chamoru, finu&#39; chamorro, chamoru dictionary, chamorro dictionary" />
+    <meta name="keywords" content="chamoru, chamorro, fino&#39; chamoru, fino&#39; chamorro, finu&#39; chamoru, finu&#39; chamorro" />
     <meta name="news_keywords" content="chamoru" />
     <meta property="article:section" content="chamoru" />
   
@@ -136,7 +136,7 @@
         </article>
 
         <div class="article-post">
-            <p><em>Håfa adai todus hamyu guennao huyung ni&rsquo; tumataitai esti!</em></p>
+            <p><em>Håfa adai todus hamyu guennao huyung ni' tumataitai esti!</em></p>
 <p>It&rsquo;s been over a month-and-a-half since I&rsquo;ve blogged and not a week has gone by where I thought to myself, &ldquo;<em>ai adai, debi di bai fa&rsquo;tinas otru na blog</em>&rdquo;, but honestly my schedule has just been <em>todu machalapon</em>. I had to take a step back from dang near everything and reasses my priorities and how I spend my time outside of work - hence my absence 😅.</p>
 <p>BUT it was much needed as I&rsquo;m here now and ready to share a bit about what I&rsquo;ve been working on, which is: <strong>a personal Chamoru dictionary stored on my computer.</strong> This project was born out of three &ldquo;issues&rdquo; I kept running into:</p>
 <ol>
@@ -145,7 +145,7 @@
 <li>Number 1 seems to only reflect the Guam Orthography, and I wanted something &ldquo;more complete&rdquo;  (i.e., something with words spelled using the CNMI orthography)</li>
 </ol>
 <p><em>* Too many steps = opening a browser, clicking login, logging in, scrolling down to &ldquo;Dictionary&rdquo;, and then searching for a word.</em></p>
-<p><em>Pues, hu tutuhun i hinanao-hu</em>. I created a template of what I thought a dictionary would look like on the back-end (in a database) and I started gathering as many words as I could find. Anytime I came across a new word, I&rsquo;d pop open my database and add it in there. It took an egregious amount of time but I finally got to a place where I felt comfortable enough to start working on a &ldquo;front-end&rdquo; to access the database. I put that in quotes because in it&rsquo;s current state I can only access it from a terminal/command-line interface (CLI). I started it off this way <em>sa&rsquo; gi minagåhet</em>, it&rsquo;s where I live when I code. Also it&rsquo;s the fastest way I can access the database. Essentially I created a small program that allows me to access it via the CLI.</p>
+<p><em>Pues, hu tutuhun i hinanao-hu</em>. I created a template of what I thought a dictionary would look like on the back-end (in a database) and I started gathering as many words as I could find. Anytime I came across a new word, I&rsquo;d pop open my database and add it in there. It took an egregious amount of time but I finally got to a place where I felt comfortable enough to start working on a &ldquo;front-end&rdquo; to access the database. I put that in quotes because in it&rsquo;s current state I can only access it from a terminal/command-line interface (CLI). I started it off this way <em>sa' gi minagåhet</em>, it&rsquo;s where I live when I code. Also it&rsquo;s the fastest way I can access the database. Essentially I created a small program that allows me to access it via the CLI.</p>
 <p>Here&rsquo;s a screenshot of me running the program:
 <img loading="lazy" 
     src="/images/2021-09-26_CLI.png" 
@@ -153,7 +153,7 @@
      
     width=927 
     height="498"  /></p>
-<p>If you&rsquo;re unfamiliar with what you&rsquo;re looking at, it&rsquo;s a terminal/CLI. The points of interest are the second line, where you see <code>└─ $ sodda</code>, and then the text afterwards. My program runs when I type <code>sodda</code> and hit enter. I get prompted for a word to search for (in this case I entered &quot; <em>tungo&rsquo; &ldquo;</em>), and then if it finds something I get results back. Otherwise it says it can&rsquo;t find the word and the prompts just continue until I exit.</p>
+<p>If you&rsquo;re unfamiliar with what you&rsquo;re looking at, it&rsquo;s a terminal/CLI. The points of interest are the second line, where you see <code>└─ $ sodda</code>, and then the text afterwards. My program runs when I type <code>sodda</code> and hit enter. I get prompted for a word to search for (in this case I entered &quot; <em>tungo' &ldquo;</em>), and then if it finds something I get results back. Otherwise it says it can&rsquo;t find the word and the prompts just continue until I exit.</p>
 <p>Cleaning the data and structuring how everything is stored/returned actually took the most amount of time. I wrote a lot of small helper programs to do things like sort the words, remove misformed words, and add new words, but I still have a lot of work ahead of me. There are still ~3000 words I have that I need to add but don&rsquo;t have exact translations for. There are also a bunch of words I just straight up don&rsquo;t have either.</p>
 <p>To give you a sense of how big this dictionary has gotten, here is where I&rsquo;m at:
 <img loading="lazy" 
@@ -167,7 +167,7 @@
 <p>I haven&rsquo;t mentioned this yet, and perhaps you were able to pick it up from earlier when I mentioned why I created this tool, but&hellip;I didn&rsquo;t create a majority of this information from scratch. I made use of LearningChamoru.com, news articles from the <a href="https://www.guampdn.com/">GuamPDN</a>, and any blog I could find that seemed like a great resource for filling up a dictionary. So for example, let&rsquo;s say you use this tool and look up the word &ldquo;<em>magof</em>&rdquo; - one of the definitions you&rsquo;d get back is the same one you&rsquo;d find in LearningChamoru.com, word-for-word.</p>
 <p><em>Pues hunggan</em>, as much as I want to share this <strong>right now</strong>, there are still some things I need to figure out. Things like: if I put this dictionary out there, say on a website, would I receive a cease &amp; desist? Could I get sued for copyright infringement? Would I be fine so long as I attribute my data to their correct creators? Etc&hellip;</p>
 <p>Now that I think about it though&hellip;the front-end stuff I can probably share. You&rsquo;d of course need a dictionary stored in a same-structured JSON, but that general structure I can also share. But for now, this is all I&rsquo;ll share. When I get more answers and more data and create something more accessible, I&rsquo;ll give another update!</p>
-<p>Todu ha&rsquo; para på&rsquo;gu. Bula guinaiya! &mdash; DJT.</p>
+<p>Todu ha' para på&rsquo;gu. Bula guinaiya! &mdash; DJT.</p>
 
         </div>
     </div>
@@ -200,7 +200,7 @@
             <a href="/index.html">RSS</a>
         </nav>
     </section>
-    <script defer src="/ts/features.706a523ba43e6d0427c7fdf2b9d05dbd0920d3f12942b453690b495cb2522743.js" data-enable-footnotes="false"></script>
+    <script defer src="/ts/features.aeccc1b543daef772e7584f28d3bc3e21c62dfd259256c435908dbe148b24c6c.js" data-enable-footnotes="false"></script>
     </footer>
 </body>
 </html>

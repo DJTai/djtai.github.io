@@ -2,34 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://djtai.github.io/categories/blogs/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/categories/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/tags/linala/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/posts/2023/05/17/manaliligao-komunidat/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/posts/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/tags/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://djtai.github.io/tags/todu-chamoru/</loc>
+    <lastmod>2023-05-17T21:00:00-07:00</lastmod>
+  </url><url>
     <loc>https://djtai.github.io/posts/2023/04/16/bira-yu-tatti-gi-eskuela-lao-ti-ya-hu/</loc>
     <lastmod>2023-04-16T21:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://djtai.github.io/categories/blogs/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/categories/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/tags/linal%C3%A5-hu/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/posts/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/tags/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/tags/todu-chamoru/</loc>
-    <lastmod>2023-04-16T21:00:00-07:00</lastmod>
-  </url><url>
     <loc>https://djtai.github.io/posts/2023/01/14/apmam-na-manugi-yu-guini/</loc>
-    <lastmod>2023-01-14T12:41:35-08:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/tags/life-update/</loc>
     <lastmod>2023-01-14T12:41:35-08:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/about/</loc>
@@ -51,9 +51,6 @@
     <lastmod>2021-08-11T21:25:00-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/2021/07/21/haanen-liberarsion/</loc>
-    <lastmod>2021-07-21T11:25:03-07:00</lastmod>
-  </url><url>
-    <loc>https://djtai.github.io/tags/history/</loc>
     <lastmod>2021-07-21T11:25:03-07:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/2021/06/13/hu-famamaolek-esti-na-blog/</loc>
@@ -92,7 +89,7 @@
     <loc>https://djtai.github.io/posts/2020/12/13/adingani-i-lahi-hu-pt-2/</loc>
     <lastmod>2020-12-13T13:00:00-07:00</lastmod>
   </url><url>
-    <loc>https://djtai.github.io/tags/chamoru-lessons/</loc>
+    <loc>https://djtai.github.io/tags/leksion-chamoru/</loc>
     <lastmod>2020-12-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://djtai.github.io/posts/2020/11/14/mampus-chaddek-i-lahi-hu/</loc>
