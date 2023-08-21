@@ -1,11 +1,132 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chamoru Language &amp; Technology | David Taitingfong</title>
+    <title>Dihan Dabit</title>
     <link>https://djtai.github.io/</link>
-    <description>Recent content on Chamoru Language &amp; Technology | David Taitingfong</description>
+    <description>Recent content on Dihan Dabit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2023 21:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 20:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+    <title>Fa&#39;måmaolik i Diksionårio-ku</title>
+    <link>https://djtai.github.io/posts/2023/08/20/famamaolik-i-diksionario-ku/</link>
+    <pubDate>Sun, 20 Aug 2023 20:00:00 -0700</pubDate>
+    
+    <guid>https://djtai.github.io/posts/2023/08/20/famamaolik-i-diksionario-ku/</guid>
+    <description>
+        &lt;p&gt;Have you ever looked for a word in &amp;ldquo;&lt;a href=&#34;https://diksionariu.com/&#34;&gt;The Official CHAMORRO-ENGLISH Dictionary&lt;/a&gt;&amp;rdquo;? If you have, perhaps you&amp;rsquo;ve noticed that the words aren&amp;rsquo;t sorted &lt;em&gt;exactly&lt;/em&gt; according to &lt;em&gt;i atfabetun Chamoru&lt;/em&gt;. Take for instance the following set of words pulled &lt;a href=&#34;https://diksionariu.com/search.php?e=4442&amp;amp;h=1_&#34;&gt;directly from the dictionary mentioned above&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; 
+    src=&#34;https://djtai.github.io/images/2023-08-20_diksionariu.png&#34; 
+    alt=&#34;Image showing 3 words from The Official CHAMORRO-ENGLISH Dictionary: kamuti, kåmyu, and kana&amp;#39;.&#34; 
+     
+    width=438 
+    height=&#34;353&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;Here we see that &lt;em&gt;kamuti&lt;/em&gt; comes before &lt;em&gt;kåmyu&lt;/em&gt; which comes before &lt;em&gt;kana&#39;&lt;/em&gt;. At first glance it doesn&amp;rsquo;t seem to be an issue: &amp;ldquo;m&amp;rdquo; does come before &amp;ldquo;n&amp;rdquo;. But in the Chamorro alphabet, &amp;ldquo;a&amp;rdquo; comes before &amp;ldquo;å&amp;rdquo; and so all of the words that begin with &amp;ldquo;ka-&amp;rdquo; should come before all of the words that start with &amp;ldquo;kå-&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;To be honest though, it&amp;rsquo;s not a huge problem. It&amp;rsquo;s easy to handle in real-time and, so long as the word exists in the dictionary, I tend to find what I&amp;rsquo;m looking for.&lt;/p&gt;
+&lt;p&gt;However&amp;hellip;what if I wanted the words to be truly sorted?&lt;/p&gt;
+&lt;p&gt;I ran into this predicament when I tried to sort my personal &lt;em&gt;diksionårion Chamoru&lt;/em&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; using Python. I took my entire set of words, loaded them into Python, and used their built-in &lt;code&gt;sorted()&lt;/code&gt; function to sort everything. The results were&amp;hellip;confusing at first.&lt;/p&gt;
+&lt;p&gt;Let me show you what I&amp;rsquo;m talking about - consider the following list of words:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;In [1]: chamoru_words = [
+   ...:     &amp;quot;átadok&amp;quot;,
+   ...:     &amp;quot;ågang&amp;quot;,
+   ...:     &amp;quot;ha&#39;a&amp;quot;,
+   ...:     &amp;quot;hagoi&amp;quot;,
+   ...:     &amp;quot;Håfa&amp;quot;,
+   ...:     &amp;quot;hågu&amp;quot;,
+   ...:     &amp;quot;hilu&#39;&amp;quot;,
+   ...:     &amp;quot;kantåyi&amp;quot;,
+   ...:     &amp;quot;kånta&amp;quot;,
+   ...:     &amp;quot;nubena&amp;quot;,
+   ...:     &amp;quot;ñateng&amp;quot;,
+   ...:     &amp;quot;ñålang&amp;quot;,
+   ...:     &amp;quot;ngånga&#39;&amp;quot;,
+   ...:     &amp;quot;Yu&#39;us&amp;quot;,
+   ...: ]
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;As typed out, this list is sorted in accordance with &lt;em&gt;i atfabetun Chamoru&lt;/em&gt;. There isn&amp;rsquo;t a preference here for uppercase vs lowercase; things are simply sorted alphabetically. Now let&amp;rsquo;s run &lt;code&gt;sorted()&lt;/code&gt; on it:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;In [2]: sorted(chamoru_words)
+Out[2]: [
+ &#39;Håfa&#39;,
+ &amp;quot;Yu&#39;us&amp;quot;,
+ &amp;quot;ha&#39;a&amp;quot;,
+ &#39;hagoi&#39;,
+ &amp;quot;hilu&#39;&amp;quot;,
+ &#39;hågu&#39;,
+ &#39;kantåyi&#39;,
+ &#39;kånta&#39;,
+ &amp;quot;ngånga&#39;&amp;quot;,
+ &#39;nubena&#39;,
+ &#39;átadok&#39;,
+ &#39;ågang&#39;,
+ &#39;ñateng&#39;,
+ &#39;ñålang&#39;
+ ]
+
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;The results are interesting &lt;em&gt;but also&lt;/em&gt; expected - at least for Python. While this isn&amp;rsquo;t the exact same sorting as used in the blue dictionary, it does point out a problem: we can&amp;rsquo;t rely on &amp;ldquo;standard&amp;rdquo; sorting procedures when working with Chamorro!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve been (slowly, but surely) working on fine-tuning my dictionary and have been doing everything in Python. For me, the issue arose due to how Python&amp;rsquo;s &lt;code&gt;sorted()&lt;/code&gt; function works: it uses the character&amp;rsquo;s Unicode decimal value&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;This is precisely why I created my own sorting algorithm. Let&amp;rsquo;s look at it in action:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;In [1]: from orthography_helper import chamoru_sort
+In [2]: chamoru_words = [
+   ...:     &#39;Håfa&#39;,
+   ...:     &amp;quot;Yu&#39;us&amp;quot;,
+   ...:     &amp;quot;ha&#39;a&amp;quot;,
+   ...:     &#39;hagoi&#39;,
+   ...:     &amp;quot;hilu&#39;&amp;quot;,
+   ...:     &#39;hågu&#39;,
+   ...:     &#39;kantåyi&#39;,
+   ...:     &#39;kånta&#39;,
+   ...:     &amp;quot;ngånga&#39;&amp;quot;,
+   ...:     &#39;nubena&#39;,
+   ...:     &#39;átadok&#39;,
+   ...:     &#39;ågang&#39;,
+   ...:     &#39;ñateng&#39;,
+   ...:     &#39;ñålang&#39;
+   ...: ]
+In [3]: sorted(chamoru_words, key=chamoru_sort)
+Out[3]: 
+[&#39;átadok&#39;,
+ &#39;ågang&#39;,
+ &amp;quot;ha&#39;a&amp;quot;,
+ &#39;hagoi&#39;,
+ &#39;Håfa&#39;,
+ &#39;hågu&#39;,
+ &amp;quot;hilu&#39;&amp;quot;,
+ &#39;kantåyi&#39;,
+ &#39;kånta&#39;,
+ &#39;nubena&#39;,
+ &#39;ñateng&#39;,
+ &#39;ñålang&#39;,
+ &amp;quot;ngånga&#39;&amp;quot;,
+ &amp;quot;Yu&#39;us&amp;quot;]
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Success! &lt;em&gt;Biba!&lt;/em&gt; Some things I want to point out are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Vowels and their accented counterparts hold the same value (e.g., &lt;code&gt;a&lt;/code&gt; and &lt;code&gt;á&lt;/code&gt; will get sorted equally)&lt;/li&gt;
+&lt;li&gt;Casing does not affect order&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;n&lt;/code&gt; comes before &lt;code&gt;ñ&lt;/code&gt; which comes before &lt;code&gt;ng&lt;/code&gt;. I may have to revist this one, primarily because I&amp;rsquo;m not 100% confident that all of the words in my dictionary are spelled &amp;ldquo;correctly&amp;rdquo; (e.g. I may have &lt;code&gt;mangaigi&lt;/code&gt; instead of &lt;code&gt;manggaigi&lt;/code&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I feel like I still have some work to do - it&amp;rsquo;s not as straight forward as I thought it would be! For instance: while they don&amp;rsquo;t adhere to &lt;em&gt;i atfabetun Chamoru&lt;/em&gt;, what happens with family names? While perhaps not standard, I think it makes sense to have names like &lt;em&gt;Aquiningoc&lt;/em&gt; and &lt;em&gt;Quitugua&lt;/em&gt; appear in a dictionary - especially since we can pull out the Chamorro words they&amp;rsquo;re derived from!&lt;/p&gt;
+&lt;p&gt;Hopefully someday I&amp;rsquo;ll be able to fully share my work with you all. Unfortunately I can&amp;rsquo;t make my source code public yet - as an Apple employee I can&amp;rsquo;t just push my software out there for the world to utilize. There are legal rasons for this - but that&amp;rsquo;s a topic for another day!&lt;/p&gt;
+&lt;p&gt;Ennåo ha&#39; para på&amp;rsquo;gu. Bula guinaiya! &amp;mdash; David &amp;ldquo;Dabit&amp;rdquo; Taitingfong&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Additional reading:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Python&amp;rsquo;s &lt;code&gt;ord()&lt;/code&gt;: &lt;a href=&#34;https://docs.python.org/3/library/functions.html#ord&#34;&gt;https://docs.python.org/3/library/functions.html#ord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Python&amp;rsquo;s &lt;code&gt;sorted()&lt;/code&gt; function: &lt;a href=&#34;https://docs.python.org/3/library/functions.html#sorted&#34;&gt;https://docs.python.org/3/library/functions.html#sorted&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Personal dictionary &amp;ndash; &lt;a href=&#34;https://djtai.github.io/posts/2021/09/26/mamatitinas-diksionarion-chamoru/&#34;&gt;https://djtai.github.io/posts/2021/09/26/mamatitinas-diksionarion-chamoru/&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Unicode values: &amp;ndash; &lt;a href=&#34;https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script&#34;&gt;https://en.wikipedia.org/wiki/List_of_Unicode_characters#Latin_script&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+
+    </description>
+    </item>
+    
     <item>
     <title>Manalíligåo Komunidåt</title>
     <link>https://djtai.github.io/posts/2023/05/17/manaliligao-komunidat/</link>

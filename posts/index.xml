@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Chamoru Language &amp; Technology | David Taitingfong</title>
+    <title>Posts on Dihan Dabit</title>
     <link>https://djtai.github.io/posts/</link>
-    <description>Recent content in Posts on Chamoru Language &amp; Technology | David Taitingfong</description>
+    <description>Recent content in Posts on Dihan Dabit</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 May 2023 21:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 20:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fa&#39;måmaolik i Diksionårio-ku</title>
+      <link>https://djtai.github.io/posts/2023/08/20/famamaolik-i-diksionario-ku/</link>
+      <pubDate>Sun, 20 Aug 2023 20:00:00 -0700</pubDate>
+      
+      <guid>https://djtai.github.io/posts/2023/08/20/famamaolik-i-diksionario-ku/</guid>
+      <description>Have you ever looked for a word in &amp;ldquo;The Official CHAMORRO-ENGLISH Dictionary&amp;rdquo;? If you have, perhaps you&amp;rsquo;ve noticed that the words aren&amp;rsquo;t sorted exactly according to i atfabetun Chamoru. Take for instance the following set of words pulled directly from the dictionary mentioned above
+Here we see that kamuti comes before kåmyu which comes before kana&#39;. At first glance it doesn&amp;rsquo;t seem to be an issue: &amp;ldquo;m&amp;rdquo; does come before &amp;ldquo;n&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Manalíligåo Komunidåt</title>
       <link>https://djtai.github.io/posts/2023/05/17/manaliligao-komunidat/</link>
