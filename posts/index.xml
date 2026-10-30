@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Dihan Dabit</title>
     <link>https://djtai.github.io/posts/</link>
     <description>Recent content in Posts on Dihan Dabit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 29 Dec 2023 13:15:00 -0800</lastBuildDate><atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Oct 2026 20:20:00 -0700</lastBuildDate>
+    <atom:link href="https://djtai.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hu Agonfa&#39;tinas i Huebsait-hu</title>
+      <link>https://djtai.github.io/posts/2026/hu-agonfatinas-i-huebsait-hu/</link>
+      <pubDate>Thu, 29 Oct 2026 20:20:00 -0700</pubDate>
+      <guid>https://djtai.github.io/posts/2026/hu-agonfatinas-i-huebsait-hu/</guid>
+      <description>&lt;p&gt;Kanna&amp;rsquo; maloffan tres såkkan ginen mångge&amp;rsquo; yu&amp;rsquo; guini! Anai hu atan ta&amp;rsquo;lo i huebsait-hu gi halacha, ilek-ku nu guahu:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Ei&amp;hellip;?! Méggagai maloffan ginen i ma&amp;rsquo;pos na tinige&amp;rsquo;-hu. Kao maolekña na bai fångge&amp;rsquo; ya fa&amp;rsquo;gacha&amp;rsquo;i todu nu i finaloffån-hu siha? 🤔 &amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&amp;hellip;lao anai sigi hu atan i pagu-ña – &lt;em&gt;i pusision-ña&lt;/em&gt; – hu lipåra na ti ya-hu. Pues hu hassuyi i håfa malago&amp;rsquo;-hu yan ini na fina&amp;rsquo;tinås-hu ya&amp;hellip;hu agonfa&amp;rsquo;tinas i &amp;ldquo;blog&amp;rdquo;! Lao bei sangåni hao: mappot nai! Sa&amp;rsquo; åpmam maloffan ginen hu atan in 😵‍💫.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

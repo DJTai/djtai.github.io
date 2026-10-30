@@ -1,65 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Dihan Dabit</title>
     <link>https://djtai.github.io/tags/</link>
     <description>Recent content in Tags on Dihan Dabit</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 20:00:00 -0700</lastBuildDate><atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>kod</title>
-      <link>https://djtai.github.io/tags/kod/</link>
-      <pubDate>Sun, 20 Aug 2023 20:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/kod/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nina&#39;huyung</title>
-      <link>https://djtai.github.io/tags/ninahuyung/</link>
-      <pubDate>Sun, 20 Aug 2023 20:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/ninahuyung/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lina&#39;la&#39;</title>
-      <link>https://djtai.github.io/tags/linala/</link>
-      <pubDate>Wed, 17 May 2023 21:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/linala/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>todu chamoru</title>
-      <link>https://djtai.github.io/tags/todu-chamoru/</link>
-      <pubDate>Wed, 17 May 2023 21:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/todu-chamoru/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fina&#39;tinas</title>
-      <link>https://djtai.github.io/tags/finatinas/</link>
-      <pubDate>Thu, 13 Jan 2022 20:00:00 -0800</pubDate>
-      
-      <guid>https://djtai.github.io/tags/finatinas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>leksion chamoru</title>
-      <link>https://djtai.github.io/tags/leksion-chamoru/</link>
-      <pubDate>Sun, 13 Dec 2020 13:00:00 -0700</pubDate>
-      
-      <guid>https://djtai.github.io/tags/leksion-chamoru/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://djtai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
