@@ -1,17 +1,3 @@
-
 User-agent: *
-
-
-Disallow: /categories/
-
-Disallow: /tags/
-
-Disallow: /posts/
-
-Disallow: /about/
-
-Disallow: /guinaha/
-
-Disallow: /support/
-
-Disallow: /todu/
+Disallow:
+Sitemap: https://djtai.github.io/sitemap.xml
